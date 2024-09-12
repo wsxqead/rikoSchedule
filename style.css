@@ -68,6 +68,7 @@ body {
   text-align: center;
   appearance: none; /* 기본 화살표 제거 */
   position: relative;
+  height: 40px;
 }
 
 /* 셀렉트 박스 호버 및 포커스 스타일 */
@@ -130,7 +131,7 @@ body {
   margin-top: 20px;
   padding: 10px 20px;
   background-color: #96f8a3;
-  color: white;
+  color: #000000;
   border: none;
   border-radius: 8px;
   font-size: 1rem;
