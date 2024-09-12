@@ -298,6 +298,56 @@ blockquote {
   padding-left: 10px;
 }
 
+/* 슬라이더 컨테이너 */
+.slider {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+/* 슬라이드 이미지 래퍼 */
+.slider-wrapper {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+/* 슬라이드 이미지 */
+.slide {
+  min-width: 100%;
+  display: none;
+}
+
+.slide.active {
+  display: block;
+}
+
+/* 슬라이드 버튼 (좌우 이동 버튼) */
+.slider-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.slider-btn.prev {
+  left: 0;
+}
+
+.slider-btn.next {
+  right: 0;
+}
+
+.slider-btn:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
 /* 반응형 디자인 */
 @media screen and (max-width: 768px) {
   .calendar-cell {

@@ -187,7 +187,7 @@ function applyScheduleData(data) {
   });
 }
 
-// 팝업 열기
+// 팝업 열기 함수 수정
 function openPopup(event) {
   const popup = document.getElementById("popup");
   const eventTitle = document.getElementById("event-title");
@@ -196,18 +196,73 @@ function openPopup(event) {
 
   // 팝업 데이터 설정
   eventTitle.textContent = event.holiday ? "휴방" : event.event;
-  eventQuote.textContent = event.holiday
-    ? "오늘은 휴방입니다. 다음 방송에서 만나요!"
-    : event.quote;
 
-  // 이미지 처리
+  // 휴방일이라도 quote가 있으면 표시
+  if (event.quote && event.quote !== "") {
+    eventQuote.textContent = event.quote;
+  } else {
+    eventQuote.textContent = event.holiday
+      ? "오늘은 휴방입니다. 다음 방송에서 만나요!"
+      : event.quote;
+  }
+
+  // 이미지 슬라이드 처리
   eventImages.innerHTML = ""; // 기존 이미지 초기화
   const images = event.holiday ? [holidayImage] : event.additionalImages; // 휴방일에는 휴방 이미지만 표시
-  images.forEach((imgSrc) => {
-    const img = document.createElement("img");
-    img.src = imgSrc;
-    eventImages.appendChild(img);
-  });
+
+  if (images.length > 0) {
+    const sliderContainer = document.createElement("div");
+    sliderContainer.classList.add("slider");
+
+    const prevButton = document.createElement("button");
+    prevButton.textContent = "◀";
+    prevButton.classList.add("slider-btn", "prev");
+
+    const nextButton = document.createElement("button");
+    nextButton.textContent = "▶";
+    nextButton.classList.add("slider-btn", "next");
+
+    const sliderWrapper = document.createElement("div");
+    sliderWrapper.classList.add("slider-wrapper");
+
+    images.forEach((imgSrc, index) => {
+      const img = document.createElement("img");
+      img.src = imgSrc;
+      img.classList.add("slide");
+      if (index === 0) {
+        img.classList.add("active"); // 첫 번째 이미지를 기본으로 표시
+      }
+      sliderWrapper.appendChild(img);
+    });
+
+    sliderContainer.appendChild(prevButton);
+    sliderContainer.appendChild(sliderWrapper);
+    sliderContainer.appendChild(nextButton);
+    eventImages.appendChild(sliderContainer);
+
+    // 슬라이더 동작 로직
+    let currentIndex = 0;
+    const slides = sliderWrapper.querySelectorAll(".slide");
+
+    function showSlide(index) {
+      slides.forEach((slide, i) => {
+        slide.classList.remove("active");
+        if (i === index) {
+          slide.classList.add("active");
+        }
+      });
+    }
+
+    prevButton.addEventListener("click", () => {
+      currentIndex = (currentIndex > 0) ? currentIndex - 1 : slides.length - 1;
+      showSlide(currentIndex);
+    });
+
+    nextButton.addEventListener("click", () => {
+      currentIndex = (currentIndex < slides.length - 1) ? currentIndex + 1 : 0;
+      showSlide(currentIndex);
+    });
+  }
 
   popup.style.display = "flex"; // 팝업 열기
 }
