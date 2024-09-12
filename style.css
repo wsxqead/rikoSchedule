@@ -213,6 +213,14 @@ body {
   background-color: #e6f0ff; /* 배경색 설정 */
 }
 
+.calendar-days.sunday {
+  color: red; /* 일요일 스타일 */
+}
+
+.calendar-days.saturday {
+  color: blue; /* 일요일 스타일 */
+}
+
 /* 연휴 스타일 */
 .holiday {
   background-color: #ededed; /* 노란색 배경 */
