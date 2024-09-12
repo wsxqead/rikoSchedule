@@ -179,9 +179,9 @@ document.getElementById("save-btn").addEventListener("click", () => {
 // 초기 로드 시 기본 설정
 document.addEventListener("DOMContentLoaded", function () {
   document.getElementById("current-year").textContent = currentYear;
-  updateCalendarHeader("may"); // 기본적으로 5월부터 표시
+  updateCalendarHeader("sep"); // 기본적으로 9월부터 표시
   loadScheduleData(); // 일정 데이터 로드
-  showMonth("may");
+  showMonth("sep");
 });
 
 // 월별 달력 표시 함수
