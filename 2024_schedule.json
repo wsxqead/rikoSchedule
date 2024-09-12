@@ -123,6 +123,17 @@
       "image": "images/holiday_image.png"
     },
     {
+      "day": 2,
+      "event": "60초",
+      "quote": "",
+      "image": "images/2024/event_image_09_1.png",
+      "additionalImages": [
+        "images/2024/event_image_09_2.png",
+        "images/2024/event_image_09_3.jpg",
+        "images/2024/event_image_09_4.png"
+      ]
+    },
+    {
       "day": 5,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
