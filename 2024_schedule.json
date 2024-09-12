@@ -5,6 +5,13 @@
       "event": "첫 커버곡 용사 공개!",
       "quote": "",
       "image": "images/2024/event_image_1.png",
+      "additionalImages": ["images/2024/event_image_1.png"]
+    },
+    {
+      "day": 19,
+      "event": "리코의 데뷔!",
+      "quote": "",
+      "image": "",
       "additionalImages": []
     }
   ]

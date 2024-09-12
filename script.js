@@ -88,7 +88,12 @@ function applyScheduleData(data) {
     for (let day = 1; day <= daysInMonth; day++) {
       const dayCell = document.createElement("div");
       dayCell.classList.add("calendar-cell");
-      dayCell.innerText = day; // 기본적으로 날짜만 표시
+
+      // 날짜 텍스트 오버레이 추가
+      const dateOverlay = document.createElement("div");
+      dateOverlay.classList.add("date-overlay");
+      dateOverlay.textContent = day;
+      dayCell.appendChild(dateOverlay);
 
       // 요일 계산 (0: 일요일, 6: 토요일)
       const dayOfWeek = (firstDayOfMonth + day - 1) % 7;
@@ -103,14 +108,14 @@ function applyScheduleData(data) {
       const event = monthData.find((event) => event.day === day);
 
       if (event) {
-        // 휴방 여부에 따른 이미지 처리
-        if (event.holiday) {
-          dayCell.innerHTML = `<img src="${holidayImage}" alt="Holiday Image"><p>휴방</p>`;
-        } else {
-          dayCell.innerHTML = `<img src="${event.image}" alt="Event Image"><p>${event.event}</p>`;
+        // 이미지가 있는 경우 배경 이미지 설정
+        if (event.image) {
+          dayCell.style.backgroundImage = `url(${event.image})`;
+          dayCell.style.backgroundSize = "cover"; // 이미지를 덮어 씌움
+          dayCell.style.backgroundPosition = "center";
         }
 
-        // 팝업 이벤트 연결
+        // 팝업 이벤트 연결 (텍스트는 팝업에서만 표시)
         dayCell.addEventListener("click", () => {
           openPopup(event);
         });

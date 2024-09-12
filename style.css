@@ -111,18 +111,32 @@ body {
 .calendar-cell {
   border: 1px solid #ddd;
   background-color: #fff;
-  padding: 5px;
-  font-size: 1rem;
+  position: relative; /* 날짜 오버레이를 위한 위치 설정 */
+  padding: 0;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   display: flex;
-  flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: flex-end; /* 날짜 텍스트를 하단에 배치 */
   cursor: pointer;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  overflow: hidden; /* 내용이 넘칠 경우 숨김 */
-  min-width: 100px; /* 셀의 최소 너비 설정 */
+  overflow: hidden;
+  min-width: 100px;
+  height: 100%; /* 높이를 일정하게 유지 */
+  background-size: cover; /* 배경 이미지가 덮어지도록 */
+  background-position: center;
+}
+
+/* 날짜 텍스트 오버레이 */
+.calendar-cell .date-overlay {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  color: white; /* 날짜 텍스트를 흰색으로 표시 */
+  background-color: rgba(0, 0, 0, 0.5); /* 반투명 검은 배경 */
+  padding: 2px 5px;
+  border-radius: 3px;
+  font-size: 0.8rem;
+  z-index: 1; /* 이미지 위에 표시 */
 }
 
 /* 요일별 스타일 (일요일, 토요일 강조) */
