@@ -13,17 +13,20 @@ body {
 #calendar-year,
 #calendar-month {
   font-size: 2rem;
-  color: #007bff;
+  color: #a6d0a6;
   font-weight: bold;
   text-align: center;
 }
 
-/* 달력 그리드 스타일 */
-#calendar-container {
-  display: flex;
-  justify-content: center;
-  margin-top: 20px;
+/* 달력 컨테이너에 배경색 추가 */
+.calendar-container {
+  background-color: #ffffff; /* 흰색 배경 추가 */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 약간의 그림자 추가 */
   width: 100%;
+  max-width: 1200px; /* 최대 너비 설정 */
+  margin: 0 auto; /* 가로 가운데 정렬 */
 }
 
 #calendar-header {
@@ -34,6 +37,51 @@ body {
   font-size: 2rem;
   font-weight: bold;
   color: #333;
+}
+
+#calendar-year,
+#calendar-month {
+  font-size: 2rem;
+  color: #a6d0a6;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* 셀렉트 박스 스타일 */
+#year-month-selector {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+#year-month-select {
+  padding: 10px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 30px;
+  background-color: #a6d0a6; /* 배경색을 파란색으로 */
+  color: #fff; /* 텍스트를 흰색으로 */
+  cursor: pointer;
+  outline: none;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  width: 250px; /* 셀렉트 박스 너비 */
+  text-align: center;
+  appearance: none; /* 기본 화살표 제거 */
+  position: relative;
+}
+
+/* 셀렉트 박스 호버 및 포커스 스타일 */
+#year-month-select:hover {
+  background-color: #039203;
+}
+
+#year-month-select:focus {
+  box-shadow: 0 0 10px #256125; /* 포커스 시 그림자 */
+}
+
+/* 셀렉트 박스 활성 상태 */
+#year-month-select:active {
+  background-color: #039203;
 }
 
 /* 요일 헤더 스타일 */
@@ -61,7 +109,7 @@ body {
 
 .nav-btn,
 .month-btn {
-  background-color: #007bff;
+  background-color: #a6d0a6;
   color: white;
   border: none;
   border-radius: 5px;
@@ -74,7 +122,7 @@ body {
 
 .nav-btn:hover,
 .month-btn:hover {
-  background-color: #0056b3;
+  background-color: #a6d0a6;
 }
 
 /* 이미지 저장 버튼 */
@@ -263,6 +311,10 @@ blockquote {
   #calendar-month {
     font-size: 1.5rem;
   }
+
+  #year-month-select {
+    width: 200px; /* 모바일에서 셀렉트 박스 크기 조정 */
+  }
 }
 
 @media screen and (max-width: 480px) {
@@ -285,5 +337,9 @@ blockquote {
   #calendar-year,
   #calendar-month {
     font-size: 1.2rem;
+  }
+
+  #year-month-select {
+    width: 180px; /* 더 작은 화면에서 크기 조정 */
   }
 }

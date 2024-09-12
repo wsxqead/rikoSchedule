@@ -30,20 +30,11 @@
   </head>
   <body>
     <div class="calendar-container">
-      <!-- 연도 선택 버튼 -->
-      <div id="year-selector">
-        <!-- <button class="nav-btn" onclick="changeYear(-1)">Previous Year</button> -->
-        <span id="current-year"></span>
-        <!-- <button class="nav-btn" onclick="changeYear(1)">Next Year</button> -->
-      </div>
-
-      <!-- 월 선택 버튼 -->
-      <div id="months">
-        <button class="month-btn" onclick="showMonth('may')">5월</button>
-        <button class="month-btn" onclick="showMonth('jun')">6월</button>
-        <button class="month-btn" onclick="showMonth('jul')">7월</button>
-        <button class="month-btn" onclick="showMonth('aug')">8월</button>
-        <button class="month-btn" onclick="showMonth('sep')">9월</button>
+      <!-- 연도 및 월 선택 박스 -->
+      <div id="year-month-selector">
+        <select id="year-month-select" onchange="changeYearMonth(this.value)">
+          <!-- 연도 및 월 옵션은 JavaScript에서 추가 -->
+        </select>
       </div>
 
       <!-- 연도와 월 표시 -->

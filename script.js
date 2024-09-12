@@ -16,6 +16,17 @@ function changeYear(direction) {
   loadScheduleData(); // 연도 변경 시 데이터 로드
 }
 
+// 연도와 월을 함께 변경하는 함수
+function changeYearMonth(selectedValue) {
+  const [year, month] = selectedValue.split("-");
+  currentYear = parseInt(year, 10); // 연도 업데이트
+  currentMonth = month; // 월 업데이트
+  document.getElementById("calendar-year").textContent = currentYear + "년";
+  updateCalendarHeader(currentMonth);
+  showMonth(currentMonth);
+  loadScheduleData(); // 선택된 연도에 맞는 데이터 로드
+}
+
 // 연도와 월 정보 업데이트 함수
 function updateCalendarHeader(monthId) {
   const monthNames = {
@@ -25,8 +36,49 @@ function updateCalendarHeader(monthId) {
     aug: "8월",
     sep: "9월",
   };
-  document.getElementById("calendar-year").textContent = currentYear + "년";
-  document.getElementById("calendar-month").textContent = monthNames[monthId]; // 숫자+월로 변환
+  document.getElementById("calendar-month").textContent = monthNames[monthId];
+}
+
+// // 연도와 월 정보 업데이트 함수
+// function updateCalendarHeader(monthId) {
+//   const monthNames = {
+//     may: "5월",
+//     jun: "6월",
+//     jul: "7월",
+//     aug: "8월",
+//     sep: "9월",
+//   };
+//   document.getElementById("calendar-year").textContent = currentYear + "년";
+//   document.getElementById("calendar-month").textContent = monthNames[monthId]; // 숫자+월로 변환
+// }
+
+// 초기화 함수 (연도 및 월 셀렉트 박스 설정)
+function initializeSelectors() {
+  const yearMonthSelect = document.getElementById("year-month-select");
+  const currentYear = new Date().getFullYear();
+
+  const availableMonths = [
+    { year: 2024, month: "may", label: "2024년 5월" },
+    { year: 2024, month: "jun", label: "2024년 6월" },
+    { year: 2024, month: "jul", label: "2024년 7월" },
+    { year: 2024, month: "aug", label: "2024년 8월" },
+    { year: 2024, month: "sep", label: "2024년 9월" },
+  ];
+
+  // 셀렉트 박스에 연도와 월 추가
+  availableMonths.forEach(({ year, month, label }) => {
+    const option = document.createElement("option");
+    option.value = `${year}-${month}`;
+    option.textContent = label;
+    yearMonthSelect.appendChild(option);
+  });
+
+  // 현재 연도와 월을 기본값으로 선택
+  const defaultValue = `${currentYear}-${currentMonth}`;
+  yearMonthSelect.value = defaultValue;
+
+  updateCalendarHeader(currentMonth);
+  showMonth(currentMonth);
 }
 
 // 연도에 맞는 JSON 데이터 불러오기
@@ -173,11 +225,14 @@ window.addEventListener("click", (event) => {
   }
 });
 
-// 현재 보이는 달력 이미지를 저장하는 함수
 document.getElementById("save-btn").addEventListener("click", () => {
   const calendarContainer = document.querySelector(".calendar-container");
 
-  html2canvas(calendarContainer).then((canvas) => {
+  html2canvas(calendarContainer, {
+    scale: 2, // 고해상도 캡처를 위해 배율을 높임
+    useCORS: true, // CORS 문제 방지
+    backgroundColor: "#ffffff" // 배경색을 흰색으로 설정
+  }).then((canvas) => {
     const link = document.createElement("a");
     link.href = canvas.toDataURL("image/png");
     link.download = `${currentYear}-${currentMonth}-Calendar.png`; // 파일 이름을 현재 연도와 월로 설정
@@ -187,13 +242,12 @@ document.getElementById("save-btn").addEventListener("click", () => {
 
 // 초기 로드 시 기본 설정
 document.addEventListener("DOMContentLoaded", function () {
-  document.getElementById("current-year").textContent = currentYear;
-  updateCalendarHeader("sep"); // 기본적으로 9월부터 표시
+  document.getElementById("calendar-year").textContent = currentYear + "년";
+  initializeSelectors(); // 초기화 함수 실행
   loadScheduleData(); // 일정 데이터 로드
-  showMonth("sep");
 });
 
-// 월별 달력 표시 함수
+// 달력 표시 함수 (기존 로직 유지)
 function showMonth(monthId) {
   currentMonth = monthId;
   updateCalendarHeader(monthId); // 월 정보 업데이트
