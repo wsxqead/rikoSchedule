@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Riko Fan Calendar</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  </head>
+  <body>
+    <div class="calendar-container">
+      <!-- 연도 선택 버튼 -->
+      <div id="year-selector">
+        <!-- <button class="nav-btn" onclick="changeYear(-1)">Previous Year</button> -->
+        <span id="current-year"></span>
+        <!-- <button class="nav-btn" onclick="changeYear(1)">Next Year</button> -->
+      </div>
+
+      <!-- 월 선택 버튼 -->
+      <div id="months">
+        <button class="month-btn" onclick="showMonth('may')">5월</button>
+        <button class="month-btn" onclick="showMonth('jun')">6월</button>
+        <button class="month-btn" onclick="showMonth('jul')">7월</button>
+        <button class="month-btn" onclick="showMonth('aug')">8월</button>
+        <button class="month-btn" onclick="showMonth('sep')">9월</button>
+      </div>
+
+      <!-- 연도와 월 표시 -->
+      <div id="calendar-header">
+        <span id="calendar-year"></span>
+        <span id="calendar-month"></span>
+      </div>
+
+      <!-- 요일 헤더 추가 -->
+      <div class="calendar-days">
+        <div class="day-label">SUN</div>
+        <div class="day-label">MON</div>
+        <div class="day-label">TUE</div>
+        <div class="day-label">WED</div>
+        <div class="day-label">THU</div>
+        <div class="day-label">FRI</div>
+        <div class="day-label">SAT</div>
+      </div>
+
+      <!-- 달력 컨테이너 -->
+      <div id="calendar-container">
+        <div id="may" class="month"></div>
+        <div id="jun" class="month"></div>
+        <div id="jul" class="month"></div>
+        <div id="aug" class="month"></div>
+        <div id="sep" class="month"></div>
+        <div id="oct" class="month"></div>
+      </div>
+
+      <!-- 이미지 저장 버튼 -->
+      <button id="save-btn" class="action-btn">Save Calendar as Image</button>
+    </div>
+
+    <!-- 팝업(모달 창) -->
+    <div id="popup" class="popup">
+      <div class="popup-content">
+        <span class="close">&times;</span>
+        <h2 id="event-title"></h2>
+        <div id="event-images"></div>
+        <blockquote id="event-quote"></blockquote>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
