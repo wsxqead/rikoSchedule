@@ -168,14 +168,100 @@
       "image": "images/holiday_image.png"
     },
     {
+      "day": 6,
+      "event": "서울역 & 51가지 게임",
+      "quote": "",
+      "image": "images/2024/event_image_09_4.png",
+      "additionalImages": [
+        "images/2024/event_image_09_4_1.png",
+        "images/2024/event_image_09_4_2.png",
+        "images/2024/event_image_09_4_3.png",
+        "images/2024/event_image_09_4_4.png",
+        "images/2024/event_image_09_4_5.png",
+        "images/2024/event_image_09_4_6.png",
+        "images/2024/event_image_09_4_7.png"
+      ]
+    },
+    {
       "day": 7,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
+      "event": "캐치 티니핑 티니핑 맞추기",
+      "quote": "",
+      "image": "images/2024/event_image_09_5.png",
+      "additionalImages": [
+        "images/2024/event_image_09_5.png",
+        "images/2024/event_image_09_5_1.png",
+        "images/2024/event_image_09_5_2.png",
+        "images/2024/event_image_09_5_3.png"
+      ]
+    },
+    {
+      "day": 8,
+      "event": "모여봐요 동물의 숲 1일차!",
+      "quote": "",
+      "image": "images/2024/event_image_09_6.png",
+      "additionalImages": [
+        "images/2024/event_image_09_6.png",
+        "images/2024/event_image_09_6_1.png",
+        "images/2024/event_image_09_6_2.png",
+        "images/2024/event_image_09_6_3.png",
+        "images/2024/event_image_09_6_4.png",
+        "images/2024/event_image_09_6_5.png",
+        "images/2024/event_image_09_6_6.png",
+        "images/2024/event_image_09_6_7.png",
+        "images/2024/event_image_09_6_8.png"
+      ]
+    },
+    {
+      "day": 9,
+      "event": "모여봐요 동물의 숲 2일차!",
+      "quote": "",
+      "image": "images/2024/event_image_09_7.png",
+      "additionalImages": [
+        "images/2024/event_image_09_7_1.png",
+        "images/2024/event_image_09_7_2.png",
+        "images/2024/event_image_09_7_3.png",
+        "images/2024/event_image_09_7_4.png",
+        "images/2024/event_image_09_7_5.png",
+        "images/2024/event_image_09_7_6.png",
+        "images/2024/event_image_09_7_7.png",
+        "images/2024/event_image_09_7_8.png"
+      ]
     },
     {
       "day": 10,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 11,
+      "event": "스텔고사 & 검을 뽑는 자 왕이 되리라",
+      "quote": "",
+      "image": "images/2024/event_image_09_8.png",
+      "additionalImages": [
+        "images/2024/event_image_09_8.png",
+        "images/2024/event_image_09_8_1.png",
+        "images/2024/event_image_09_8_2.png",
+        "images/2024/event_image_09_8_3.png",
+        "images/2024/event_image_09_8_4.jpg"
+      ]
+    },
+    {
+      "day": 12,
+      "event": "갤럭시 버거 & 모여봐요 동물의 숲 3일차!",
+      "quote": "",
+      "image": "images/2024/event_image_09_9.png",
+      "additionalImages": [
+        "images/2024/event_image_09_9_1.jpg",
+        "images/2024/event_image_09_9_2.jpg",
+        "images/2024/event_image_09_9_3.png",
+        "images/2024/event_image_09_9_4.png",
+        "images/2024/event_image_09_9_5.png",
+        "images/2024/event_image_09_9_6.png",
+        "images/2024/event_image_09_9_7.png",
+        "images/2024/event_image_09_9_8.png",
+        "images/2024/event_image_09_9_9.png",
+        "images/2024/event_image_09_9_10.png"
+      ]
     },
     {
       "day": 13,
