@@ -17,6 +17,36 @@
   ],
   "sep": [
     {
+      "day": 1,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 5,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 7,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 10,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 13,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 14,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
       "day": 17,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
