@@ -2,6 +2,12 @@ let currentYear = new Date().getFullYear(); // 현재 연도 자동으로 설정
 let currentMonth = "may"; // 기본적으로 5월을 표시
 const holidayImage = "images/holiday_image.jpg"; // 휴방일 이미지 설정
 
+const holidays = {
+  "2024-09-17": "추석 연휴",
+  "2024-09-18": "추석 연휴",
+  "2024-09-19": "추석 연휴",
+};
+
 // 연도 변경 함수
 function changeYear(direction) {
   currentYear += direction;
@@ -64,7 +70,6 @@ function applyScheduleData(data) {
       0
     ).getDate(); // 각 달의 일수 계산
 
-    console.log("daysInMonth", daysInMonth);
     // 해당 월의 첫 번째 날짜 요일 계산
     const firstDayOfMonth = new Date(
       currentYear,
@@ -84,6 +89,14 @@ function applyScheduleData(data) {
       const dayCell = document.createElement("div");
       dayCell.classList.add("calendar-cell");
       dayCell.innerText = day; // 기본적으로 날짜만 표시
+
+      // 요일 계산 (0: 일요일, 6: 토요일)
+      const dayOfWeek = (firstDayOfMonth + day - 1) % 7;
+      if (dayOfWeek === 0) {
+        dayCell.classList.add("sunday"); // 일요일 스타일 추가
+      } else if (dayOfWeek === 6) {
+        dayCell.classList.add("saturday"); // 토요일 스타일 추가
+      }
 
       // 일정 데이터가 있는지 확인
       const monthData = data[monthContainer.id] || [];

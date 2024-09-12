@@ -125,6 +125,25 @@ body {
   min-width: 100px; /* 셀의 최소 너비 설정 */
 }
 
+/* 요일별 스타일 (일요일, 토요일 강조) */
+.calendar-cell.sunday {
+  color: red; /* 일요일 스타일 */
+  background-color: #ffe6e6; /* 배경색 설정 */
+}
+
+.calendar-cell.saturday {
+  color: blue; /* 토요일 스타일 */
+  background-color: #e6f0ff; /* 배경색 설정 */
+}
+
+/* 연휴 스타일 */
+.holiday {
+  background-color: #ffeb3b; /* 노란색 배경 */
+  color: #d84315; /* 주황색 글씨 */
+  font-weight: bold;
+  border: 2px solid #d84315; /* 테두리 */
+}
+
 .calendar-cell img {
   max-width: 50px;
   margin-top: 5px;
