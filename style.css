@@ -72,7 +72,7 @@ body {
 
 /* 셀렉트 박스 호버 및 포커스 스타일 */
 #year-month-select:hover {
-  background-color: #039203;
+  background-color: #81d781;
 }
 
 #year-month-select:focus {
@@ -81,7 +81,7 @@ body {
 
 /* 셀렉트 박스 활성 상태 */
 #year-month-select:active {
-  background-color: #039203;
+  background-color: #81d781;
 }
 
 /* 요일 헤더 스타일 */
@@ -129,7 +129,7 @@ body {
 .action-btn {
   margin-top: 20px;
   padding: 10px 20px;
-  background-color: #17a2b8;
+  background-color: #96f8a3;
   color: white;
   border: none;
   border-radius: 8px;
@@ -139,7 +139,7 @@ body {
 }
 
 .action-btn:hover {
-  background-color: #138496;
+  background-color: #45ca39;
 }
 
 /* 달력 그리드 */
