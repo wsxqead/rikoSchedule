@@ -10,9 +10,22 @@
     {
       "day": 19,
       "event": "리코의 데뷔!",
-      "quote": "",
-      "image": "",
-      "additionalImages": []
+      "quote": "리코의 데뷔 & 클리셰합방 너의 본성이 보여",
+      "image": "images/2024/event_image_05_2.png",
+      "additionalImages": [
+        "images/2024/event_image_05_2.png",
+        "images/2024/event_image_05_2_1.png"
+      ]
+    },
+    {
+      "day": 20,
+      "event": "신칸센 0호",
+      "quote": "팬네임 정하기 & 신칸센 0호",
+      "image": "images/2024/event_image_05_3.png",
+      "additionalImages": [
+        "images/2024/event_image_05_3_1.png",
+        "images/2024/event_image_05_3_2.png"
+      ]
     },
     {
       "day": 27,

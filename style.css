@@ -270,7 +270,7 @@ body {
   background-color: white;
   padding: 20px;
   border-radius: 10px;
-  max-width: 500px;
+  max-width: 600px;
   width: 90%;
   text-align: center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -302,7 +302,7 @@ blockquote {
 .slider {
   position: relative;
   width: 100%;
-  max-width: 400px;
+  max-width: 600px;
   overflow: hidden;
   margin: 0 auto;
 }
