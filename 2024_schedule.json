@@ -124,18 +124,47 @@
     },
     {
       "day": 2,
-      "event": "60초",
+      "event": "60 Seconds!",
       "quote": "",
       "image": "images/2024/event_image_09_1.png",
       "additionalImages": [
-        "images/2024/event_image_09_2.png",
-        "images/2024/event_image_09_3.jpg",
-        "images/2024/event_image_09_4.png"
+        "images/2024/event_image_09_1_1.png",
+        "images/2024/event_image_09_1_2.jpg",
+        "images/2024/event_image_09_1_3.png"
+      ]
+    },
+    {
+      "day": 3,
+      "event": "파스파투2",
+      "quote": "스텔라이브 맴버 그리기",
+      "image": "images/2024/event_image_09_2.png",
+      "additionalImages": [
+        "images/2024/event_image_09_2_1.png",
+        "images/2024/event_image_09_2_2.png",
+        "images/2024/event_image_09_2_3.png",
+        "images/2024/event_image_09_2_4.png",
+        "images/2024/event_image_09_2_5.png",
+        "images/2024/event_image_09_2_6.png",
+        "images/2024/event_image_09_2.png"
+      ]
+    },
+    {
+      "day": 4,
+      "event": "La Madriguera & slither",
+      "quote": "곰게임과 지렁이게임",
+      "image": "images/2024/event_image_09_3.png",
+      "additionalImages": [
+        "images/2024/event_image_09_3_1.png",
+        "images/2024/event_image_09_3_2.png",
+        "images/2024/event_image_09_3_3.png",
+        "images/2024/event_image_09_3_4.png",
+        "images/2024/event_image_09_3_5.jpg"
       ]
     },
     {
       "day": 5,
       "holiday": "휴방",
+      "quote": "너에게 닿기를 스페 상영회",
       "image": "images/holiday_image.png"
     },
     {
