@@ -138,6 +138,22 @@ body {
   z-index: 1; /* 이미지 위에 표시 */
 }
 
+/* 추석 연휴 스타일 */
+.calendar-cell.holiday {
+  background-color: #ffd700; /* 금색 배경 */
+  color: #fff; /* 흰색 텍스트 */
+  background-image: url("images/chuseok_icon.png"); /* 추석 아이콘 이미지 (선택 사항) */
+  background-size: 50px 50px; /* 아이콘 크기 */
+  background-position: center; /* 가운데 배치 */
+  background-repeat: no-repeat; /* 반복 금지 */
+}
+
+/* 연휴 날짜 텍스트 */
+.calendar-cell.holiday .date-overlay {
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.5); /* 반투명 검은색 배경 */
+}
+
 /* 요일별 스타일 (일요일, 토요일 강조) */
 .calendar-cell.sunday {
   color: red; /* 일요일 스타일 */

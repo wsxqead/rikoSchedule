@@ -103,6 +103,15 @@ function applyScheduleData(data) {
         dayCell.classList.add("saturday"); // 토요일 스타일 추가
       }
 
+      // 추석 연휴 확인
+      const currentDate = `${currentYear}-${String(
+        monthContainer.idToMonthIndex()
+      ).padStart(2, "0")}-${String(day).padStart(2, "0")}`;
+      if (holidays[currentDate]) {
+        dayCell.classList.add("holiday"); // 추석 연휴 스타일 추가
+        dayCell.title = holidays[currentDate]; // 추석 연휴 설명 추가 (툴팁)
+      }
+
       // 일정 데이터가 있는지 확인
       const monthData = data[monthContainer.id] || [];
       const event = monthData.find((event) => event.day === day);
