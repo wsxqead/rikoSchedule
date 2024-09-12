@@ -140,7 +140,7 @@ body {
 
 /* 추석 연휴 스타일 */
 .calendar-cell.holiday {
-  background-color: #ffd700; /* 금색 배경 */
+  background-color: #ededed; /* 금색 배경 */
   color: #fff; /* 흰색 텍스트 */
   background-image: url("images/chuseok_icon.png"); /* 추석 아이콘 이미지 (선택 사항) */
   background-size: 50px 50px; /* 아이콘 크기 */
@@ -167,7 +167,7 @@ body {
 
 /* 연휴 스타일 */
 .holiday {
-  background-color: #ffeb3b; /* 노란색 배경 */
+  background-color: #ededed; /* 노란색 배경 */
   color: #d84315; /* 주황색 글씨 */
   font-weight: bold;
   border: 2px solid #d84315; /* 테두리 */
