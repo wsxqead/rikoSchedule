@@ -14,6 +14,7 @@
       "image": "images/2024/event_image_05_2.png",
       "additionalImages": [
         "images/2024/event_image_05_2.png",
+        "images/2024/event_image_05_2_0.png",
         "images/2024/event_image_05_2_1.png"
       ]
     },
@@ -24,7 +25,87 @@
       "image": "images/2024/event_image_05_3.png",
       "additionalImages": [
         "images/2024/event_image_05_3_1.png",
-        "images/2024/event_image_05_3_2.png"
+        "images/2024/event_image_05_3_2.png",
+        "images/2024/event_image_05_3.png"
+      ]
+    },
+    {
+      "day": 21,
+      "event": "벅샷 룰렛!",
+      "quote": "",
+      "image": "images/2024/event_image_05_4.png",
+      "additionalImages": [
+        "images/2024/event_image_05_4.png",
+        "images/2024/event_image_05_4_1.png",
+        "images/2024/event_image_05_4_2.png",
+        "images/2024/event_image_05_4_3.png",
+        "images/2024/event_image_05_4_4.png"
+      ]
+    },
+    {
+      "day": 22,
+      "event": "쯔쿠르게임",
+      "quote": "스포일러가 너무 심한 RPG ―마지막 적의 정체는 용사의 아버지―",
+      "image": "images/2024/event_image_05_5.png",
+      "additionalImages": [
+        "images/2024/event_image_05_5.png",
+        "images/2024/event_image_05_5_1.png",
+        "images/2024/event_image_05_5_2.png",
+        "images/2024/event_image_05_5_3.png"
+      ]
+    },
+    {
+      "day": 23,
+      "event": "노래 방송",
+      "quote": "",
+      "image": "images/2024/event_image_05_6.png",
+      "additionalImages": [
+        "images/2024/event_image_05_6.png",
+        "images/2024/event_image_05_6_1.png",
+        "images/2024/event_image_05_6_2.png"
+      ]
+    },
+    {
+      "day": 24,
+      "event": "헤드뱅어즈: 리듬 로열",
+      "quote": "Headbangers: Rhythm Royale",
+      "image": "images/2024/event_image_05_7.png",
+      "additionalImages": [
+        "images/2024/event_image_05_7.png",
+        "images/2024/event_image_05_7_1.png",
+        "images/2024/event_image_05_7_2.png",
+        "images/2024/event_image_05_7_3.png",
+        "images/2024/event_image_05_7_4.png",
+        "images/2024/event_image_05_7_5.png"
+      ]
+    },
+    {
+      "day": 25,
+      "event": "합방 싱크룸 & IQ 테스트",
+      "quote": "",
+      "image": "images/2024/event_image_05_8.png",
+      "additionalImages": [
+        "images/2024/event_image_05_8.png",
+        "images/2024/event_image_05_8_1.png",
+        "images/2024/event_image_05_8_2.png",
+        "images/2024/event_image_05_8_3.png",
+        "images/2024/event_image_05_8_4.png",
+        "images/2024/event_image_05_8_5.png"
+      ]
+    },
+    {
+      "day": 26,
+      "event": "파피 플레이 타임 1",
+      "quote": "",
+      "image": "images/2024/event_image_05_9.png",
+      "additionalImages": [
+        "images/2024/event_image_05_9_1.png",
+        "images/2024/event_image_05_9.png",
+        "images/2024/event_image_05_9_2.png",
+        "images/2024/event_image_05_9_3.png",
+        "images/2024/event_image_05_9_4.png",
+        "images/2024/event_image_05_9_5.png",
+        "images/2024/event_image_05_9_6.png"
       ]
     },
     {
@@ -278,11 +359,6 @@
     },
     {
       "day": 13,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 14,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
     },
