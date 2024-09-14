@@ -165,6 +165,40 @@
   ],
   "jun": [
     {
+      "day": 1,
+      "event": "I Don't Fall",
+      "quote": "",
+      "image": "images/2024/06/event_image_06_1.png",
+      "additionalImages": [
+        "images/2024/06/event_image_06_1.png",
+        "images/2024/06/event_image_06_1_1.png",
+        "images/2024/06/event_image_06_1_2.png",
+        "images/2024/06/event_image_06_1_3.png",
+        "images/2024/06/event_image_06_1_4.png",
+        "images/2024/06/event_image_06_1_5.png",
+        "images/2024/06/event_image_06_1_6.png",
+        "images/2024/06/event_image_06_1_7.png",
+        "images/2024/06/event_image_06_1_8.png",
+        "images/2024/06/event_image_06_1_9.png"
+      ]
+    },
+    {
+      "day": 2,
+      "event": "클리셰 합방 컨텐츠 content warning",
+      "quote": "",
+      "image": "images/2024/06/event_image_06_2.png",
+      "additionalImages": [
+        "images/2024/06/event_image_06_2.png",
+        "images/2024/06/event_image_06_2_1.png",
+        "images/2024/06/event_image_06_2_2.png",
+        "images/2024/06/event_image_06_2_3.png",
+        "images/2024/06/event_image_06_2_4.png",
+        "images/2024/06/event_image_06_2_5.png",
+        "images/2024/06/event_image_06_2_6.png",
+        "images/2024/06/event_image_06_2_7.png"
+      ]
+    },
+    {
       "day": 4,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
