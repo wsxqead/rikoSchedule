@@ -4,29 +4,29 @@
       "day": 17,
       "event": "첫 커버곡 용사 공개!",
       "quote": "",
-      "image": "images/2024/event_image_05_1.png",
-      "additionalImages": ["images/2024/event_image_05_1.png"]
+      "image": "images/2024/05/event_image_05_1.png",
+      "additionalImages": ["images/2024/05/event_image_05_1.png"]
     },
     {
       "day": 19,
       "event": "리코의 데뷔!",
       "quote": "리코의 데뷔 & 클리셰합방 너의 본성이 보여",
-      "image": "images/2024/event_image_05_2.png",
+      "image": "images/2024/05/event_image_05_2.png",
       "additionalImages": [
-        "images/2024/event_image_05_2.png",
-        "images/2024/event_image_05_2_0.png",
-        "images/2024/event_image_05_2_1.png"
+        "images/2024/05/event_image_05_2.png",
+        "images/2024/05/event_image_05_2_0.png",
+        "images/2024/05/event_image_05_2_1.png"
       ]
     },
     {
       "day": 20,
       "event": "신칸센 0호",
       "quote": "팬네임 정하기 & 신칸센 0호",
-      "image": "images/2024/event_image_05_3.png",
+      "image": "images/2024/05/event_image_05_3.png",
       "additionalImages": [
-        "images/2024/event_image_05_3_1.png",
-        "images/2024/event_image_05_3_2.png",
-        "images/2024/event_image_05_3.png"
+        "images/2024/05/event_image_05_3_1.png",
+        "images/2024/05/event_image_05_3_2.png",
+        "images/2024/05/event_image_05_3.png"
       ]
     },
     {
@@ -96,7 +96,7 @@
     {
       "day": 26,
       "event": "파피 플레이 타임 1",
-      "quote": "",
+      "quote": "Poppy Playtime 1",
       "image": "images/2024/event_image_05_9.png",
       "additionalImages": [
         "images/2024/event_image_05_9_1.png",
@@ -114,9 +114,53 @@
       "image": "images/holiday_image.png"
     },
     {
+      "day": 28,
+      "event": "텐코 시부키와 51가지 게임",
+      "quote": "6:4",
+      "image": "images/2024/event_image_05_10.png",
+      "additionalImages": [
+        "images/2024/event_image_05_10.png",
+        "images/2024/event_image_05_10_1.png",
+        "images/2024/event_image_05_10_2.png",
+        "images/2024/event_image_05_10_3.png",
+        "images/2024/event_image_05_10_4.png",
+        "images/2024/event_image_05_10_5.png",
+        "images/2024/event_image_05_10_6.png"
+      ]
+    },
+    {
+      "day": 29,
+      "event": "텐코 시부키와 공포 게임",
+      "quote": "The Cursed Tape & 야간경비",
+      "image": "images/2024/event_image_05_11.png",
+      "additionalImages": [
+        "images/2024/event_image_05_11.png",
+        "images/2024/event_image_05_11_1.png",
+        "images/2024/event_image_05_11_2.png",
+        "images/2024/event_image_05_11_3.png",
+        "images/2024/event_image_05_11_4.png",
+        "images/2024/event_image_05_11_5.png",
+        "images/2024/event_image_05_11_6.png"
+      ]
+    },
+    {
       "day": 30,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 31,
+      "event": "텐코 시부키와 공포 게임",
+      "quote": "The Cursed Tape & 야간경비",
+      "image": "images/2024/event_image_05_12.png",
+      "additionalImages": [
+        "images/2024/event_image_05_12.png",
+        "images/2024/event_image_05_12_1.png",
+        "images/2024/event_image_05_12_2.png",
+        "images/2024/event_image_05_12_3.png",
+        "images/2024/event_image_05_12_4.png",
+        "images/2024/event_image_05_12_5.png"
+      ]
     }
   ],
   "jun": [
