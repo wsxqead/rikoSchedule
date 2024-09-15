@@ -235,6 +235,21 @@
       ]
     },
     {
+      "day": 6,
+      "event": "산나비 후반부",
+      "quote": "",
+      "image": "images/2024/06/event_image_06_5.png",
+      "additionalImages": [
+        "images/2024/06/event_image_06_5_1.png",
+        "images/2024/06/event_image_06_5_2.png",
+        "images/2024/06/event_image_06_5_3.png",
+        "images/2024/06/event_image_06_5_4.png",
+        "images/2024/06/event_image_06_5_5.png",
+        "images/2024/06/event_image_06_5_6.png",
+        "images/2024/06/event_image_06_5_7.png"
+      ]
+    },
+    {
       "day": 11,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
