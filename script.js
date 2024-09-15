@@ -199,10 +199,10 @@ function openPopup(event) {
 
   // 휴방일이라도 quote가 있으면 표시
   if (event.quote && event.quote !== "") {
-    eventQuote.textContent = event.quote;
+    eventQuote.innerHTML = event.quote.replace(/\n/g, "<br>"); // \n을 <br>로 대체
   } else {
-    eventQuote.textContent = event.holiday
-      ? "오늘은 휴방입니다. 다음 방송에서 만나요!"
+    eventQuote.innerHTML = event.holiday
+      ? "오늘은 휴방입니다.<br>다음 방송에서 만나요!"
       : event.quote;
   }
 
@@ -254,12 +254,12 @@ function openPopup(event) {
     }
 
     prevButton.addEventListener("click", () => {
-      currentIndex = (currentIndex > 0) ? currentIndex - 1 : slides.length - 1;
+      currentIndex = currentIndex > 0 ? currentIndex - 1 : slides.length - 1;
       showSlide(currentIndex);
     });
 
     nextButton.addEventListener("click", () => {
-      currentIndex = (currentIndex < slides.length - 1) ? currentIndex + 1 : 0;
+      currentIndex = currentIndex < slides.length - 1 ? currentIndex + 1 : 0;
       showSlide(currentIndex);
     });
   }
@@ -286,7 +286,7 @@ document.getElementById("save-btn").addEventListener("click", () => {
   html2canvas(calendarContainer, {
     scale: 2, // 고해상도 캡처를 위해 배율을 높임
     useCORS: true, // CORS 문제 방지
-    backgroundColor: "#ffffff" // 배경색을 흰색으로 설정
+    backgroundColor: "#ffffff", // 배경색을 흰색으로 설정
   }).then((canvas) => {
     const link = document.createElement("a");
     link.href = canvas.toDataURL("image/png");

@@ -348,6 +348,17 @@ blockquote {
   background-color: rgba(0, 0, 0, 0.8);
 }
 
+/* 팝업의 quote 부분에 줄바꿈 적용 */
+#event-quote {
+  white-space: pre-wrap; /* 줄바꿈 문자(\n)를 처리 */
+  font-size: 1rem;
+  font-style: italic;
+  color: #555;
+  margin-top: 10px;
+  border-left: 3px solid #ddd;
+  padding-left: 10px;
+}
+
 /* 반응형 디자인 */
 @media screen and (max-width: 768px) {
   .calendar-cell {

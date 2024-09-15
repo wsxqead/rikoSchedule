@@ -199,9 +199,40 @@
       ]
     },
     {
+      "day": 3,
+      "event": "토리다마 & 점프킹 맛보기",
+      "quote": "",
+      "image": "images/2024/06/event_image_06_3.png",
+      "additionalImages": [
+        "images/2024/06/event_image_06_3_1.png",
+        "images/2024/06/event_image_06_3_2.png",
+        "images/2024/06/event_image_06_3_3.png",
+        "images/2024/06/event_image_06_3_4.png",
+        "images/2024/06/event_image_06_3_5.png",
+        "images/2024/06/event_image_06_3_6.png",
+        "images/2024/06/event_image_06_3_7.png",
+        "images/2024/06/event_image_06_3_8.png",
+        "images/2024/06/event_image_06_3_9.png"
+      ]
+    },
+    {
       "day": 4,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 5,
+      "event": "산나비 전반부",
+      "quote": "",
+      "image": "images/2024/06/event_image_06_4.png",
+      "additionalImages": [
+        "images/2024/06/event_image_06_4.png",
+        "images/2024/06/event_image_06_4_1.png",
+        "images/2024/06/event_image_06_4_2.png",
+        "images/2024/06/event_image_06_4_3.png",
+        "images/2024/06/event_image_06_4_4.png",
+        "images/2024/06/event_image_06_4_5.png"
+      ]
     },
     {
       "day": 11,
