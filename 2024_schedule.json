@@ -564,6 +564,12 @@
       "day": 17,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 18,
+      "holiday": "휴방",
+      "quote": "내일은 꼭 보자!!!\n미안하구 사랑해요💚",
+      "image": "images/holiday_image.png"
     }
   ]
 }
