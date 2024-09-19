@@ -570,6 +570,28 @@
       "holiday": "휴방",
       "quote": "내일은 꼭 보자!!!\n미안하구 사랑해요💚",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 19,
+      "event": "배그 광고 합방",
+      "quote": "강지 리제 히나와 함께",
+      "image": "images/2024/09/event_image_09_12.png",
+      "additionalImages": [
+        "images/2024/09/event_image_09_12.png",
+        "images/2024/09/event_image_09_12_1.jpg",
+        "images/2024/09/event_image_09_12_2.jpg",
+        "images/2024/09/event_image_09_12_3.png",
+        "images/2024/09/event_image_09_12_4.png",
+        "images/2024/09/event_image_09_12_5.png",
+        "images/2024/09/event_image_09_12_6.png",
+        "images/2024/09/event_image_09_12_7.png",
+        "images/2024/09/event_image_09_12_8.png"
+      ]
+    },
+    {
+      "day": 21,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
     }
   ]
 }
