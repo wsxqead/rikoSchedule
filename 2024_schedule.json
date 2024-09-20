@@ -588,6 +588,21 @@
       ]
     },
     {
+      "day": 20,
+      "event": "리코와 금요일",
+      "quote": "코난 범인 맞추기",
+      "image": "images/2024/09/event_image_09_13.png",
+      "additionalImages": [
+        "images/2024/09/event_image_09_13.png",
+        "images/2024/09/event_image_09_13_1.png",
+        "images/2024/09/event_image_09_13_2.png",
+        "images/2024/09/event_image_09_13_3.png",
+        "images/2024/09/event_image_09_13_4.png",
+        "images/2024/09/event_image_09_13_5.jpg",
+        "images/2024/09/event_image_09_13_6.jpg"
+      ]
+    },
+    {
       "day": 21,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
