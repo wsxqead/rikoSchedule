@@ -606,6 +606,44 @@
       "day": 21,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 22,
+      "event": "스텔라이브 팬게임 & 카페 탐방",
+      "quote": "3D 수박게임 & 텔제이맥스 & 카페탐방",
+      "image": "images/2024/09/event_image_09_14.png",
+      "additionalImages": [
+        "images/2024/09/event_image_09_14.png",
+        "images/2024/09/event_image_09_14_1.png",
+        "images/2024/09/event_image_09_14_2.png",
+        "images/2024/09/event_image_09_14_3.png",
+        "images/2024/09/event_image_09_14_4.png",
+        "images/2024/09/event_image_09_14_5.png",
+        "images/2024/09/event_image_09_14_6.png",
+        "images/2024/09/event_image_09_14_7.png",
+        "images/2024/09/event_image_09_14_8.png",
+        "images/2024/09/event_image_09_14_9.png",
+        "images/2024/09/event_image_09_14_10.png"
+      ]
+    },
+    {
+      "day": 23,
+      "event": "리코의 4번째 커버곡 맑은 날 공개",
+      "quote": "커버곡 공개 & 나노사도",
+      "image": "images/2024/09/event_image_09_15.webp",
+      "additionalImages": [
+        "images/2024/09/event_image_09_15_1.jpg",
+        "images/2024/09/event_image_09_15_2.jpg",
+        "images/2024/09/event_image_09_15_3.jpg",
+        "images/2024/09/event_image_09_15_4.jpg",
+        "images/2024/09/event_image_09_15_5.png",
+        "images/2024/09/event_image_09_15_6.png",
+        "images/2024/09/event_image_09_15_7.png",
+        "images/2024/09/event_image_09_15_8.png",
+        "images/2024/09/event_image_09_15_9.png",
+        "images/2024/09/event_image_09_15_10.png",
+        "images/2024/09/event_image_09_15_11.png"
+      ]
     }
   ]
 }
