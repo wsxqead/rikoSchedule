@@ -650,6 +650,19 @@
       "holiday": "휴방",
       "quote": "오늘은 목소리가 잘 안나와서\n휴방하께요!!\n쉬고 아마 토요일까진 쭉 달리지 않을까 싶어요😉💚\n넘 아쉬워하지말구\n우리 내일 만나용!!\n치코 사랑해",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 25,
+      "event": "살육의천사",
+      "quote": "지구멸망60초전 & 살육의천사",
+      "image": "images/2024/09/event_image_09_16_1.png",
+      "additionalImages": [
+        "images/2024/09/event_image_09_16_1.png",
+        "images/2024/09/event_image_09_16_2.png",
+        "images/2024/09/event_image_09_16_3.png",
+        "images/2024/09/event_image_09_16_4.png",
+        "images/2024/09/event_image_09_16_5.png"
+      ]
     }
   ]
 }
