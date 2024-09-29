@@ -726,6 +726,18 @@
         "images/2024/09/event_image_09_19_07.png",
         "images/2024/09/event_image_09_19_08.png"
       ]
+    },
+    {
+      "day": 29,
+      "event": "9월의 노래방송",
+      "quote": "",
+      "image": "images/2024/09/event_image_09_20.png",
+      "additionalImages": [
+        "images/2024/09/event_image_09_20_01.png",
+        "images/2024/09/event_image_09_20_02.png",
+        "images/2024/09/event_image_09_20_03.png",
+        "images/2024/09/event_image_09_20_04.png"
+      ]
     }
   ]
 }
