@@ -738,6 +738,13 @@
         "images/2024/09/event_image_09_20_03.png",
         "images/2024/09/event_image_09_20_04.png"
       ]
+    },
+    {
+      "day": 30,
+      "event": "명조 광고 합방",
+      "quote": "리제 타비 린과 함께",
+      "image": "images/2024/09/event_image_09_21.jpg",
+      "additionalImages": ["images/2024/09/event_image_09_21.jpg"]
     }
   ]
 }
