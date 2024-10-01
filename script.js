@@ -225,11 +225,24 @@ function openPopup(event) {
     const sliderWrapper = document.createElement("div");
     sliderWrapper.classList.add("slider-wrapper");
 
+    // 유튜브 링크가 있을 경우 첫 번째 슬라이드로 추가
+    if (event.youtubeLink) {
+      const youtubeIframe = document.createElement("iframe");
+      youtubeIframe.src = event.youtubeLink;
+      youtubeIframe.width = "100%";
+      youtubeIframe.height = "315";
+      youtubeIframe.allow =
+        "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
+      youtubeIframe.allowFullscreen = true;
+      youtubeIframe.classList.add("slide", "active"); // 첫 번째 슬라이드로 활성화
+      sliderWrapper.appendChild(youtubeIframe);
+    }
+
     images.forEach((imgSrc, index) => {
       const img = document.createElement("img");
       img.src = imgSrc;
       img.classList.add("slide");
-      if (index === 0) {
+      if (!event.youtubeLink && index === 0) {
         img.classList.add("active"); // 첫 번째 이미지를 기본으로 표시
       }
       sliderWrapper.appendChild(img);

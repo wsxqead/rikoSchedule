@@ -359,6 +359,12 @@ blockquote {
   padding-left: 10px;
 }
 
+/* 유튜브 iframe 크기 조정 */
+iframe.slide {
+  max-width: 100%;
+  height: 315px; /* 유튜브 기본 높이 */
+}
+
 /* 반응형 디자인 */
 @media screen and (max-width: 768px) {
   .calendar-cell {
