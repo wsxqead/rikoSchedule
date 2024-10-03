@@ -1,5 +1,5 @@
 let currentYear = new Date().getFullYear(); // 현재 연도 자동으로 설정
-let currentMonth = "sep"; // 기본적으로 5월을 표시
+let currentMonth = "oct"; // 기본적으로 5월을 표시
 const holidayImage = "images/holiday_image.png"; // 휴방일 이미지 설정
 
 const holidays = {
@@ -35,6 +35,7 @@ function updateCalendarHeader(monthId) {
     jul: "7월",
     aug: "8월",
     sep: "9월",
+    oct: "10월",
   };
   document.getElementById("calendar-month").textContent = monthNames[monthId];
 }
@@ -63,6 +64,7 @@ function initializeSelectors() {
     { year: 2024, month: "jul", label: "2024년 7월" },
     { year: 2024, month: "aug", label: "2024년 8월" },
     { year: 2024, month: "sep", label: "2024년 9월" },
+    { year: 2024, month: "oct", label: "2024년 10월" },
   ];
 
   // 셀렉트 박스에 연도와 월 추가
@@ -333,6 +335,7 @@ Object.prototype.idToMonthIndex = function () {
     jul: 7,
     aug: 8,
     sep: 9,
+    oct: 10,
   };
   return monthMap[this.id];
 };

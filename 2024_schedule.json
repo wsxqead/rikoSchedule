@@ -275,9 +275,110 @@
       ]
     },
     {
+      "day": 9,
+      "event": "마법소녀 카와이 러블리 즈큥도큥 바큥부큥 루루핑",
+      "quote": "",
+      "image": "images/2024/06/event_image_06_8.png",
+      "additionalImages": [
+        "images/2024/06/event_image_06_8.png",
+        "images/2024/06/event_image_06_8_1.png",
+        "images/2024/06/event_image_06_8_2.png",
+        "images/2024/06/event_image_06_8_3.png",
+        "images/2024/06/event_image_06_8_4.png"
+      ]
+    },
+    {
+      "day": 10,
+      "event": "슈퍼마켓 시뮬레이터",
+      "quote": "",
+      "image": "images/2024/06/event_image_06_9.png",
+      "additionalImages": [
+        "images/2024/06/event_image_06_9.png",
+        "images/2024/06/event_image_06_9_1.png",
+        "images/2024/06/event_image_06_9_2.png",
+        "images/2024/06/event_image_06_9_3.png",
+        "images/2024/06/event_image_06_9_4.png"
+      ]
+    },
+    {
       "day": 11,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 12,
+      "event": "멜라토닌",
+      "quote": "멜라토닌 & 엘든링 커마 & 카페탐방 방송",
+      "image": "images/2024/06/event_image_06_10.png",
+      "additionalImages": [
+        "images/2024/06/event_image_06_10.png",
+        "images/2024/06/event_image_06_10_1.png",
+        "images/2024/06/event_image_06_10_2.png",
+        "images/2024/06/event_image_06_10_3.png",
+        "images/2024/06/event_image_06_10_4.png"
+      ]
+    },
+    {
+      "day": 13,
+      "event": "맞춤법 용사",
+      "quote": "맞춤법에 너무 민감해서 주변의 빈축만 사던 내가 이세계",
+      "image": "images/2024/06/event_image_06_11.png",
+      "additionalImages": [
+        "images/2024/06/event_image_06_11.png",
+        "images/2024/06/event_image_06_11_1.png",
+        "images/2024/06/event_image_06_11_2.png",
+        "images/2024/06/event_image_06_11_3.png",
+        "images/2024/06/event_image_06_11_4.png"
+      ]
+    },
+    {
+      "day": 14,
+      "event": "엘든링",
+      "quote": "",
+      "image": "images/2024/06/event_image_06_12.png",
+      "additionalImages": [
+        "images/2024/06/event_image_06_12.png",
+        "images/2024/06/event_image_06_12_1.png",
+        "images/2024/06/event_image_06_12_2.png",
+        "images/2024/06/event_image_06_12_3.png"
+      ]
+    },
+    {
+      "day": 15,
+      "event": "J-pop월드컵",
+      "quote": "",
+      "image": "images/2024/06/event_image_06_13.png",
+      "additionalImages": [
+        "images/2024/06/event_image_06_13.png",
+        "images/2024/06/event_image_06_13_1.png",
+        "images/2024/06/event_image_06_13_2.png"
+      ]
+    },
+    {
+      "day": 16,
+      "event": "주문 받겠습니다",
+      "quote": "클리셰 합방",
+      "image": "images/2024/06/event_image_06_14.png",
+      "additionalImages": [
+        "images/2024/06/event_image_06_14.png",
+        "images/2024/06/event_image_06_14_1.png",
+        "images/2024/06/event_image_06_14_2.png",
+        "images/2024/06/event_image_06_14_3.png",
+        "images/2024/06/event_image_06_14_4.png",
+        "images/2024/06/event_image_06_14_5.png",
+        "images/2024/06/event_image_06_14_6.png"
+      ]
+    },
+    {
+      "day": 17,
+      "event": "엘든링 2회차",
+      "quote": "",
+      "image": "images/2024/06/event_image_06_15.png",
+      "additionalImages": [
+        "images/2024/06/event_image_06_15_1.png",
+        "images/2024/06/event_image_06_15_2.png",
+        "images/2024/06/event_image_06_15_3.png"
+      ]
     },
     {
       "day": 18,
@@ -778,6 +879,38 @@
         "images/2024/09/event_image_09_21_5.png",
         "images/2024/09/event_image_09_21_6.png"
       ]
+    }
+  ],
+  "oct": [
+    {
+      "day": 1,
+      "holiday": "휴방",
+      "quote": "안녕하세요!\n오늘은 리코가 휴방이에요~\n푹 자고일어났더니 벌써 이시간이라\n이제야 공지 드리게 되었네용 ㅎㅎ\n오늘 하루 잘 마무리하구\n잘 쉬어요!\n사랑해💚",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 2,
+      "event": "스텔섭에서 모래캐기 데이트",
+      "quote": "",
+      "image": "images/2024/10/event_image_10_1.png",
+      "additionalImages": [
+        "images/2024/10/event_image_10_1.png",
+        "images/2024/10/event_image_10_1_1.png",
+        "images/2024/10/event_image_10_1_2.png",
+        "images/2024/10/event_image_10_1_3.png",
+        "images/2024/10/event_image_10_1_4.png",
+        "images/2024/10/event_image_10_1_5.png",
+        "images/2024/10/event_image_10_1_6.png",
+        "images/2024/10/event_image_10_1_7.png",
+        "images/2024/10/event_image_10_1_8.png",
+        "images/2024/10/event_image_10_1_9.png"
+      ]
+    },
+    {
+      "day": 3,
+      "holiday": "휴방",
+      "quote": "오늘 휴방이에요!\n대신 여러분들께\n저녁에 유튜브 업로드하겠다는\n소식을 전해드립니당~!\n푹 쉬고 내일봐요💚",
+      "image": "images/holiday_image.png"
     }
   ]
 }
