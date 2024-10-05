@@ -911,6 +911,21 @@
       "holiday": "휴방",
       "quote": "오늘 휴방이에요!\n대신 여러분들께\n저녁에 유튜브 업로드하겠다는\n소식을 전해드립니당~!\n푹 쉬고 내일봐요💚",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 4,
+      "event": "린과 리코의 듀엣곡 발표!",
+      "quote": "듀엣곡 발표 & We Were Here Too",
+      "image": "images/2024/10/event_image_10_2.webp",
+      "additionalImages": [
+        "images/2024/10/event_image_10_2_1.png",
+        "images/2024/10/event_image_10_2_2.png",
+        "images/2024/10/event_image_10_2_3.png",
+        "images/2024/10/event_image_10_2_4.png",
+        "images/2024/10/event_image_10_2_5.png",
+        "images/2024/10/event_image_10_2_6.png",
+        "images/2024/10/event_image_10_2_7.png"
+      ]
     }
   ]
 }
