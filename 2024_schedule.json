@@ -1011,9 +1011,60 @@
       ]
     },
     {
+      "day": 9,
+      "event": "욘사의 좀보이드 1일차",
+      "quote": "",
+      "image": "images/2024/10/event_image_10_6.png",
+      "additionalImages": [
+        "images/2024/10/event_image_10_6_001.png",
+        "images/2024/10/event_image_10_6_002.png",
+        "images/2024/10/event_image_10_6_003.png",
+        "images/2024/10/event_image_10_6_004.png",
+        "images/2024/10/event_image_10_6_005.png"
+      ]
+    },
+    {
+      "day": 10,
+      "event": "욘사의 좀보이드 2일차",
+      "quote": "",
+      "image": "images/2024/10/event_image_10_7.png",
+      "additionalImages": [
+        "images/2024/10/event_image_10_7_001.png",
+        "images/2024/10/event_image_10_7_002.png",
+        "images/2024/10/event_image_10_7_003.png",
+        "images/2024/10/event_image_10_7_004.png",
+        "images/2024/10/event_image_10_7_005.png"
+      ]
+    },
+    {
+      "day": 11,
+      "event": "글쟁이의 필기체 도서관",
+      "quote": "",
+      "image": "images/2024/10/event_image_10_8.png",
+      "additionalImages": [
+        "images/2024/10/event_image_10_8_001.png",
+        "images/2024/10/event_image_10_8_002.png",
+        "images/2024/10/event_image_10_8_003.png",
+        "images/2024/10/event_image_10_8_004.png",
+        "images/2024/10/event_image_10_8_005.png"
+      ]
+    },
+    {
       "day": 12,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 13,
+      "event": "스텔라이브 오목 대회",
+      "quote": "",
+      "image": "images/2024/10/event_image_10_9.png",
+      "additionalImages": [
+        "images/2024/10/event_image_10_9_001.png",
+        "images/2024/10/event_image_10_9_002.png",
+        "images/2024/10/event_image_10_9_003.png",
+        "images/2024/10/event_image_10_9_004.png"
+      ]
     }
   ]
 }
