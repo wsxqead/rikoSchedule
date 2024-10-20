@@ -416,19 +416,122 @@
     {
       "day": 22,
       "event": "첫 스텔서버",
-      "quote": "",
+      "quote": "스텔 마크 서버 1일차",
       "image": "images/2024/06/event_image_06_18.png",
       "additionalImages": [
         "images/2024/06/event_image_06_18_1.png",
         "images/2024/06/event_image_06_18_2.png",
         "images/2024/06/event_image_06_18_3.png",
-        "images/2024/06/event_image_06_18_4.png"
+        "images/2024/06/event_image_06_18_4.png",
+        "images/2024/06/event_image_06_18_5.png",
+        "images/2024/06/event_image_06_18_6.png",
+        "images/2024/06/event_image_06_18_7.png",
+        "images/2024/06/event_image_06_18_8.png",
+        "images/2024/06/event_image_06_18_9.png",
+        "images/2024/06/event_image_06_18_10.png",
+        "images/2024/06/event_image_06_18_11.png"
+      ]
+    },
+    {
+      "day": 23,
+      "event": "두근두근 스텔 마크 서버 2일차",
+      "quote": "",
+      "image": "images/2024/06/event_image_06_19_3.png",
+      "additionalImages": [
+        "images/2024/06/event_image_06_19_1.png",
+        "images/2024/06/event_image_06_19_2.png",
+        "images/2024/06/event_image_06_19_3.png",
+        "images/2024/06/event_image_06_19_4.png",
+        "images/2024/06/event_image_06_19_5.png"
+      ]
+    },
+    {
+      "day": 24,
+      "event": "스텔 마크 서버 3일차",
+      "quote": "",
+      "image": "images/2024/06/event_image_06_20.png",
+      "additionalImages": [
+        "images/2024/06/event_image_06_20_1.png",
+        "images/2024/06/event_image_06_20_2.png",
+        "images/2024/06/event_image_06_20_3.png",
+        "images/2024/06/event_image_06_20_4.png",
+        "images/2024/06/event_image_06_20_5.png"
+      ]
+    },
+    {
+      "day": 25,
+      "event": "스텔 마크 서버 4일차",
+      "quote": "",
+      "image": "images/2024/06/event_image_06_21_7.png",
+      "additionalImages": [
+        "images/2024/06/event_image_06_21_1.png",
+        "images/2024/06/event_image_06_21_2.png",
+        "images/2024/06/event_image_06_21_3.png",
+        "images/2024/06/event_image_06_21_4.png",
+        "images/2024/06/event_image_06_21_5.png",
+        "images/2024/06/event_image_06_21_6.png",
+        "images/2024/06/event_image_06_21_7.png",
+        "images/2024/06/event_image_06_21_8.png",
+        "images/2024/06/event_image_06_21_9.png"
+      ]
+    },
+    {
+      "day": 26,
+      "event": "리코 the of 뮤직 | 스텔 마크서버 5일차!",
+      "quote": "",
+      "image": "images/2024/06/event_image_06_22.png",
+      "additionalImages": [
+        "images/2024/06/event_image_06_22_1.png",
+        "images/2024/06/event_image_06_22_2.png",
+        "images/2024/06/event_image_06_22_3.png",
+        "images/2024/06/event_image_06_22_4.png",
+        "images/2024/06/event_image_06_22_5.png",
+        "images/2024/06/event_image_06_22_6.png"
       ]
     },
     {
       "day": 27,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 28,
+      "event": "오퍼레이션: 탱고 합방 (w. 나나)",
+      "quote": "오퍼레이션: 탱고 합방 (w. 나나) & 스텔 마크서버 6일차!",
+      "image": "images/2024/06/event_image_06_23.png",
+      "additionalImages": [
+        "images/2024/06/event_image_06_23.png",
+        "images/2024/06/event_image_06_23_1.png",
+        "images/2024/06/event_image_06_23_2.png",
+        "images/2024/06/event_image_06_23_3.png",
+        "images/2024/06/event_image_06_23_4.png",
+        "images/2024/06/event_image_06_23_5.png",
+        "images/2024/06/event_image_06_23_6.png"
+      ]
+    },
+    {
+      "day": 29,
+      "event": "서브노티카 1일차",
+      "quote": "",
+      "image": "images/2024/06/event_image_06_24.png",
+      "additionalImages": [
+        "images/2024/06/event_image_06_24_1.png",
+        "images/2024/06/event_image_06_24_2.png",
+        "images/2024/06/event_image_06_24_3.png"
+      ]
+    },
+    {
+      "day": 30,
+      "event": "서브노티카 2일차",
+      "quote": "배틀그라운드 & 서브노티카 2일차",
+      "image": "images/2024/06/event_image_06_25.png",
+      "additionalImages": [
+        "images/2024/06/event_image_06_25_1.png",
+        "images/2024/06/event_image_06_25_2.png",
+        "images/2024/06/event_image_06_25_3.png",
+        "images/2024/06/event_image_06_25.png",
+        "images/2024/06/event_image_06_25_4.png"
+      ]
     }
   ],
   "jul": [
@@ -1063,7 +1166,99 @@
         "images/2024/10/event_image_10_9_001.png",
         "images/2024/10/event_image_10_9_002.png",
         "images/2024/10/event_image_10_9_003.png",
-        "images/2024/10/event_image_10_9_004.png"
+        "images/2024/10/event_image_10_9_004.png",
+        "images/2024/10/event_image_10_9_005.png",
+        "images/2024/10/event_image_10_9_006.png",
+        "images/2024/10/event_image_10_9_007.png",
+        "images/2024/10/event_image_10_9_008.png",
+        "images/2024/10/event_image_10_9_009.png",
+        "images/2024/10/event_image_10_9_010.png"
+      ]
+    },
+    {
+      "day": 14,
+      "event": "욘사의 좀보이드 3일차",
+      "quote": "",
+      "image": "images/2024/10/event_image_10_10.png",
+      "additionalImages": [
+        "images/2024/10/event_image_10_10_001.png",
+        "images/2024/10/event_image_10_10_002.png",
+        "images/2024/10/event_image_10_10_003.png",
+        "images/2024/10/event_image_10_10_004.png"
+      ]
+    },
+    {
+      "day": 15,
+      "event": "Repit",
+      "quote": "카페탐방 & 사투리 능력고사 & Repit 방송",
+      "image": "images/2024/10/event_image_10_11.png",
+      "additionalImages": [
+        "images/2024/10/event_image_10_11_001.png",
+        "images/2024/10/event_image_10_11_002.png",
+        "images/2024/10/event_image_10_11_003.png",
+        "images/2024/10/event_image_10_11_004.png",
+        "images/2024/10/event_image_10_11_005.png",
+        "images/2024/10/event_image_10_11_006.png",
+        "images/2024/10/event_image_10_11_007.png",
+        "images/2024/10/event_image_10_11_008.png"
+      ]
+    },
+    {
+      "day": 16,
+      "event": "AI채팅",
+      "quote": "",
+      "image": "images/2024/10/event_image_10_12.png",
+      "additionalImages": [
+        "images/2024/10/event_image_10_12_001.png",
+        "images/2024/10/event_image_10_12_002.png",
+        "images/2024/10/event_image_10_12_003.png",
+        "images/2024/10/event_image_10_12_004.png",
+        "images/2024/10/event_image_10_12_005.png",
+        "images/2024/10/event_image_10_12_006.png",
+        "images/2024/10/event_image_10_12_007.png"
+      ]
+    },
+    {
+      "day": 17,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 18,
+      "event": "톤데모 원더즈",
+      "quote": "톤데모 원더즈 + 아오오니 공포게임",
+      "image": "images/2024/10/event_image_10_13.webp",
+      "additionalImages": [
+        "images/2024/10/event_image_10_13_001.png",
+        "images/2024/10/event_image_10_13_002.png",
+        "images/2024/10/event_image_10_13_003.png",
+        "images/2024/10/event_image_10_13_004.png",
+        "images/2024/10/event_image_10_13_005.png",
+        "images/2024/10/event_image_10_13_006.png",
+        "images/2024/10/event_image_10_13_007.png",
+        "images/2024/10/event_image_10_13_008.png",
+        "images/2024/10/event_image_10_13_009.png",
+        "images/2024/10/event_image_10_13_010.png",
+        "images/2024/10/event_image_10_13_011.png",
+        "images/2024/10/event_image_10_13_012.png",
+        "images/2024/10/event_image_10_13_013.png"
+      ]
+    },
+    {
+      "day": 19,
+      "event": "GTA5",
+      "quote": "",
+      "image": "images/2024/10/event_image_10_14.png",
+      "additionalImages": [
+        "images/2024/10/event_image_10_14_001.png",
+        "images/2024/10/event_image_10_14_002.png",
+        "images/2024/10/event_image_10_14_003.png",
+        "images/2024/10/event_image_10_14_004.png",
+        "images/2024/10/event_image_10_14_005.png",
+        "images/2024/10/event_image_10_14_006.png",
+        "images/2024/10/event_image_10_14_007.png",
+        "images/2024/10/event_image_10_14_008.png",
+        "images/2024/10/event_image_10_14_009.png"
       ]
     }
   ]
