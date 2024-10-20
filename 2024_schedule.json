@@ -1246,7 +1246,7 @@
     },
     {
       "day": 19,
-      "event": "GTA5",
+      "event": "GTA5 스토리 모드 1일차",
       "quote": "",
       "image": "images/2024/10/event_image_10_14.png",
       "additionalImages": [
@@ -1259,6 +1259,23 @@
         "images/2024/10/event_image_10_14_007.png",
         "images/2024/10/event_image_10_14_008.png",
         "images/2024/10/event_image_10_14_009.png"
+      ]
+    },
+    {
+      "day": 20,
+      "event": "GTA5 스토리 모드 2일차",
+      "quote": "",
+      "image": "images/2024/10/event_image_10_15_10.png",
+      "additionalImages": [
+        "images/2024/10/event_image_10_15_1.png",
+        "images/2024/10/event_image_10_15_2.png",
+        "images/2024/10/event_image_10_15_3.png",
+        "images/2024/10/event_image_10_15_4.png",
+        "images/2024/10/event_image_10_15_5.png",
+        "images/2024/10/event_image_10_15_6.png",
+        "images/2024/10/event_image_10_15_7.png",
+        "images/2024/10/event_image_10_15_8.png",
+        "images/2024/10/event_image_10_15_9.png"
       ]
     }
   ]
