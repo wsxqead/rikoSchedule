@@ -536,6 +536,48 @@
   ],
   "jul": [
     {
+      "day": 1,
+      "event": "배틀그라운드",
+      "quote": "배틀그라운드 합방 (유니, 히나, 부키)",
+      "image": "images/2024/07/event_image_07_1_3.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_1_1.png",
+        "images/2024/07/event_image_07_1_2.png",
+        "images/2024/07/event_image_07_1_3.png",
+        "images/2024/07/event_image_07_1_4.png",
+        "images/2024/07/event_image_07_1_5.png",
+        "images/2024/07/event_image_07_1_6.png"
+      ]
+    },
+    {
+      "day": 2,
+      "event": "서브노티카 3일차",
+      "quote": "서브노티카 3일차 & 스텔 마크서버 7일차!",
+      "image": "images/2024/07/event_image_07_2_1.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_2_1.png",
+        "images/2024/07/event_image_07_2_2.png",
+        "images/2024/07/event_image_07_2_3.png",
+        "images/2024/07/event_image_07_2_4.png",
+        "images/2024/07/event_image_07_2_5.png"
+      ]
+    },
+    {
+      "day": 3,
+      "event": "스텔라리듬 & 배틀그라운드 방송",
+      "quote": "",
+      "image": "images/2024/07/event_image_07_3_2.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_3_1.png",
+        "images/2024/07/event_image_07_3_2.png",
+        "images/2024/07/event_image_07_3_3.png",
+        "images/2024/07/event_image_07_3_4.png",
+        "images/2024/07/event_image_07_3_5.png",
+        "images/2024/07/event_image_07_3_6.png",
+        "images/2024/07/event_image_07_3_7.png"
+      ]
+    },
+    {
       "day": 10,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
@@ -1276,6 +1318,74 @@
         "images/2024/10/event_image_10_15_7.png",
         "images/2024/10/event_image_10_15_8.png",
         "images/2024/10/event_image_10_15_9.png"
+      ]
+    },
+    {
+      "day": 21,
+      "event": "파피플레이 타임 2",
+      "quote": "",
+      "image": "images/2024/10/event_image_10_16.png",
+      "additionalImages": [
+        "images/2024/10/event_image_10_16_1.png",
+        "images/2024/10/event_image_10_16_2.png",
+        "images/2024/10/event_image_10_16_3.png",
+        "images/2024/10/event_image_10_16_4.png",
+        "images/2024/10/event_image_10_16_5.png",
+        "images/2024/10/event_image_10_16_6.png"
+      ]
+    },
+    {
+      "day": 22,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 23,
+      "event": "스텔라이브 성대모사",
+      "quote": "",
+      "image": "images/2024/10/event_image_10_17.png",
+      "additionalImages": [
+        "images/2024/10/event_image_10_17_1.png",
+        "images/2024/10/event_image_10_17_2.png",
+        "images/2024/10/event_image_10_17_3.png",
+        "images/2024/10/event_image_10_17_4.png"
+      ]
+    },
+    {
+      "day": 24,
+      "event": "클리셰 마리오 파티 잼버리 합방",
+      "quote": "",
+      "image": "images/2024/10/event_image_10_18.png",
+      "additionalImages": [
+        "images/2024/10/event_image_10_18_1.png",
+        "images/2024/10/event_image_10_18_2.png",
+        "images/2024/10/event_image_10_18_3.png",
+        "images/2024/10/event_image_10_18_4.png",
+        "images/2024/10/event_image_10_18_5.png",
+        "images/2024/10/event_image_10_18_6.png"
+      ]
+    },
+    {
+      "day": 25,
+      "event": "장미와 동백",
+      "quote": "장미와 동백 & GTA 스토리 모드 3일차",
+      "image": "images/2024/10/event_image_10_19.png",
+      "additionalImages": [
+        "images/2024/10/event_image_10_19_1.png",
+        "images/2024/10/event_image_10_19_2.png",
+        "images/2024/10/event_image_10_19_3.png",
+        "images/2024/10/event_image_10_19_4.png",
+        "images/2024/10/event_image_10_19_5.png",
+        "images/2024/10/event_image_10_19_6.png",
+        "images/2024/10/event_image_10_19_7.png",
+        "images/2024/10/event_image_10_19_8.png",
+        "images/2024/10/event_image_10_19_9.png",
+        "images/2024/10/event_image_10_19_10.png",
+        "images/2024/10/event_image_10_19_11.png",
+        "images/2024/10/event_image_10_19_12.png",
+        "images/2024/10/event_image_10_19_13.png",
+        "images/2024/10/event_image_10_19_14.png",
+        "images/2024/10/event_image_10_19_15.png"
       ]
     }
   ]
