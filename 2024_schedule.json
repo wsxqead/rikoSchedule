@@ -1447,6 +1447,13 @@
       "day": 30,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 31,
+      "event": "스텔 좀보이드 ",
+      "quote": "",
+      "image": "images/2024/10/event_image_10_23.png",
+      "additionalImages": ["images/2024/10/event_image_10_23.png"]
     }
   ]
 }
