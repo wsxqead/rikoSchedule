@@ -1592,6 +1592,11 @@
         "images/2024/11/event_image_11_6_8.png",
         "images/2024/11/event_image_11_6_9.png"
       ]
+    },
+    {
+      "day": 11,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
     }
   ]
 }
