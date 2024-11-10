@@ -1450,10 +1450,148 @@
     },
     {
       "day": 31,
-      "event": "스텔 좀보이드 ",
+      "event": "스텔 좀보이드 1일차",
       "quote": "",
       "image": "images/2024/10/event_image_10_23.png",
-      "additionalImages": ["images/2024/10/event_image_10_23.png"]
+      "additionalImages": [
+        "images/2024/10/event_image_10_23_1.png",
+        "images/2024/10/event_image_10_23_2.png",
+        "images/2024/10/event_image_10_23_3.png",
+        "images/2024/10/event_image_10_23_4.png",
+        "images/2024/10/event_image_10_23_5.png",
+        "images/2024/10/event_image_10_23_6.png",
+        "images/2024/10/event_image_10_23_7.png",
+        "images/2024/10/event_image_10_23_8.png",
+        "images/2024/10/event_image_10_23_9.png",
+        "images/2024/10/event_image_10_23_10.png",
+        "images/2024/10/event_image_10_23_11.png",
+        "images/2024/10/event_image_10_23_12.png",
+        "images/2024/10/event_image_10_23_13.png",
+        "images/2024/10/event_image_10_23_14.png"
+      ]
+    }
+  ],
+  "nov": [
+    {
+      "day": 1,
+      "event": "케세라세라",
+      "quote": "케세라세라 & 스텔 좀보이드 2일차",
+      "image": "images/2024/11/event_image_11_1.webp",
+      "additionalImages": [
+        "images/2024/11/event_image_11_1_1.png",
+        "images/2024/11/event_image_11_1_2.png",
+        "images/2024/11/event_image_11_1_3.png",
+        "images/2024/11/event_image_11_1_4.png",
+        "images/2024/11/event_image_11_1_5.png",
+        "images/2024/11/event_image_11_1_6.png",
+        "images/2024/11/event_image_11_1_7.png",
+        "images/2024/11/event_image_11_1_8.png",
+        "images/2024/11/event_image_11_1_9.png",
+        "images/2024/11/event_image_11_1_10.png"
+      ]
+    },
+    {
+      "day": 2,
+      "event": "스텔 좀보이드 3일차",
+      "quote": "",
+      "image": "images/2024/11/event_image_11_2.png",
+      "additionalImages": [
+        "images/2024/11/event_image_11_2_1.png",
+        "images/2024/11/event_image_11_2_2.png",
+        "images/2024/11/event_image_11_2_3.png",
+        "images/2024/11/event_image_11_2_4.png",
+        "images/2024/11/event_image_11_2_5.png",
+        "images/2024/11/event_image_11_2_6.png",
+        "images/2024/11/event_image_11_2_7.png",
+        "images/2024/11/event_image_11_2_8.png",
+        "images/2024/11/event_image_11_2_9.png",
+        "images/2024/11/event_image_11_2_10.png",
+        "images/2024/11/event_image_11_2_11.png",
+        "images/2024/11/event_image_11_2_12.png",
+        "images/2024/11/event_image_11_2_13.png",
+        "images/2024/11/event_image_11_2_14.png"
+      ]
+    },
+    {
+      "day": 3,
+      "event": "스텔 좀보이드 4일차",
+      "quote": "",
+      "image": "images/2024/11/event_image_11_3.png",
+      "additionalImages": [
+        "images/2024/11/event_image_11_3_1.png",
+        "images/2024/11/event_image_11_3_2.png",
+        "images/2024/11/event_image_11_3_3.png",
+        "images/2024/11/event_image_11_3_4.png",
+        "images/2024/11/event_image_11_3_5.png",
+        "images/2024/11/event_image_11_3_6.png",
+        "images/2024/11/event_image_11_3_7.png",
+        "images/2024/11/event_image_11_3_8.png"
+      ]
+    },
+    {
+      "day": 4,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 5,
+      "event": "팬게임",
+      "quote": "",
+      "image": "images/2024/11/event_image_11_4.png",
+      "additionalImages": [
+        "images/2024/11/event_image_11_4_1.png",
+        "images/2024/11/event_image_11_4_2.png",
+        "images/2024/11/event_image_11_4_3.png",
+        "images/2024/11/event_image_11_4_4.png",
+        "images/2024/11/event_image_11_4_5.png"
+      ]
+    },
+    {
+      "day": 6,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 7,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 8,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 9,
+      "event": "LOL",
+      "quote": "",
+      "image": "images/2024/11/event_image_11_5.png",
+      "additionalImages": [
+        "images/2024/11/event_image_11_5_1.png",
+        "images/2024/11/event_image_11_5_2.png",
+        "images/2024/11/event_image_11_5_3.png",
+        "images/2024/11/event_image_11_5_4.png",
+        "images/2024/11/event_image_11_5_5.png",
+        "images/2024/11/event_image_11_5_6.png",
+        "images/2024/11/event_image_11_5_7.png"
+      ]
+    },
+    {
+      "day": 10,
+      "event": "Finding Frankie",
+      "quote": "",
+      "image": "images/2024/11/event_image_11_6.png",
+      "additionalImages": [
+        "images/2024/11/event_image_11_6_1.png",
+        "images/2024/11/event_image_11_6_2.png",
+        "images/2024/11/event_image_11_6_3.png",
+        "images/2024/11/event_image_11_6_4.png",
+        "images/2024/11/event_image_11_6_5.png",
+        "images/2024/11/event_image_11_6_6.png",
+        "images/2024/11/event_image_11_6_7.png",
+        "images/2024/11/event_image_11_6_8.png",
+        "images/2024/11/event_image_11_6_9.png"
+      ]
     }
   ]
 }
