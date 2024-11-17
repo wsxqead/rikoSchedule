@@ -1597,6 +1597,75 @@
       "day": 11,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 12,
+      "event": "저챗",
+      "quote": "",
+      "image": "images/2024/11/event_image_11_7.png",
+      "youtubeLink": "https://www.youtube.com/embed/RE252ZO6qG4",
+      "additionalImages": ["images/2024/11/event_image_11_7.png"]
+    },
+    {
+      "day": 13,
+      "event": "모텔 시뮬레이터",
+      "quote": "모텔 시뮬레이터 & 롤",
+      "image": "images/2024/11/event_image_11_8.png",
+      "youtubeLink": "https://www.youtube.com/embed/xhVKgpWrmYg",
+      "additionalImages": [
+        "images/2024/11/event_image_11_8_1.png",
+        "images/2024/11/event_image_11_8_2.png",
+        "images/2024/11/event_image_11_8_3.png",
+        "images/2024/11/event_image_11_8_4.png",
+        "images/2024/11/event_image_11_8_5.png",
+        "images/2024/11/event_image_11_8_6.png"
+      ]
+    },
+    {
+      "day": 14,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 15,
+      "event": "GTA5 습격 사전준비",
+      "quote": "GTA5",
+      "image": "images/2024/11/event_image_11_9_3.png",
+      "youtubeLink": "https://www.youtube.com/embed/pX_Emc7VPYw",
+      "additionalImages": [
+        "images/2024/11/event_image_11_9_1.png",
+        "images/2024/11/event_image_11_9_2.png",
+        "images/2024/11/event_image_11_9_3.png",
+        "images/2024/11/event_image_11_9_4.png",
+        "images/2024/11/event_image_11_9_5.png",
+        "images/2024/11/event_image_11_9_6.png",
+        "images/2024/11/event_image_11_9_7.png"
+      ]
+    },
+    {
+      "day": 16,
+      "event": "GTA5 클리셰 합방 습격",
+      "quote": "GTA5 & 롤",
+      "image": "images/2024/11/event_image_11_10.png",
+      "youtubeLink": "https://www.youtube.com/embed/CXuFB3dcwro",
+      "additionalImages": [
+        "images/2024/11/event_image_11_10_1.png",
+        "images/2024/11/event_image_11_10_2.png",
+        "images/2024/11/event_image_11_10_3.png",
+        "images/2024/11/event_image_11_10_4.png",
+        "images/2024/11/event_image_11_10_5.png",
+        "images/2024/11/event_image_11_10_6.png",
+        "images/2024/11/event_image_11_10_7.png",
+        "images/2024/11/event_image_11_10_8.png",
+        "images/2024/11/event_image_11_10_9.png",
+        "images/2024/11/event_image_11_10_10.png",
+        "images/2024/11/event_image_11_10_11.png"
+      ]
+    },
+    {
+      "day": 17,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
     }
   ]
 }
