@@ -1666,6 +1666,51 @@
       "day": 17,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 18,
+      "event": "에브리바디 스위치",
+      "quote": "에브리바디 스위치 & 점프킹 & 배그 치킨",
+      "image": "images/2024/11/event_image_11_11.png",
+      "youtubeLink": "https://www.youtube.com/embed/Wlmk6d614pY",
+      "additionalImages": [
+        "images/2024/11/event_image_11_11_1.png",
+        "images/2024/11/event_image_11_11_2.png",
+        "images/2024/11/event_image_11_11_3.png",
+        "images/2024/11/event_image_11_11_4.png",
+        "images/2024/11/event_image_11_11_5.png",
+        "images/2024/11/event_image_11_11_6.png",
+        "images/2024/11/event_image_11_11_7.png",
+        "images/2024/11/event_image_11_11_8.png",
+        "images/2024/11/event_image_11_11_9.png",
+        "images/2024/11/event_image_11_11_10.png",
+        "images/2024/11/event_image_11_11_11.png",
+        "images/2024/11/event_image_11_11_12.png"
+      ]
+    },
+    {
+      "day": 19,
+      "event": "인터넷카페시뮬레이션",
+      "quote": "",
+      "image": "images/2024/11/event_image_11_12_1.png",
+      "youtubeLink": "https://www.youtube.com/embed/5MaN5yLJMXI",
+      "additionalImages": [
+        "images/2024/11/event_image_11_12_1.png",
+        "images/2024/11/event_image_11_12_2.png",
+        "images/2024/11/event_image_11_12_3.png",
+        "images/2024/11/event_image_11_12_4.png",
+        "images/2024/11/event_image_11_12_5.png",
+        "images/2024/11/event_image_11_12_6.png",
+        "images/2024/11/event_image_11_12_7.png",
+        "images/2024/11/event_image_11_12_8.png",
+        "images/2024/11/event_image_11_12_9.png",
+        "images/2024/11/event_image_11_12_10.png"
+      ]
+    },
+    {
+      "day": 20,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
     }
   ]
 }
