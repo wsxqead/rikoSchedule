@@ -1,5 +1,5 @@
 let currentYear = new Date().getFullYear(); // 현재 연도 자동으로 설정
-let currentMonth = "nov"; // 기본적으로 5월을 표시
+let currentMonth = "dec"; // 기본적으로 5월을 표시
 const holidayImage = "images/holiday_image.png"; // 휴방일 이미지 설정
 
 const holidays = {
