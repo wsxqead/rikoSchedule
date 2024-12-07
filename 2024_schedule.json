@@ -1849,5 +1849,94 @@
         "images/2024/11/event_image_11_19_9.png"
       ]
     }
+  ],
+  "dec": [
+    {
+      "day": 1,
+      "event": "봉누도 5일차",
+      "quote": "",
+      "image": "images/2024/12/event_image_12_1_1.png",
+      "youtubeLink": "https://www.youtube.com/embed/0tihcrWMQ4Y",
+      "additionalImages": [
+        "images/2024/12/event_image_12_1_1.png",
+        "images/2024/12/event_image_12_1_2.png",
+        "images/2024/12/event_image_12_1_3.png",
+        "images/2024/12/event_image_12_1_4.png",
+        "images/2024/12/event_image_12_1_5.png",
+        "images/2024/12/event_image_12_1_6.png"
+      ]
+    },
+    {
+      "day": 2,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 3,
+      "event": "봉누도 6일차",
+      "quote": "",
+      "image": "images/2024/12/event_image_12_2.png",
+      "youtubeLink": "https://www.youtube.com/embed/xApGnenrasA",
+      "additionalImages": [
+        "images/2024/12/event_image_12_2_1.png",
+        "images/2024/12/event_image_12_2_2.png",
+        "images/2024/12/event_image_12_2_3.png",
+        "images/2024/12/event_image_12_2_4.png",
+        "images/2024/12/event_image_12_2_5.png",
+        "images/2024/12/event_image_12_2_6.png",
+        "images/2024/12/event_image_12_2_7.png",
+        "images/2024/12/event_image_12_2_8.png",
+        "images/2024/12/event_image_12_2_9.png",
+        "images/2024/12/event_image_12_2_10.png",
+        "images/2024/12/event_image_12_2_11.png",
+        "images/2024/12/event_image_12_2_12.png",
+        "images/2024/12/event_image_12_2_13.png",
+        "images/2024/12/event_image_12_2_14.png"
+      ]
+    },
+    {
+      "day": 4,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 5,
+      "event": "봉누도 7일차",
+      "quote": "",
+      "image": "images/2024/12/event_image_12_3.png",
+      "youtubeLink": "https://www.youtube.com/embed/zQMauOMEdYM",
+      "additionalImages": [
+        "images/2024/12/event_image_12_3_1.png",
+        "images/2024/12/event_image_12_3_2.png",
+        "images/2024/12/event_image_12_3_3.png",
+        "images/2024/12/event_image_12_3_4.png",
+        "images/2024/12/event_image_12_3_5.png",
+        "images/2024/12/event_image_12_3_6.png",
+        "images/2024/12/event_image_12_3_7.png",
+        "images/2024/12/event_image_12_3_8.png",
+        "images/2024/12/event_image_12_3_9.png",
+        "images/2024/12/event_image_12_3_10.png"
+      ]
+    },
+    {
+      "day": 6,
+      "event": "봉누도 8일차",
+      "quote": "",
+      "image": "images/2024/12/event_image_12_4.png",
+      "youtubeLink": "https://www.youtube.com/embed/S68nn_fcZHA",
+      "additionalImages": [
+        "images/2024/12/event_image_12_4_1.png",
+        "images/2024/12/event_image_12_4_2.png",
+        "images/2024/12/event_image_12_4_3.png",
+        "images/2024/12/event_image_12_4_4.png",
+        "images/2024/12/event_image_12_4_5.png",
+        "images/2024/12/event_image_12_4_6.png"
+      ]
+    },
+    {
+      "day": 7,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    }
   ]
 }

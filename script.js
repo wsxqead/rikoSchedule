@@ -37,6 +37,7 @@ function updateCalendarHeader(monthId) {
     sep: "9월",
     oct: "10월",
     nov: "11월",
+    dec: "12월",
   };
   document.getElementById("calendar-month").textContent = monthNames[monthId];
 }
@@ -67,6 +68,7 @@ function initializeSelectors() {
     { year: 2024, month: "sep", label: "2024년 9월" },
     { year: 2024, month: "oct", label: "2024년 10월" },
     { year: 2024, month: "nov", label: "2024년 11월" },
+    { year: 2024, month: "dec", label: "2024년 12월" },
   ];
 
   // 셀렉트 박스에 연도와 월 추가
@@ -339,6 +341,7 @@ Object.prototype.idToMonthIndex = function () {
     sep: 9,
     oct: 10,
     nov: 11,
+    dec: 12,
   };
   return monthMap[this.id];
 };
