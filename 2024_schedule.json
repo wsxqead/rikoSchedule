@@ -1935,8 +1935,15 @@
     },
     {
       "day": 7,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
+      "event": "봉누도 9일차",
+      "quote": "기습 방송 보물섬과 야유회",
+      "image": "images/2024/12/event_image_12_5.png",
+      "youtubeLink": "https://www.youtube.com/embed/S68nn_fcZHA",
+      "additionalImages": [
+        "images/2024/12/event_image_12_5_1.png",
+        "images/2024/12/event_image_12_5_2.png",
+        "images/2024/12/event_image_12_5_3.png"
+      ]
     }
   ]
 }
