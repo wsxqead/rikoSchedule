@@ -1942,19 +1942,66 @@
       "additionalImages": [
         "images/2024/12/event_image_12_5_1.png",
         "images/2024/12/event_image_12_5_2.png",
-        "images/2024/12/event_image_12_5_3.png"
+        "images/2024/12/event_image_12_5_3.png",
+        "images/2024/12/event_image_12_5_4.png",
+        "images/2024/12/event_image_12_5_5.png",
+        "images/2024/12/event_image_12_5_6.png"
       ]
     },
     {
       "day": 8,
       "event": "봉누도 10일차",
       "quote": "정유자, 순경 진급!!!",
-      "image": "images/2024/12/event_image_12_5.png",
+      "image": "images/2024/12/event_image_12_6_11.png",
       "youtubeLink": "https://www.youtube.com/embed/kN9ZnXE7cfk",
       "additionalImages": [
-        "images/2024/12/event_image_12_5_1.png",
-        "images/2024/12/event_image_12_5_2.png",
-        "images/2024/12/event_image_12_5_3.png"
+        "images/2024/12/event_image_12_6_1.png",
+        "images/2024/12/event_image_12_6_2.png",
+        "images/2024/12/event_image_12_6_3.png",
+        "images/2024/12/event_image_12_6_4.png",
+        "images/2024/12/event_image_12_6_5.png",
+        "images/2024/12/event_image_12_6_6.png",
+        "images/2024/12/event_image_12_6_7.png",
+        "images/2024/12/event_image_12_6_8.png",
+        "images/2024/12/event_image_12_6_9.png",
+        "images/2024/12/event_image_12_6_10.png",
+        "images/2024/12/event_image_12_6_11.png",
+        "images/2024/12/event_image_12_6_12.png"
+      ]
+    },
+    {
+      "day": 9,
+      "event": "봉누도 11일차",
+      "quote": "스릴 넘치는 싸움, 그 날",
+      "image": "images/2024/12/event_image_12_7_8.png",
+      "youtubeLink": "https://www.youtube.com/embed/aH2p7m2uBn8",
+      "additionalImages": [
+        "images/2024/12/event_image_12_7_1.png",
+        "images/2024/12/event_image_12_7_2.png",
+        "images/2024/12/event_image_12_7_3.png",
+        "images/2024/12/event_image_12_7_4.png",
+        "images/2024/12/event_image_12_7_5.png",
+        "images/2024/12/event_image_12_7_6.png",
+        "images/2024/12/event_image_12_7_7.png",
+        "images/2024/12/event_image_12_7_8.png",
+        "images/2024/12/event_image_12_7_9.png",
+        "images/2024/12/event_image_12_7_10.png"
+      ]
+    },
+    {
+      "day": 10,
+      "event": "배틀그라운드",
+      "quote": "배틀그라운드 사녹 업데이트!! 3기생 출동!",
+      "image": "images/2024/12/event_image_12_8.png",
+      "youtubeLink": "https://www.youtube.com/embed/Er-fGQoCZw8",
+      "additionalImages": [
+        "images/2024/12/event_image_12_8_1.png",
+        "images/2024/12/event_image_12_8_2.png",
+        "images/2024/12/event_image_12_8_3.png",
+        "images/2024/12/event_image_12_8_4.png",
+        "images/2024/12/event_image_12_8_5.png",
+        "images/2024/12/event_image_12_8_6.png",
+        "images/2024/12/event_image_12_8_7.png"
       ]
     },
     {
@@ -1963,12 +2010,125 @@
       "image": "images/holiday_image.png"
     },
     {
+      "day": 12,
+      "event": "봉누도 13일차",
+      "quote": "다시 교육생이라니ㅠㅠ!! | 갱단의 습격",
+      "image": "images/2024/12/event_image_12_9.png",
+      "youtubeLink": "https://www.youtube.com/embed/WNUK6q8pgrg",
+      "additionalImages": [
+        "images/2024/12/event_image_12_9_01.png",
+        "images/2024/12/event_image_12_9_02.png",
+        "images/2024/12/event_image_12_9_03.png",
+        "images/2024/12/event_image_12_9_04.png",
+        "images/2024/12/event_image_12_9_05.png",
+        "images/2024/12/event_image_12_9_06.png",
+        "images/2024/12/event_image_12_9_07.png",
+        "images/2024/12/event_image_12_9_08.png",
+        "images/2024/12/event_image_12_9_09.png",
+        "images/2024/12/event_image_12_9_10.png",
+        "images/2024/12/event_image_12_9_11.png",
+        "images/2024/12/event_image_12_9_12.png",
+        "images/2024/12/event_image_12_9_13.png"
+      ]
+    },
+    {
       "day": 13,
-      "event": "주름맞추기",
-      "quote": "",
-      "image": "images/2024/12/event_image_12_5.png",
-      "youtubeLink": "https://www.youtube.com/embed/S68nn_fcZHA",
-      "additionalImages": []
+      "event": "주름맞추기 & 봉누도 14일차",
+      "quote": "날 두고 가지마...!! | 봉누도 퍼지 데이",
+      "image": "images/2024/12/event_image_12_10.webp",
+      "youtubeLink": "https://www.youtube.com/embed/EtOZrNn5eB8",
+      "additionalImages": [
+        "images/2024/12/event_image_12_10_01.png",
+        "images/2024/12/event_image_12_10_02.png",
+        "images/2024/12/event_image_12_10_03.png",
+        "images/2024/12/event_image_12_10_04.png",
+        "images/2024/12/event_image_12_10_05.png",
+        "images/2024/12/event_image_12_10_06.png",
+        "images/2024/12/event_image_12_10_07.png",
+        "images/2024/12/event_image_12_10_08.png",
+        "images/2024/12/event_image_12_10_09.png",
+        "images/2024/12/event_image_12_10_10.png",
+        "images/2024/12/event_image_12_10_11.png"
+      ]
+    },
+    {
+      "day": 14,
+      "event": "봉누도 15일차",
+      "quote": "남부 VS 북부 결전의 날",
+      "image": "images/2024/12/event_image_12_11.png",
+      "youtubeLink": "https://www.youtube.com/embed/Nnpz9SYDweU",
+      "additionalImages": [
+        "images/2024/12/event_image_12_11_01.png",
+        "images/2024/12/event_image_12_11_02.png",
+        "images/2024/12/event_image_12_11_03.png",
+        "images/2024/12/event_image_12_11_04.png",
+        "images/2024/12/event_image_12_11_05.png",
+        "images/2024/12/event_image_12_11_06.png",
+        "images/2024/12/event_image_12_11_07.png",
+        "images/2024/12/event_image_12_11_08.png",
+        "images/2024/12/event_image_12_11_09.png",
+        "images/2024/12/event_image_12_11_10.png",
+        "images/2024/12/event_image_12_11_11.png",
+        "images/2024/12/event_image_12_11_12.png",
+        "images/2024/12/event_image_12_11_13.png",
+        "images/2024/12/event_image_12_11_14.png",
+        "images/2024/12/event_image_12_11_15.png",
+        "images/2024/12/event_image_12_11_16.png",
+        "images/2024/12/event_image_12_11_17.png",
+        "images/2024/12/event_image_12_11_18.png"
+      ]
+    },
+    {
+      "day": 15,
+      "event": "봉누도 16일차",
+      "quote": "봉누도 클립 보기! l 마지막 경찰 야유회",
+      "image": "images/2024/12/event_image_12_12.png",
+      "youtubeLink": "https://www.youtube.com/embed/MZC5XveJk",
+      "additionalImages": [
+        "images/2024/12/event_image_12_12_01.png",
+        "images/2024/12/event_image_12_12_02.png",
+        "images/2024/12/event_image_12_12_03.png",
+        "images/2024/12/event_image_12_12_04.png",
+        "images/2024/12/event_image_12_12_05.png",
+        "images/2024/12/event_image_12_12_06.png",
+        "images/2024/12/event_image_12_12_07.png",
+        "images/2024/12/event_image_12_12_08.png",
+        "images/2024/12/event_image_12_12_09.png",
+        "images/2024/12/event_image_12_12_10.png",
+        "images/2024/12/event_image_12_12_11.png",
+        "images/2024/12/event_image_12_12_12.png",
+        "images/2024/12/event_image_12_12_13.png",
+        "images/2024/12/event_image_12_12_14.png",
+        "images/2024/12/event_image_12_12_15.png",
+        "images/2024/12/event_image_12_12_16.png",
+        "images/2024/12/event_image_12_12_17.png"
+      ]
+    },
+    {
+      "day": 16,
+      "event": "봉누도 마지막",
+      "quote": "행복했어...봉누도",
+      "image": "images/2024/12/event_image_12_13.png",
+      "youtubeLink": "https://www.youtube.com/embed/5ZypXvRT550",
+      "additionalImages": [
+        "images/2024/12/event_image_12_13_01.png",
+        "images/2024/12/event_image_12_13_02.png",
+        "images/2024/12/event_image_12_13_03.png",
+        "images/2024/12/event_image_12_13_04.png",
+        "images/2024/12/event_image_12_13_05.png",
+        "images/2024/12/event_image_12_13_06.png",
+        "images/2024/12/event_image_12_13_07.png",
+        "images/2024/12/event_image_12_13_08.png",
+        "images/2024/12/event_image_12_13_09.png",
+        "images/2024/12/event_image_12_13_10.png",
+        "images/2024/12/event_image_12_13_11.png",
+        "images/2024/12/event_image_12_13_12.png",
+        "images/2024/12/event_image_12_13_13.png",
+        "images/2024/12/event_image_12_13_14.png",
+        "images/2024/12/event_image_12_13_15.png",
+        "images/2024/12/event_image_12_13_16.png",
+        "images/2024/12/event_image_12_13_17.png"
+      ]
     },
     {
       "day": 17,
@@ -2006,12 +2166,50 @@
       "image": "images/holiday_image.png"
     },
     {
+      "day": 24,
+      "event": "크리스마스 이브!",
+      "quote": "물건 모르는 채 팔기! (스텔 크리스마스 합방) l 구스구스덕",
+      "image": "images/2024/12/event_image_12_14.png",
+      "youtubeLink": "https://www.youtube.com/embed/m_BXSo1rdJ8",
+      "additionalImages": [
+        "images/2024/12/event_image_12_14_01.png",
+        "images/2024/12/event_image_12_14_02.png",
+        "images/2024/12/event_image_12_14_03.png",
+        "images/2024/12/event_image_12_14_04.png",
+        "images/2024/12/event_image_12_14_05.png",
+        "images/2024/12/event_image_12_14_06.png",
+        "images/2024/12/event_image_12_14_07.png",
+        "images/2024/12/event_image_12_14_08.png",
+        "images/2024/12/event_image_12_14_09.png",
+        "images/2024/12/event_image_12_14_10.png",
+        "images/2024/12/event_image_12_14_11.png",
+        "images/2024/12/event_image_12_14_12.png",
+        "images/2024/12/event_image_12_14_13.png"
+      ]
+    },
+    {
       "day": 25,
-      "event": "크리스마스송",
-      "quote": "기습 방송 보물섬과 야유회",
-      "image": "images/2024/12/event_image_12_5.png",
-      "youtubeLink": "https://www.youtube.com/embed/S68nn_fcZHA",
-      "additionalImages": []
+      "event": "커버곡 크리스마스송",
+      "quote": "리코랑 크리스마스",
+      "image": "images/2024/12/event_image_12_15.webp",
+      // "youtubeLink": "https://www.youtube.com/embed/S68nn_fcZHA",
+      "additionalImages": [
+        "images/2024/12/event_image_12_15_01.png",
+        "images/2024/12/event_image_12_15_02.png",
+        "images/2024/12/event_image_12_15_03.png",
+        "images/2024/12/event_image_12_15_04.png",
+        "images/2024/12/event_image_12_15_05.png",
+        "images/2024/12/event_image_12_15_06.png",
+        "images/2024/12/event_image_12_15_07.png",
+        "images/2024/12/event_image_12_15_08.png",
+        "images/2024/12/event_image_12_15_09.png",
+        "images/2024/12/event_image_12_15_10.png",
+        "images/2024/12/event_image_12_15_11.png",
+        "images/2024/12/event_image_12_15_12.png",
+        "images/2024/12/event_image_12_15_13.png",
+        "images/2024/12/event_image_12_15_14.png",
+        "images/2024/12/event_image_12_15_15.png"
+      ]
     }
   ]
 }
