@@ -1875,7 +1875,7 @@
       "day": 3,
       "event": "봉누도 6일차",
       "quote": "",
-      "image": "images/2024/12/event_image_12_2.png",
+      "image": "images/2024/12/event_image_12_2_1.png",
       "youtubeLink": "https://www.youtube.com/embed/xApGnenrasA",
       "additionalImages": [
         "images/2024/12/event_image_12_2_1.png",
@@ -1903,7 +1903,7 @@
       "day": 5,
       "event": "봉누도 7일차",
       "quote": "",
-      "image": "images/2024/12/event_image_12_3.png",
+      "image": "images/2024/12/event_image_12_3_1.png",
       "youtubeLink": "https://www.youtube.com/embed/zQMauOMEdYM",
       "additionalImages": [
         "images/2024/12/event_image_12_3_1.png",
@@ -1922,7 +1922,7 @@
       "day": 6,
       "event": "봉누도 8일차",
       "quote": "",
-      "image": "images/2024/12/event_image_12_4.png",
+      "image": "images/2024/12/event_image_12_4_1.png",
       "youtubeLink": "https://www.youtube.com/embed/S68nn_fcZHA",
       "additionalImages": [
         "images/2024/12/event_image_12_4_1.png",
@@ -1938,12 +1938,80 @@
       "event": "봉누도 9일차",
       "quote": "기습 방송 보물섬과 야유회",
       "image": "images/2024/12/event_image_12_5.png",
-      "youtubeLink": "https://www.youtube.com/embed/S68nn_fcZHA",
+      "youtubeLink": "https://www.youtube.com/embed/2HLgtjSDSws",
       "additionalImages": [
         "images/2024/12/event_image_12_5_1.png",
         "images/2024/12/event_image_12_5_2.png",
         "images/2024/12/event_image_12_5_3.png"
       ]
+    },
+    {
+      "day": 8,
+      "event": "봉누도 10일차",
+      "quote": "정유자, 순경 진급!!!",
+      "image": "images/2024/12/event_image_12_5.png",
+      "youtubeLink": "https://www.youtube.com/embed/kN9ZnXE7cfk",
+      "additionalImages": [
+        "images/2024/12/event_image_12_5_1.png",
+        "images/2024/12/event_image_12_5_2.png",
+        "images/2024/12/event_image_12_5_3.png"
+      ]
+    },
+    {
+      "day": 11,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 13,
+      "event": "주름맞추기",
+      "quote": "",
+      "image": "images/2024/12/event_image_12_5.png",
+      "youtubeLink": "https://www.youtube.com/embed/S68nn_fcZHA",
+      "additionalImages": []
+    },
+    {
+      "day": 17,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 18,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 19,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 20,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 21,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 22,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 23,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 25,
+      "event": "크리스마스송",
+      "quote": "기습 방송 보물섬과 야유회",
+      "image": "images/2024/12/event_image_12_5.png",
+      "youtubeLink": "https://www.youtube.com/embed/S68nn_fcZHA",
+      "additionalImages": []
     }
   ]
 }
