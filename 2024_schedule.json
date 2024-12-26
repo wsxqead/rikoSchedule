@@ -612,7 +612,7 @@
     },
     {
       "day": 6,
-      "event": "배틀 그라운드",
+      "event": "배틀그라운드",
       "quote": "린과 배그 듀오",
       "image": "images/2024/07/event_image_07_6.png",
       "additionalImages": [
@@ -641,9 +641,123 @@
       ]
     },
     {
+      "day": 8,
+      "event": "배틀그라운드",
+      "quote": "배틀그라운드  & 마인크래프트",
+      "image": "images/2024/07/event_image_07_8.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_8_1.png",
+        "images/2024/07/event_image_07_8_2.png",
+        "images/2024/07/event_image_07_8_3.png",
+        "images/2024/07/event_image_07_8_4.png",
+        "images/2024/07/event_image_07_8_5.png"
+      ]
+    },
+    {
+      "day": 9,
+      "event": "스텔 마크",
+      "quote": "워든시티 털어버렷",
+      "image": "images/2024/07/event_image_07_9.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_9_1.png",
+        "images/2024/07/event_image_07_9_2.png",
+        "images/2024/07/event_image_07_9_3.png",
+        "images/2024/07/event_image_07_9_4.png"
+      ]
+    },
+    {
       "day": 10,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 11,
+      "event": "로스트아크",
+      "quote": "파트 타임 알바 게임 & 로스트아크",
+      "image": "images/2024/07/event_image_07_10.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_10_1.png",
+        "images/2024/07/event_image_07_10_2.png",
+        "images/2024/07/event_image_07_10_3.png",
+        "images/2024/07/event_image_07_10_4.png",
+        "images/2024/07/event_image_07_10_5.png",
+        "images/2024/07/event_image_07_10_6.png",
+        "images/2024/07/event_image_07_10_7.png",
+        "images/2024/07/event_image_07_10_8.png",
+        "images/2024/07/event_image_07_10_9.png"
+      ]
+    },
+    {
+      "day": 12,
+      "event": "서브노티카",
+      "quote": "",
+      "image": "images/2024/07/event_image_07_11.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_11_1.png",
+        "images/2024/07/event_image_07_11_2.png",
+        "images/2024/07/event_image_07_11_3.png",
+        "images/2024/07/event_image_07_11_4.png",
+        "images/2024/07/event_image_07_11_5.png"
+      ]
+    },
+    {
+      "day": 13,
+      "event": "로스트아크",
+      "quote": "쿠크세이튼 트라이",
+      "image": "images/2024/07/event_image_07_12.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_12_1.png",
+        "images/2024/07/event_image_07_12_2.png",
+        "images/2024/07/event_image_07_12_3.png",
+        "images/2024/07/event_image_07_12_4.png",
+        "images/2024/07/event_image_07_12_5.png",
+        "images/2024/07/event_image_07_12_6.png",
+        "images/2024/07/event_image_07_12_7.png",
+        "images/2024/07/event_image_07_12_8.png",
+        "images/2024/07/event_image_07_12_9.png"
+      ]
+    },
+    {
+      "day": 14,
+      "event": "마인크래프트",
+      "quote": "치킨월드컵 | 거위로 분탕하기 | 마크 돈벌쟈!",
+      "image": "images/2024/07/event_image_07_13.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_13_1.png",
+        "images/2024/07/event_image_07_13_2.png",
+        "images/2024/07/event_image_07_13_3.png",
+        "images/2024/07/event_image_07_13_4.png",
+        "images/2024/07/event_image_07_13_5.png",
+        "images/2024/07/event_image_07_13_6.png",
+        "images/2024/07/event_image_07_13_7.png"
+      ]
+    },
+    {
+      "day": 15,
+      "event": "배틀그라운드",
+      "quote": "",
+      "image": "images/2024/07/event_image_07_14.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_14_1.png",
+        "images/2024/07/event_image_07_14_2.png",
+        "images/2024/07/event_image_07_14_3.png",
+        "images/2024/07/event_image_07_14_4.png"
+      ]
+    },
+    {
+      "day": 16,
+      "event": "로스트아크",
+      "quote": "아브렐슈드",
+      "image": "images/2024/07/event_image_07_15.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_15_1.png",
+        "images/2024/07/event_image_07_15_2.png",
+        "images/2024/07/event_image_07_15_3.png",
+        "images/2024/07/event_image_07_15_4.png",
+        "images/2024/07/event_image_07_15_5.png",
+        "images/2024/07/event_image_07_15_6.png",
+        "images/2024/07/event_image_07_15_7.png"
+      ]
     },
     {
       "day": 17,
