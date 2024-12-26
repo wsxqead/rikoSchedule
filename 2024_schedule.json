@@ -1059,7 +1059,7 @@
     },
     {
       "day": 10,
-      "event": "롤토체스",
+      "event": "사이버펑크",
       "quote": "",
       "image": "images/2024/08/event_image_08_7.png",
       "youtubeLink": "https://www.youtube.com/embed/YO1YAsyZOb8",
@@ -1067,6 +1067,87 @@
         "images/2024/08/event_image_08_7_01.png",
         "images/2024/08/event_image_08_7_02.png",
         "images/2024/08/event_image_08_7_03.png"
+      ]
+    },
+    {
+      "day": 11,
+      "event": "사이버펑크",
+      "quote": "",
+      "image": "images/2024/08/event_image_08_8.png",
+      "youtubeLink": "https://www.youtube.com/embed/w8sOA5Lh8hE",
+      "additionalImages": [
+        "images/2024/08/event_image_08_8_01.png",
+        "images/2024/08/event_image_08_8_02.png",
+        "images/2024/08/event_image_08_8_03.png",
+        "images/2024/08/event_image_08_8_04.png",
+        "images/2024/08/event_image_08_8_05.png",
+        "images/2024/08/event_image_08_8_06.png"
+      ]
+    },
+    {
+      "day": 12,
+      "event": "팬카페 탐방 | 뱀나와라 리코더",
+      "quote": "",
+      "image": "images/2024/08/event_image_08_9.png",
+      "youtubeLink": "https://www.youtube.com/embed/DaWmc3epWTE",
+      "additionalImages": [
+        "images/2024/08/event_image_08_9_01.png",
+        "images/2024/08/event_image_08_9_02.png",
+        "images/2024/08/event_image_08_9_03.png",
+        "images/2024/08/event_image_08_9_04.png",
+        "images/2024/08/event_image_08_9_05.png"
+      ]
+    },
+    {
+      "day": 13,
+      "event": "사이버펑크",
+      "quote": "사이버펑크 & 배틀그라운드 & 롤체",
+      "image": "images/2024/08/event_image_08_10.png",
+      "youtubeLink": "https://www.youtube.com/embed/a-IIUH64ync",
+      "additionalImages": [
+        "images/2024/08/event_image_08_10_01.png",
+        "images/2024/08/event_image_08_10_02.png",
+        "images/2024/08/event_image_08_10_03.png",
+        "images/2024/08/event_image_08_10_04.png",
+        "images/2024/08/event_image_08_10_05.png",
+        "images/2024/08/event_image_08_10_06.png",
+        "images/2024/08/event_image_08_10_07.png"
+      ]
+    },{
+      "day": 14,
+      "event": "발로란트",
+      "quote": "",
+      "image": "images/2024/08/event_image_08_11.png",
+      "youtubeLink": "https://www.youtube.com/embed/SCj7eA3qcxc",
+      "additionalImages": [
+        "images/2024/08/event_image_08_11_01.png",
+        "images/2024/08/event_image_08_11_02.png",
+        "images/2024/08/event_image_08_11_03.png",
+        "images/2024/08/event_image_08_11_04.png"
+      ]
+    },
+    {
+      "day": 15,
+      "event": "여름방학 숙제! [빙수만들기, 공포게임으로 담력 테스트]",
+      "quote": "",
+      "image": "images/2024/08/event_image_08_12.png",
+      "youtubeLink": "https://www.youtube.com/embed/cvMaVGkLzVg",
+      "additionalImages": [
+        "images/2024/08/event_image_08_12_01.png",
+        "images/2024/08/event_image_08_12_02.png",
+        "images/2024/08/event_image_08_12_03.png",
+        "images/2024/08/event_image_08_12_04.png"
+      ]
+    },
+    {
+      "day": 16,
+      "event": "토크방송",
+      "quote": "",
+      "image": "images/2024/08/event_image_08_13.png",
+      "youtubeLink": "https://www.youtube.com/embed/0QmW80OYMYg",
+      "additionalImages": [
+        "images/2024/08/event_image_08_13_01.png",
+        "images/2024/08/event_image_08_13_02.png"
       ]
     },
     {
