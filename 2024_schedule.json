@@ -948,7 +948,7 @@
       "day": 1,
       "event": "멋봉리 10일차",
       "quote": "",
-      "image": "images/2024/12/event_image_08_1.png",
+      "image": "images/2024/08/event_image_08_1.png",
       "youtubeLink": "https://www.youtube.com/embed/8F2dNgurC10",
       "additionalImages": [
         "images/2024/08/event_image_08_1_1.png",
@@ -963,7 +963,7 @@
       "day": 2,
       "event": "멋봉리 11일차",
       "quote": "",
-      "image": "images/2024/12/event_image_08_2.png",
+      "image": "images/2024/08/event_image_08_2.png",
       "youtubeLink": "https://www.youtube.com/embed/4JEjiDWYndk",
       "additionalImages": [
         "images/2024/08/event_image_08_2_01.png",
@@ -985,7 +985,7 @@
       "day": 3,
       "event": "멋봉리 12일차",
       "quote": "",
-      "image": "images/2024/12/event_image_08_3.png",
+      "image": "images/2024/08/event_image_08_3.png",
       "youtubeLink": "https://www.youtube.com/embed/tQ6-gnI39Ns",
       "additionalImages": [
         "images/2024/08/event_image_08_3_01.png",
@@ -1005,7 +1005,7 @@
       "day": 4,
       "event": "멋봉리 마지막",
       "quote": "",
-      "image": "images/2024/12/event_image_08_4.png",
+      "image": "images/2024/08/event_image_08_4.png",
       "youtubeLink": "https://www.youtube.com/embed/g78DHpSfgVI",
       "additionalImages": [
         "images/2024/08/event_image_08_4_01.png",
@@ -1028,9 +1028,46 @@
       "image": "images/holiday_image.png"
     },
     {
+      "day": 7,
+      "event": "토크방송",
+      "quote": "",
+      "image": "images/2024/08/event_image_08_5.png",
+      "youtubeLink": "https://www.youtube.com/embed/Igqra3e7uSg",
+      "additionalImages": [
+        "images/2024/08/event_image_08_5_01.png",
+        "images/2024/08/event_image_08_5_02.png",
+        "images/2024/08/event_image_08_5_03.png"
+      ]
+    },
+    {
+      "day": 8,
+      "event": "롤토체스",
+      "quote": "",
+      "image": "images/2024/08/event_image_08_6.png",
+      "youtubeLink": "https://www.youtube.com/embed/K9oI-Gm_vD0",
+      "additionalImages": [
+        "images/2024/08/event_image_08_6_01.png",
+        "images/2024/08/event_image_08_6_02.png",
+        "images/2024/08/event_image_08_6_03.png",
+        "images/2024/08/event_image_08_6_04.png"
+      ]
+    },
+    {
       "day": 9,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 10,
+      "event": "롤토체스",
+      "quote": "",
+      "image": "images/2024/08/event_image_08_7.png",
+      "youtubeLink": "https://www.youtube.com/embed/YO1YAsyZOb8",
+      "additionalImages": [
+        "images/2024/08/event_image_08_7_01.png",
+        "images/2024/08/event_image_08_7_02.png",
+        "images/2024/08/event_image_08_7_03.png"
+      ]
     },
     {
       "day": 17,
