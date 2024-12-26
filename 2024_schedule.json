@@ -1161,6 +1161,44 @@
       "image": "images/holiday_image.png"
     },
     {
+      "day": 19,
+      "event": "토크방송",
+      "quote": "",
+      "image": "images/2024/08/event_image_08_14.png",
+      "youtubeLink": "https://www.youtube.com/embed/BfHxXcAgWIU",
+      "additionalImages": [
+        "images/2024/08/event_image_08_14_01.png",
+        "images/2024/08/event_image_08_14_02.png",
+        "images/2024/08/event_image_08_14_03.png"
+      ]
+    },
+    {
+      "day": 20,
+      "event": "클리셰바",
+      "quote": "배틀그라운드 & 클리셰바",
+      "image": "images/2024/08/event_image_08_15.png",
+      "youtubeLink": "https://www.youtube.com/embed/7ZBIzvtM_uk",
+      "additionalImages": [
+        "images/2024/08/event_image_08_15_01.png",
+        "images/2024/08/event_image_08_15_02.png",
+        "images/2024/08/event_image_08_15_03.png",
+        "images/2024/08/event_image_08_15_04.png"
+      ]
+    },
+    {
+      "day": 21,
+      "event": "선술집 시뮬레이션",
+      "quote": "",
+      "image": "images/2024/08/event_image_08_16.png",
+      "youtubeLink": "https://www.youtube.com/embed/z9Az5rkh3Qk",
+      "additionalImages": [
+        "images/2024/08/event_image_08_16_01.png",
+        "images/2024/08/event_image_08_16_02.png",
+        "images/2024/08/event_image_08_16_03.png",
+        "images/2024/08/event_image_08_16_04.png"
+      ]
+    },
+    {
       "day": 22,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
