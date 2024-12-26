@@ -578,6 +578,69 @@
       ]
     },
     {
+      "day": 4,
+      "event": "던전본",
+      "quote": "던전본 & 배틀 그라운드",
+      "image": "images/2024/07/event_image_07_4.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_4_1.png",
+        "images/2024/07/event_image_07_4_2.png",
+        "images/2024/07/event_image_07_4_3.png",
+        "images/2024/07/event_image_07_4_4.png",
+        "images/2024/07/event_image_07_4_5.png",
+        "images/2024/07/event_image_07_4_6.png"
+      ]
+    },
+    {
+      "day": 5,
+      "event": "체인드 투게더",
+      "quote": "체인드 투게더 (w. 칸나, 린) & 배틀 그라운드",
+      "image": "images/2024/07/event_image_07_5.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_5_1.png",
+        "images/2024/07/event_image_07_5_2.png",
+        "images/2024/07/event_image_07_5_3.png",
+        "images/2024/07/event_image_07_5_4.png",
+        "images/2024/07/event_image_07_5_5.png",
+        "images/2024/07/event_image_07_5_6.png",
+        "images/2024/07/event_image_07_5_7.png",
+        "images/2024/07/event_image_07_5_8.png",
+        "images/2024/07/event_image_07_5_9.png",
+        "images/2024/07/event_image_07_5_10.png",
+        "images/2024/07/event_image_07_5_11.png"
+      ]
+    },
+    {
+      "day": 6,
+      "event": "배틀 그라운드",
+      "quote": "린과 배그 듀오",
+      "image": "images/2024/07/event_image_07_6.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_6_1.png",
+        "images/2024/07/event_image_07_6_2.png",
+        "images/2024/07/event_image_07_6_3.png",
+        "images/2024/07/event_image_07_6_4.png",
+        "images/2024/07/event_image_07_6_5.png"
+      ]
+    },
+    {
+      "day": 7,
+      "event": "서브노티카",
+      "quote": "서브노티카  & 마인크래프트",
+      "image": "images/2024/07/event_image_07_7.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_7_1.png",
+        "images/2024/07/event_image_07_7_2.png",
+        "images/2024/07/event_image_07_7_3.png",
+        "images/2024/07/event_image_07_7_4.png",
+        "images/2024/07/event_image_07_7_5.png",
+        "images/2024/07/event_image_07_7_6.png",
+        "images/2024/07/event_image_07_7_7.png",
+        "images/2024/07/event_image_07_7_8.png",
+        "images/2024/07/event_image_07_7_9.png"
+      ]
+    },
+    {
       "day": 10,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
@@ -2192,6 +2255,7 @@
       "event": "커버곡 크리스마스송",
       "quote": "리코랑 크리스마스",
       "image": "images/2024/12/event_image_12_15.webp",
+      "youtubeLink": "https://www.youtube.com/embed/Yy0-TtSaOYI",
       "additionalImages": [
         "images/2024/12/event_image_12_15_01.png",
         "images/2024/12/event_image_12_15_02.png",
@@ -2209,6 +2273,11 @@
         "images/2024/12/event_image_12_15_14.png",
         "images/2024/12/event_image_12_15_15.png"
       ]
+    },
+    {
+      "day": 26,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
     }
   ]
 }
