@@ -820,9 +820,122 @@
       ]
     },
     {
+      "day": 22,
+      "event": "멋봉리 2일차",
+      "quote": "",
+      "image": "images/2024/07/event_image_07_20.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_20_1.png",
+        "images/2024/07/event_image_07_20_2.png",
+        "images/2024/07/event_image_07_20_3.png",
+        "images/2024/07/event_image_07_20_4.png",
+        "images/2024/07/event_image_07_20_5.png"
+      ]
+    },
+    {
+      "day": 23,
+      "event": "멋봉리 3일차",
+      "quote": "",
+      "image": "images/2024/07/event_image_07_21.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_21_1.png",
+        "images/2024/07/event_image_07_21_2.png",
+        "images/2024/07/event_image_07_21_3.png",
+        "images/2024/07/event_image_07_21_4.png",
+        "images/2024/07/event_image_07_21_5.png"
+      ]
+    },
+    {
       "day": 24,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 25,
+      "event": "멋봉리 4일차",
+      "quote": "",
+      "image": "images/2024/07/event_image_07_22.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_22_1.png",
+        "images/2024/07/event_image_07_22_2.png",
+        "images/2024/07/event_image_07_22_3.png",
+        "images/2024/07/event_image_07_22_4.png",
+        "images/2024/07/event_image_07_22_5.png",
+        "images/2024/07/event_image_07_22_6.png",
+        "images/2024/07/event_image_07_22_7.png",
+        "images/2024/07/event_image_07_22_8.png",
+        "images/2024/07/event_image_07_22_9.png",
+        "images/2024/07/event_image_07_22_10.png",
+        "images/2024/07/event_image_07_22_11.png",
+        "images/2024/07/event_image_07_22_12.png",
+        "images/2024/07/event_image_07_22_13.png"
+      ]
+    },
+    {
+      "day": 26,
+      "event": "멋봉리 5일차",
+      "quote": "",
+      "image": "images/2024/07/event_image_07_23.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_23_1.png",
+        "images/2024/07/event_image_07_23_2.png",
+        "images/2024/07/event_image_07_23_3.png",
+        "images/2024/07/event_image_07_23_4.png",
+        "images/2024/07/event_image_07_23_5.png"
+      ]
+    },
+    {
+      "day": 27,
+      "event": "멋봉리 6일차",
+      "quote": "",
+      "image": "images/2024/07/event_image_07_24.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_24_1.png",
+        "images/2024/07/event_image_07_24_2.png",
+        "images/2024/07/event_image_07_24_3.png",
+        "images/2024/07/event_image_07_24_4.png",
+        "images/2024/07/event_image_07_24_5.png"
+      ]
+    },
+    {
+      "day": 28,
+      "event": "멋봉리 7일차",
+      "quote": "",
+      "image": "images/2024/07/event_image_07_25.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_25_1.png",
+        "images/2024/07/event_image_07_25_2.png",
+        "images/2024/07/event_image_07_25_3.png",
+        "images/2024/07/event_image_07_25_4.png",
+        "images/2024/07/event_image_07_25_5.png"
+      ]
+    },
+    {
+      "day": 29,
+      "event": "멋봉리 8일차",
+      "quote": "",
+      "image": "images/2024/07/event_image_07_26.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_26_1.png",
+        "images/2024/07/event_image_07_26_2.png",
+        "images/2024/07/event_image_07_26_3.png",
+        "images/2024/07/event_image_07_26_4.png",
+        "images/2024/07/event_image_07_26_5.png"
+      ]
+    },
+    {
+      "day": 30,
+      "event": "멋봉리 9일차",
+      "quote": "",
+      "image": "images/2024/07/event_image_07_27.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_27_1.png",
+        "images/2024/07/event_image_07_27_2.png",
+        "images/2024/07/event_image_07_27_3.png",
+        "images/2024/07/event_image_07_27_4.png",
+        "images/2024/07/event_image_07_27_5.png",
+        "images/2024/07/event_image_07_27_6.png"
+      ]
     },
     {
       "day": 31,
