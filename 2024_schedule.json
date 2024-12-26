@@ -765,6 +765,61 @@
       "image": "images/holiday_image.png"
     },
     {
+      "day": 18,
+      "event": "배틀그라운드 & 발로란트",
+      "quote": "",
+      "image": "images/2024/07/event_image_07_16.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_16_1.png",
+        "images/2024/07/event_image_07_16_2.png",
+        "images/2024/07/event_image_07_16_3.png",
+        "images/2024/07/event_image_07_16_4.png",
+        "images/2024/07/event_image_07_16_5.png",
+        "images/2024/07/event_image_07_16_6.png"
+      ]
+    },
+    {
+      "day": 19,
+      "event": "테트리스",
+      "quote": "",
+      "image": "images/2024/07/event_image_07_17.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_17_1.png",
+        "images/2024/07/event_image_07_17_2.png",
+        "images/2024/07/event_image_07_17_3.png",
+        "images/2024/07/event_image_07_17_4.png",
+        "images/2024/07/event_image_07_17_5.png",
+        "images/2024/07/event_image_07_17_6.png"
+      ]
+    },
+    {
+      "day": 20,
+      "event": "애니 ost 월드컵",
+      "quote": "",
+      "image": "images/2024/07/event_image_07_18.png",
+      "additionalImages": [
+        "images/2024/07/event_image_07_18_1.png",
+        "images/2024/07/event_image_07_18_2.png",
+        "images/2024/07/event_image_07_18_3.png",
+        "images/2024/07/event_image_07_18_4.png"
+      ]
+    },
+    {
+      "day": 21,
+      "event": "괴수의꽃노래 & 멋봉리 1일차",
+      "quote": "",
+      "image": "images/2024/07/event_image_07_19.webp",
+      "additionalImages": [
+        "images/2024/07/event_image_07_19_1.png",
+        "images/2024/07/event_image_07_19_2.png",
+        "images/2024/07/event_image_07_19_3.png",
+        "images/2024/07/event_image_07_19_4.png",
+        "images/2024/07/event_image_07_19_5.png",
+        "images/2024/07/event_image_07_19_6.png",
+        "images/2024/07/event_image_07_19_7.png"
+      ]
+    },
+    {
       "day": 24,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
