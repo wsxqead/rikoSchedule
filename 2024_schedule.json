@@ -1113,7 +1113,8 @@
         "images/2024/08/event_image_08_10_06.png",
         "images/2024/08/event_image_08_10_07.png"
       ]
-    },{
+    },
+    {
       "day": 14,
       "event": "발로란트",
       "quote": "",
@@ -1204,9 +1205,66 @@
       "image": "images/holiday_image.png"
     },
     {
+      "day": 23,
+      "event": "커버곡 지구를 줄게 공개",
+      "quote": "",
+      "image": "images/2024/08/event_image_08_17.webp",
+      "youtubeLink": "https://www.youtube.com/embed/TAAaEy3Cn04",
+      "additionalImages": [
+        "images/2024/08/event_image_08_17_01.png",
+        "images/2024/08/event_image_08_17_02.png",
+        "images/2024/08/event_image_08_17_03.png",
+        "images/2024/08/event_image_08_17_04.png",
+        "images/2024/08/event_image_08_17_05.png",
+        "images/2024/08/event_image_08_17_06.png",
+        "images/2024/08/event_image_08_17_07.png"
+      ]
+    },
+    {
+      "day": 24,
+      "event": "오리지널곡 [Our Tales] 공개!",
+      "quote": "",
+      "image": "images/2024/08/event_image_08_18.webp",
+      "youtubeLink": "https://www.youtube.com/embed/jFB-mmBSntE",
+      "additionalImages": [
+        "images/2024/08/event_image_08_18_01.png",
+        "images/2024/08/event_image_08_18_02.png",
+        "images/2024/08/event_image_08_18_03.png",
+        "images/2024/08/event_image_08_18_04.png",
+        "images/2024/08/event_image_08_18_05.png",
+        "images/2024/08/event_image_08_18_06.png",
+        "images/2024/08/event_image_08_18_07.png",
+        "images/2024/08/event_image_08_18_08.png",
+        "images/2024/08/event_image_08_18_09.png"
+      ]
+    },
+    {
+      "day": 25,
+      "event": "클리셰 100일 기념 합방",
+      "quote": "",
+      "image": "images/2024/08/event_image_08_19.png",
+      "youtubeLink": "https://www.youtube.com/embed/N6HMxYtddHc",
+      "additionalImages": [
+        "images/2024/08/event_image_08_19_01.png",
+        "images/2024/08/event_image_08_19_02.png",
+        "images/2024/08/event_image_08_19_03.png",
+        "images/2024/08/event_image_08_19_04.png",
+        "images/2024/08/event_image_08_19_05.png",
+        "images/2024/08/event_image_08_19_06.png"
+      ]
+    },
+    {
       "day": 26,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
+      "event": "리코의 100일",
+      "quote": "26일 휴방이지만 25일 00시 이후",
+      "image": "images/2024/08/event_image_08_20.png",
+      "youtubeLink": "https://www.youtube.com/embed/CkoKve0z7RQ",
+      "additionalImages": [
+        "images/2024/08/event_image_08_20_01.png",
+        "images/2024/08/event_image_08_20_02.png",
+        "images/2024/08/event_image_08_20_03.png",
+        "images/2024/08/event_image_08_20_04.png"
+      ]
     },
     {
       "day": 29,
