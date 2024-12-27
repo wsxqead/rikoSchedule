@@ -1267,9 +1267,65 @@
       ]
     },
     {
+      "day": 27,
+      "event": "배그대전",
+      "quote": "픽셀 X 스텔라이브 배그대전 | 구스구스덕",
+      "image": "images/2024/08/event_image_08_21.png",
+      "youtubeLink": "https://www.youtube.com/embed/XGmpYmHGd18",
+      "additionalImages": [
+        "images/2024/08/event_image_08_21_01.png",
+        "images/2024/08/event_image_08_21_02.png",
+        "images/2024/08/event_image_08_21_03.png",
+        "images/2024/08/event_image_08_21_04.png",
+        "images/2024/08/event_image_08_21_05.png",
+        "images/2024/08/event_image_08_21_06.png",
+        "images/2024/08/event_image_08_21_07.png"
+      ]
+    },
+    {
+      "day": 28,
+      "event": "사이버펑크",
+      "quote": "사이버펑크 & 여름방학 숙제",
+      "image": "images/2024/08/event_image_08_22.png",
+      "youtubeLink": "https://www.youtube.com/embed/JUopu6j7v1s",
+      "additionalImages": [
+        "images/2024/08/event_image_08_22_01.png",
+        "images/2024/08/event_image_08_22_02.png",
+        "images/2024/08/event_image_08_22_03.png",
+        "images/2024/08/event_image_08_22_04.png",
+        "images/2024/08/event_image_08_22_05.png"
+      ]
+    },
+    {
       "day": 29,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 30,
+      "event": "사이버펑크",
+      "quote": "",
+      "image": "images/2024/08/event_image_08_23.png",
+      "youtubeLink": "https://www.youtube.com/embed/C1rxSzsVfms",
+      "additionalImages": [
+        "images/2024/08/event_image_08_23_01.png",
+        "images/2024/08/event_image_08_23_02.png",
+        "images/2024/08/event_image_08_23_03.png",
+        "images/2024/08/event_image_08_23_04.png"
+      ]
+    },
+    {
+      "day": 31,
+      "event": "토크방송",
+      "quote": "",
+      "image": "images/2024/08/event_image_08_24.png",
+      "youtubeLink": "https://www.youtube.com/embed/k05BeTT_fL8",
+      "additionalImages": [
+        "images/2024/08/event_image_08_24_01.png",
+        "images/2024/08/event_image_08_24_02.png",
+        "images/2024/08/event_image_08_24_03.png",
+        "images/2024/08/event_image_08_24_04.png"
+      ]
     }
   ],
   "sep": [
