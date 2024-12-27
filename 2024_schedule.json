@@ -2903,6 +2903,19 @@
       "day": 26,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
-    }
+    },
+    {
+      "day": 27,
+      "event": "미사이드",
+      "quote": "",
+      "image": "images/2024/12/event_image_12_16.png",
+      "additionalImages": [
+        "images/2024/12/event_image_12_15_01.png",
+        "images/2024/12/event_image_12_15_02.png",
+        "images/2024/12/event_image_12_15_03.png",
+        "images/2024/12/event_image_12_15_04.png",
+        "images/2024/12/event_image_12_15_05.png"
+      ]
+    },
   ]
 }
