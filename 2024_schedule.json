@@ -2961,6 +2961,67 @@
         "images/2024/12/event_image_12_17_33.png",
         "images/2024/12/event_image_12_17_34.png"
       ]
+    },
+    {
+      "day": 29,
+      "event": "싱글 팰월드",
+      "quote": "팰월드 & 카페탐방",
+      "image": "images/2024/12/event_image_12_18.png",
+      "additionalImages": [
+        "images/2024/12/event_image_12_18_01.png",
+        "images/2024/12/event_image_12_18_02.png",
+        "images/2024/12/event_image_12_18_03.png",
+        "images/2024/12/event_image_12_18_04.png",
+        "images/2024/12/event_image_12_18_05.png",
+        "images/2024/12/event_image_12_18_06.png",
+        "images/2024/12/event_image_12_18_07.png",
+        "images/2024/12/event_image_12_18_08.png",
+        "images/2024/12/event_image_12_18_09.png",
+        "images/2024/12/event_image_12_18_10.png",
+        "images/2024/12/event_image_12_18_11.png",
+        "images/2024/12/event_image_12_18_12.png",
+        "images/2024/12/event_image_12_18_13.png",
+        "images/2024/12/event_image_12_18_14.png",
+        "images/2024/12/event_image_12_18_15.png",
+        "images/2024/12/event_image_12_18_16.png",
+        "images/2024/12/event_image_12_18_17.png",
+        "images/2024/12/event_image_12_18_18.png",
+        "images/2024/12/event_image_12_18_19.png"
+      ]
+    },
+    {
+      "day": 30,
+      "event": "스텔 팰월드",
+      "quote": "",
+      "image": "images/2024/12/event_image_12_19.png",
+      "additionalImages": [
+        "images/2024/12/event_image_12_19_01.png",
+        "images/2024/12/event_image_12_19_02.png",
+        "images/2024/12/event_image_12_19_03.png",
+        "images/2024/12/event_image_12_19_04.png",
+        "images/2024/12/event_image_12_19_05.png",
+        "images/2024/12/event_image_12_19_06.png",
+        "images/2024/12/event_image_12_19_07.png",
+        "images/2024/12/event_image_12_19_08.png",
+        "images/2024/12/event_image_12_19_09.png",
+        "images/2024/12/event_image_12_19_10.png"
+      ]
+    },
+    {
+      "day": 31,
+      "event": "",
+      "quote": "",
+      "image": "images/2024/12/event_image_12_20.png",
+      "additionalImages": [
+        "images/2024/12/event_image_12_20_01.png",
+        "images/2024/12/event_image_12_20_02.png",
+        "images/2024/12/event_image_12_20_03.png",
+        "images/2024/12/event_image_12_20_04.png",
+        "images/2024/12/event_image_12_20_05.png",
+        "images/2024/12/event_image_12_20_06.png",
+        "images/2024/12/event_image_12_20_07.png",
+        "images/2024/12/event_image_12_20_08.png"
+      ]
     }
   ]
 }
