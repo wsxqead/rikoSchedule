@@ -1,5 +1,8 @@
-let currentYear = new Date().getFullYear(); // 현재 연도 자동으로 설정
-let currentMonth = "dec"; // 기본적으로 5월을 표시
+// 현재 연도와 월 동적 설정
+let currentYear = new Date().getFullYear();
+let currentMonth = new Date()
+  .toLocaleString("en-US", { month: "short" })
+  .toLowerCase(); // 현재 월을 소문자로 가져옴
 const holidayImage = "images/holiday_image.png"; // 휴방일 이미지 설정
 
 const holidays = {
@@ -11,8 +14,9 @@ const holidays = {
 // 연도 변경 함수
 function changeYear(direction) {
   currentYear += direction;
-  document.getElementById("current-year").textContent = currentYear;
+  document.getElementById("current-year").textContent = currentYear + "년";
   document.getElementById("calendar-year").textContent = currentYear;
+  initializeSelectors(); // 연도 변경 시 셀렉터 초기화
   loadScheduleData(); // 연도 변경 시 데이터 로드
 }
 
@@ -30,6 +34,10 @@ function changeYearMonth(selectedValue) {
 // 연도와 월 정보 업데이트 함수
 function updateCalendarHeader(monthId) {
   const monthNames = {
+    jan: "1월",
+    feb: "2월",
+    mar: "3월",
+    apr: "4월",
     may: "5월",
     jun: "6월",
     jul: "7월",
@@ -42,23 +50,10 @@ function updateCalendarHeader(monthId) {
   document.getElementById("calendar-month").textContent = monthNames[monthId];
 }
 
-// // 연도와 월 정보 업데이트 함수
-// function updateCalendarHeader(monthId) {
-//   const monthNames = {
-//     may: "5월",
-//     jun: "6월",
-//     jul: "7월",
-//     aug: "8월",
-//     sep: "9월",
-//   };
-//   document.getElementById("calendar-year").textContent = currentYear + "년";
-//   document.getElementById("calendar-month").textContent = monthNames[monthId]; // 숫자+월로 변환
-// }
-
 // 초기화 함수 (연도 및 월 셀렉트 박스 설정)
 function initializeSelectors() {
   const yearMonthSelect = document.getElementById("year-month-select");
-  const currentYear = new Date().getFullYear();
+  yearMonthSelect.innerHTML = ""; // 기존 옵션 초기화
 
   const availableMonths = [
     { year: 2024, month: "may", label: "2024년 5월" },
@@ -69,7 +64,18 @@ function initializeSelectors() {
     { year: 2024, month: "oct", label: "2024년 10월" },
     { year: 2024, month: "nov", label: "2024년 11월" },
     { year: 2024, month: "dec", label: "2024년 12월" },
+    { year: 2025, month: "jan", label: "2025년 1월" },
   ];
+  for (let month = 0; month < 12; month++) {
+    const monthDate = new Date(currentYear, month);
+    const monthName = monthDate
+      .toLocaleString("en-US", { month: "short" })
+      .toLowerCase();
+    const label = `${currentYear}년 ${monthDate.toLocaleString("ko-KR", {
+      month: "long",
+    })}`;
+    availableMonths.push({ year: currentYear, month: monthName, label });
+  }
 
   // 셀렉트 박스에 연도와 월 추가
   availableMonths.forEach(({ year, month, label }) => {
@@ -95,7 +101,6 @@ async function loadScheduleData() {
     applyScheduleData(data);
   } catch (error) {
     console.error(`Error loading schedule data for ${currentYear}:`, error);
-    // alert(`${currentYear}년도 데이터를 불러오는 데 실패했습니다.`);
     generateEmptyCalendar(); // 데이터가 없을 경우 빈 달력 생성
   }
 }
@@ -334,6 +339,10 @@ function showMonth(monthId) {
 // 월 ID를 월 인덱스로 변환하는 함수 (ex: 'may' -> 4)
 Object.prototype.idToMonthIndex = function () {
   const monthMap = {
+    jan: 1,
+    feb: 2,
+    mar: 3,
+    apr: 4,
     may: 5,
     jun: 6,
     jul: 7,
