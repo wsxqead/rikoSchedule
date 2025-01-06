@@ -66,16 +66,17 @@ function initializeSelectors() {
     { year: 2024, month: "dec", label: "2024년 12월" },
     { year: 2025, month: "jan", label: "2025년 1월" },
   ];
-  for (let month = 0; month < 12; month++) {
-    const monthDate = new Date(currentYear, month);
-    const monthName = monthDate
-      .toLocaleString("en-US", { month: "short" })
-      .toLowerCase();
-    const label = `${currentYear}년 ${monthDate.toLocaleString("ko-KR", {
-      month: "long",
-    })}`;
-    availableMonths.push({ year: currentYear, month: monthName, label });
-  }
+
+  // for (let month = 0; month < 12; month++) {
+  //   const monthDate = new Date(currentYear, month);
+  //   const monthName = monthDate
+  //     .toLocaleString("en-US", { month: "short" })
+  //     .toLowerCase();
+  //   const label = `${currentYear}년 ${monthDate.toLocaleString("ko-KR", {
+  //     month: "long",
+  //   })}`;
+  //   availableMonths.push({ year: currentYear, month: monthName, label });
+  // }
 
   // 셀렉트 박스에 연도와 월 추가
   availableMonths.forEach(({ year, month, label }) => {
