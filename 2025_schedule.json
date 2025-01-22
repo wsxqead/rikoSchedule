@@ -1,9 +1,49 @@
 {
   "jan": [
     {
+      "day": 1,
+      "event": "스텔 팰월드",
+      "quote": "",
+      "image": "images/2025/01/event_image_01_01.png",
+      "youtubeLink": "https://www.youtube.com/embed/Er-fGQoCZw8",
+      "additionalImages": ["images/2025/01/event_image_01_01_01.png"]
+    },
+    {
       "day": 2,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 3,
+      "event": "스텔 팰월드",
+      "quote": "",
+      "image": "images/2025/01/event_image_01_02.png",
+      "youtubeLink": "https://www.youtube.com/embed/Er-fGQoCZw8",
+      "additionalImages": ["images/2025/01/event_image_01_02_01.png"]
+    },
+    {
+      "day": 4,
+      "event": "스텔 팰월드",
+      "quote": "",
+      "image": "images/2025/01/event_image_01_03.png",
+      "youtubeLink": "https://www.youtube.com/embed/Er-fGQoCZw8",
+      "additionalImages": ["images/2025/01/event_image_01_03_01.png"]
+    },
+    {
+      "day": 5,
+      "event": "스텔 팰월드",
+      "quote": "",
+      "image": "images/2025/01/event_image_01_04.png",
+      "youtubeLink": "https://www.youtube.com/embed/Er-fGQoCZw8",
+      "additionalImages": ["images/2025/01/event_image_01_04_01.png"]
+    },
+    {
+      "day": 6,
+      "event": "스텔 팰월드",
+      "quote": "",
+      "image": "images/2025/01/event_image_01_05.png",
+      "youtubeLink": "https://www.youtube.com/embed/Er-fGQoCZw8",
+      "additionalImages": ["images/2025/01/event_image_01_05_01.png"]
     },
     {
       "day": 7,
@@ -11,9 +51,33 @@
       "image": "images/holiday_image.png"
     },
     {
+      "day": 8,
+      "event": "겟투워크",
+      "quote": "",
+      "image": "images/2025/01/event_image_01_06.png",
+      "youtubeLink": "https://www.youtube.com/embed/Er-fGQoCZw8",
+      "additionalImages": ["images/2025/01/event_image_01_06_01.png"]
+    },
+    {
       "day": 9,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 10,
+      "event": "커버곡 공개 꽃의 탑",
+      "quote": "",
+      "image": "images/2025/01/event_image_01_07.png",
+      "youtubeLink": "https://www.youtube.com/embed/Er-fGQoCZw8",
+      "additionalImages": ["images/2025/01/event_image_01_07_01.png"]
+    },
+    {
+      "day": 11,
+      "event": "팬게임 스텔큐어",
+      "quote": "",
+      "image": "images/2025/01/event_image_01_08.png",
+      "youtubeLink": "https://www.youtube.com/embed/Er-fGQoCZw8",
+      "additionalImages": ["images/2025/01/event_image_01_08_01.png"]
     },
     {
       "day": 12,
@@ -21,9 +85,49 @@
       "image": "images/holiday_image.png"
     },
     {
+      "day": 13,
+      "event": "",
+      "quote": "",
+      "image": "images/2025/01/event_image_01_09.png",
+      "youtubeLink": "https://www.youtube.com/embed/Er-fGQoCZw8",
+      "additionalImages": ["images/2025/01/event_image_01_09_01.png"]
+    },
+    {
+      "day": 14,
+      "event": "",
+      "quote": "",
+      "image": "images/2025/01/event_image_01_10.png",
+      "youtubeLink": "https://www.youtube.com/embed/Er-fGQoCZw8",
+      "additionalImages": ["images/2025/01/event_image_01_10_01.png"]
+    },
+    {
+      "day": 15,
+      "event": "",
+      "quote": "",
+      "image": "images/2025/01/event_image_01_11.png",
+      "youtubeLink": "https://www.youtube.com/embed/Er-fGQoCZw8",
+      "additionalImages": ["images/2025/01/event_image_01_11_01.png"]
+    },
+    {
       "day": 16,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 17,
+      "event": "",
+      "quote": "",
+      "image": "images/2025/01/event_image_01_12.png",
+      "youtubeLink": "https://www.youtube.com/embed/Er-fGQoCZw8",
+      "additionalImages": ["images/2025/01/event_image_01_12_01.png"]
+    },
+    {
+      "day": 18,
+      "event": "",
+      "quote": "",
+      "image": "images/2025/01/event_image_01_13.png",
+      "youtubeLink": "https://chzzk.naver.com/video/5376116",
+      "additionalImages": ["images/2025/01/event_image_01_13_01.png"]
     },
     {
       "day": 19,
