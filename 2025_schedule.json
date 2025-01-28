@@ -143,7 +143,18 @@
       "quote": "스텔라맥스",
       "image": "images/2025/01/event_image_01_08.png",
       "youtubeLink": "https://www.youtube.com/embed/xBliPsIcGTo",
-      "additionalImages": ["images/2025/01/event_image_01_08_01.png"]
+      "additionalImages": [
+        "images/2025/01/event_image_01_08_01.png",
+        "images/2025/01/event_image_01_08_02.png",
+        "images/2025/01/event_image_01_08_03.png",
+        "images/2025/01/event_image_01_08_04.png",
+        "images/2025/01/event_image_01_08_05.png",
+        "images/2025/01/event_image_01_08_06.png",
+        "images/2025/01/event_image_01_08_07.png",
+        "images/2025/01/event_image_01_08_08.png",
+        "images/2025/01/event_image_01_08_09.png",
+        "images/2025/01/event_image_01_08_10.png"
+      ]
     },
     {
       "day": 12,
@@ -153,10 +164,18 @@
     {
       "day": 13,
       "event": "커스드 디지캠",
-      "quote": "",
+      "quote": "커스드 디지캠 & 데바데",
       "image": "images/2025/01/event_image_01_09.png",
       "youtubeLink": "https://www.youtube.com/embed/cb-tQt7VJCE",
-      "additionalImages": ["images/2025/01/event_image_01_09_01.png"]
+      "additionalImages": [
+        "images/2025/01/event_image_01_09_01.png",
+        "images/2025/01/event_image_01_09_02.png",
+        "images/2025/01/event_image_01_09_03.png",
+        "images/2025/01/event_image_01_09_04.png",
+        "images/2025/01/event_image_01_09_05.png",
+        "images/2025/01/event_image_01_09_06.png",
+        "images/2025/01/event_image_01_09_07.png"
+      ]
     },
     {
       "day": 14,
@@ -230,7 +249,7 @@
       "event": "저챗 & 카페탐방",
       "quote": "카페탐방 & 사과게임",
       "image": "images/2025/01/event_image_01_14.png",
-      "youtubeLink": "https://chzzk.naver.com/video/5376116",
+      "youtubeLink": "https://www.youtube.com/embed/r2JSI-Rl4Ho",
       "additionalImages": [
         "images/2025/01/event_image_01_14_01.png",
         "images/2025/01/event_image_01_14_02.png",
@@ -240,6 +259,62 @@
         "images/2025/01/event_image_01_14_06.png",
         "images/2025/01/event_image_01_14_07.png",
         "images/2025/01/event_image_01_14_08.png"
+      ]
+    },
+    {
+      "day": 26,
+      "event": "super sorry",
+      "quote": "super sorry & 사과게임 & 배틀그라운드",
+      "image": "images/2025/01/event_image_01_15.png",
+      "youtubeLink": "https://www.youtube.com/embed/BudF_tt2DkY",
+      "additionalImages": [
+        "images/2025/01/event_image_01_15_01.png",
+        "images/2025/01/event_image_01_15_02.png",
+        "images/2025/01/event_image_01_15_03.png",
+        "images/2025/01/event_image_01_15_04.png",
+        "images/2025/01/event_image_01_15_05.png",
+        "images/2025/01/event_image_01_15_06.png",
+        "images/2025/01/event_image_01_15_07.png",
+        "images/2025/01/event_image_01_15_08.png",
+        "images/2025/01/event_image_01_15_09.png",
+        "images/2025/01/event_image_01_15_10.png"
+      ]
+    },
+    {
+      "day": 27,
+      "event": "Poppy Playtime - Chapter 3",
+      "quote": "Poppy Playtime 3 & 사과게임",
+      "image": "images/2025/01/event_image_01_16.png",
+      "youtubeLink": "https://www.youtube.com/embed/E2ZU65_Qlw4",
+      "additionalImages": [
+        "images/2025/01/event_image_01_16_01.png",
+        "images/2025/01/event_image_01_16_02.png",
+        "images/2025/01/event_image_01_16_03.png",
+        "images/2025/01/event_image_01_16_04.png",
+        "images/2025/01/event_image_01_16_05.png",
+        "images/2025/01/event_image_01_16_06.png",
+        "images/2025/01/event_image_01_16_07.png",
+        "images/2025/01/event_image_01_16_08.png",
+        "images/2025/01/event_image_01_16_09.png",
+        "images/2025/01/event_image_01_16_10.png",
+        "images/2025/01/event_image_01_16_11.png"
+      ]
+    },
+    {
+      "day": 28,
+      "event": "커버곡 공개 절대적대완전싫어",
+      "quote": "절대적대완전싫어 / 유즈하 리코(Yuzuha Riko) x 텐코 시부키(Tenko Shibuki) cover",
+      "image": "images/2025/01/event_image_01_17.webp",
+      "additionalImages": [
+        "images/2025/01/event_image_01_17_01.png",
+        "images/2025/01/event_image_01_17_02.png",
+        "images/2025/01/event_image_01_17_03.png",
+        "images/2025/01/event_image_01_17_04.png",
+        "images/2025/01/event_image_01_17_05.png",
+        "images/2025/01/event_image_01_17_06.png",
+        "images/2025/01/event_image_01_17_07.png",
+        "images/2025/01/event_image_01_17_08.png",
+        "images/2025/01/event_image_01_17_09.png"
       ]
     }
   ]
