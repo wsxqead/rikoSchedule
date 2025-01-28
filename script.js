@@ -223,235 +223,186 @@ function setupSlider(sliderWrapper) {
 }
 
 // 팝업 열기 함수 수정
-function openPopup(event) {
-  const popup = document.getElementById("popup");
-  const eventTitle = document.getElementById("event-title");
-  const eventImages = document.getElementById("event-images");
-
-  eventTitle.textContent = event.holiday ? "휴방" : event.event;
-  eventImages.innerHTML = ""; // 기존 이미지 초기화
-
-  const sliderWrapper = document.createElement("div");
-  sliderWrapper.classList.add("slider-wrapper");
-
-  if (event.youtubeLink) {
-    const youtubeIframe = document.createElement("iframe");
-    youtubeIframe.src = event.youtubeLink;
-    youtubeIframe.width = "100%";
-    youtubeIframe.height = "315";
-    youtubeIframe.allow =
-      "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
-    youtubeIframe.allowFullscreen = true;
-    youtubeIframe.classList.add("slide");
-    sliderWrapper.appendChild(youtubeIframe);
-  }
-
-  if (event.chzzkLink) {
-    const chzzkSlide = document.createElement("div");
-    chzzkSlide.classList.add("slide");
-    const chzzkThumbnail = document.createElement("img");
-    chzzkThumbnail.src = event.chzzkImage;
-    chzzkSlide.appendChild(chzzkThumbnail);
-    sliderWrapper.appendChild(chzzkSlide);
-  }
-
-  event.additionalImages.forEach((imgSrc) => {
-    const img = document.createElement("img");
-    img.src = imgSrc;
-    img.classList.add("slide");
-    sliderWrapper.appendChild(img);
-  });
-
-  eventImages.appendChild(sliderWrapper);
-  setupSlider(sliderWrapper);
-
-  popup.style.display = "flex"; // 팝업 열기
-}
 // function openPopup(event) {
 //   const popup = document.getElementById("popup");
 //   const eventTitle = document.getElementById("event-title");
 //   const eventImages = document.getElementById("event-images");
-//   const eventQuote = document.getElementById("event-quote");
 
-//   // 팝업 데이터 설정
 //   eventTitle.textContent = event.holiday ? "휴방" : event.event;
-
-//   // 휴방일이라도 quote가 있으면 표시
-//   if (event.quote && event.quote !== "") {
-//     eventQuote.innerHTML = event.quote.replace(/\n/g, "<br>"); // \n을 <br>로 대체
-//   } else {
-//     eventQuote.innerHTML = event.holiday
-//       ? "오늘은 휴방입니다.<br>다음 방송에서 만나요!"
-//       : event.quote;
-//   }
-
-//   // 이미지 슬라이드 처리
 //   eventImages.innerHTML = ""; // 기존 이미지 초기화
-//   const images = event.holiday ? [holidayImage] : event.additionalImages; // 휴방일에는 휴방 이미지만 표시
 
-//   if (images.length > 0) {
-//     const sliderContainer = document.createElement("div");
-//     sliderContainer.classList.add("slider");
+//   const sliderWrapper = document.createElement("div");
+//   sliderWrapper.classList.add("slider-wrapper");
 
-//     const prevButton = document.createElement("button");
-//     prevButton.textContent = "◀";
-//     prevButton.classList.add("slider-btn", "prev");
-
-//     const nextButton = document.createElement("button");
-//     nextButton.textContent = "▶";
-//     nextButton.classList.add("slider-btn", "next");
-
-//     const sliderWrapper = document.createElement("div");
-//     sliderWrapper.classList.add("slider-wrapper");
-
-//     // 유튜브 링크가 있을 경우 첫 번째 슬라이드로 추가
-//     // if (event.youtubeLink) {
-//     //   const youtubeIframe = document.createElement("iframe");
-//     //   youtubeIframe.src = event.youtubeLink;
-//     //   youtubeIframe.width = "100%";
-//     //   youtubeIframe.height = "315";
-//     //   youtubeIframe.allow =
-//     //     "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
-//     //   youtubeIframe.allowFullscreen = true;
-//     //   youtubeIframe.classList.add("slide", "active"); // 첫 번째 슬라이드로 활성화
-//     //   sliderWrapper.appendChild(youtubeIframe);
-//     // }
-
-//     let hasActiveSlide = false;
-
-//     // 유튜브 링크 슬라이드 추가
-//     if (event.youtubeLink) {
-//       const youtubeIframe = document.createElement("iframe");
-//       youtubeIframe.src = event.youtubeLink;
-//       youtubeIframe.width = "100%";
-//       youtubeIframe.height = "315";
-//       youtubeIframe.allow =
-//         "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
-//       youtubeIframe.allowFullscreen = true;
-//       youtubeIframe.classList.add("slide");
-
-//       if (!hasActiveSlide) {
-//         youtubeIframe.classList.add("active");
-//         hasActiveSlide = true;
-//       }
-
-//       sliderWrapper.appendChild(youtubeIframe);
-//     }
-
-//     // if (event.chzzkLink) {
-//     //   const chzzkSlide = document.createElement("div");
-//     //   chzzkSlide.classList.add("slide", "chzzk-slide");
-
-//     //   // 치지직 썸네일 설정
-//     //   const chzzkThumbnail = document.createElement("img");
-//     //   chzzkThumbnail.src = event.chzzkImage;
-//     //   chzzkThumbnail.classList.add("chzzk-thumbnail");
-
-//     //   // 치지직 영상 보기 버튼
-//     //   const chzzkButton = document.createElement("button");
-//     //   chzzkButton.textContent = "치지직 영상 보기";
-//     //   chzzkButton.classList.add("chzzk-button");
-//     //   chzzkButton.addEventListener("click", () => {
-//     //     window.open(event.chzzkLink, "_blank");
-//     //   });
-
-//     //   // 슬라이드 구성
-//     //   chzzkSlide.appendChild(chzzkThumbnail);
-//     //   chzzkSlide.appendChild(chzzkButton);
-
-//     //   // 치지직 슬라이드를 첫 번째 슬라이드로 삽입
-//     //   sliderWrapper.insertBefore(chzzkSlide, sliderWrapper.firstChild);
-
-//     //   // 첫 번째 슬라이드로 활성화
-//     //   chzzkSlide.classList.add("active");
-//     // }
-//     // 치지직 영상 슬라이드 추가
-//     if (event.chzzkLink) {
-//       const chzzkSlide = document.createElement("div");
-//       chzzkSlide.classList.add("slide", "chzzk-slide");
-
-//       // 치지직 썸네일 설정
-//       const chzzkThumbnail = document.createElement("img");
-//       chzzkThumbnail.src = event.chzzkImage;
-//       chzzkThumbnail.classList.add("chzzk-thumbnail");
-
-//       // 치지직 영상 보기 버튼
-//       const chzzkButton = document.createElement("button");
-//       chzzkButton.textContent = "치지직 영상 보기";
-//       chzzkButton.classList.add("chzzk-button");
-//       chzzkButton.addEventListener("click", () => {
-//         window.open(event.chzzkLink, "_blank");
-//       });
-
-//       // 슬라이드 구성
-//       chzzkSlide.appendChild(chzzkThumbnail);
-//       chzzkSlide.appendChild(chzzkButton);
-
-//       if (!hasActiveSlide) {
-//         chzzkSlide.classList.add("active");
-//         hasActiveSlide = true;
-//       }
-
-//       sliderWrapper.appendChild(chzzkSlide);
-//     }
-
-//     // 일반 이미지 슬라이드 추가
-//     images.forEach((imgSrc, index) => {
-//       const img = document.createElement("img");
-//       img.src = imgSrc;
-//       img.classList.add("slide");
-
-//       if (!hasActiveSlide) {
-//         img.classList.add("active"); // 첫 번째 슬라이드로 설정
-//         hasActiveSlide = true;
-//       }
-
-//       sliderWrapper.appendChild(img);
-//     });
-
-//     // images.forEach((imgSrc, index) => {
-//     //   const img = document.createElement("img");
-//     //   img.src = imgSrc;
-//     //   img.classList.add("slide");
-//     //   if (!event.youtubeLink && index === 0) {
-//     //     img.classList.add("active"); // 첫 번째 이미지를 기본으로 표시
-//     //   }
-//     //   sliderWrapper.appendChild(img);
-//     // });
-
-//     sliderContainer.appendChild(prevButton);
-//     sliderContainer.appendChild(sliderWrapper);
-//     sliderContainer.appendChild(nextButton);
-//     eventImages.appendChild(sliderContainer);
-
-//     // 슬라이더 동작 로직
-//     let currentIndex = 0;
-//     const slides = sliderWrapper.querySelectorAll(".slide");
-
-//     function showSlide(index) {
-//       slides.forEach((slide, i) => {
-//         slide.classList.remove("active");
-//         if (i === index) {
-//           slide.classList.add("active");
-//         }
-//       });
-//     }
-
-//     prevButton.addEventListener("click", () => {
-//       currentIndex = currentIndex > 0 ? currentIndex - 1 : slides.length - 1;
-//       showSlide(currentIndex);
-//     });
-
-//     nextButton.addEventListener("click", () => {
-//       currentIndex = currentIndex < slides.length - 1 ? currentIndex + 1 : 0;
-//       showSlide(currentIndex);
-//     });
+//   if (event.youtubeLink) {
+//     const youtubeIframe = document.createElement("iframe");
+//     youtubeIframe.src = event.youtubeLink;
+//     youtubeIframe.width = "100%";
+//     youtubeIframe.height = "315";
+//     youtubeIframe.allow =
+//       "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
+//     youtubeIframe.allowFullscreen = true;
+//     youtubeIframe.classList.add("slide");
+//     sliderWrapper.appendChild(youtubeIframe);
 //   }
+
+//   if (event.chzzkLink) {
+//     const chzzkSlide = document.createElement("div");
+//     chzzkSlide.classList.add("slide");
+//     const chzzkThumbnail = document.createElement("img");
+//     chzzkThumbnail.src = event.chzzkImage;
+//     chzzkSlide.appendChild(chzzkThumbnail);
+//     sliderWrapper.appendChild(chzzkSlide);
+//   }
+
+//   event.additionalImages.forEach((imgSrc) => {
+//     const img = document.createElement("img");
+//     img.src = imgSrc;
+//     img.classList.add("slide");
+//     sliderWrapper.appendChild(img);
+//   });
+
+//   eventImages.appendChild(sliderWrapper);
+//   setupSlider(sliderWrapper);
 
 //   popup.style.display = "flex"; // 팝업 열기
 // }
 
+function openPopup(event) {
+  const popup = document.getElementById("popup");
+  const eventTitle = document.getElementById("event-title");
+  const eventImages = document.getElementById("event-images");
+  const eventQuote = document.getElementById("event-quote");
+
+  // 팝업 데이터 설정
+  eventTitle.textContent = event.holiday ? "휴방" : event.event;
+
+  // 휴방일이라도 quote가 있으면 표시
+  if (event.quote && event.quote !== "") {
+    eventQuote.innerHTML = event.quote.replace(/\n/g, "<br>"); // \n을 <br>로 대체
+  } else {
+    eventQuote.innerHTML = event.holiday
+      ? "오늘은 휴방입니다.<br>다음 방송에서 만나요!"
+      : event.quote;
+  }
+
+  // 이미지 슬라이드 처리
+  eventImages.innerHTML = ""; // 기존 이미지 초기화
+  const images = event.holiday ? [holidayImage] : event.additionalImages; // 휴방일에는 휴방 이미지만 표시
+
+  if (images.length > 0) {
+    const sliderContainer = document.createElement("div");
+    sliderContainer.classList.add("slider");
+
+    const prevButton = document.createElement("button");
+    prevButton.textContent = "◀";
+    prevButton.classList.add("slider-btn", "prev");
+
+    const nextButton = document.createElement("button");
+    nextButton.textContent = "▶";
+    nextButton.classList.add("slider-btn", "next");
+
+    const sliderWrapper = document.createElement("div");
+    sliderWrapper.classList.add("slider-wrapper");
+
+    // 유튜브 링크가 있을 경우 첫 번째 슬라이드로 추가
+    if (event.youtubeLink) {
+      const youtubeIframe = document.createElement("iframe");
+      youtubeIframe.src = event.youtubeLink;
+      youtubeIframe.width = "100%";
+      youtubeIframe.height = "315";
+      youtubeIframe.allow =
+        "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
+      youtubeIframe.allowFullscreen = true;
+      youtubeIframe.classList.add("slide", "active"); // 첫 번째 슬라이드로 활성화
+      sliderWrapper.appendChild(youtubeIframe);
+    }
+
+    // 치지직 영상 슬라이드 추가
+    if (event.chzzkLink) {
+      const chzzkSlide = document.createElement("div");
+      chzzkSlide.classList.add("slide", "chzzk-slide");
+
+      // 치지직 썸네일 설정
+      const chzzkThumbnail = document.createElement("img");
+      chzzkThumbnail.src = event.chzzkImage;
+      chzzkThumbnail.classList.add("chzzk-thumbnail");
+
+      // 치지직 영상 보기 버튼
+      const chzzkButton = document.createElement("button");
+      chzzkButton.textContent = "치지직 영상 보기";
+      chzzkButton.classList.add("chzzk-button");
+      chzzkButton.addEventListener("click", () => {
+        window.open(event.chzzkLink, "_blank");
+      });
+
+      // 슬라이드 구성
+      chzzkSlide.appendChild(chzzkThumbnail);
+      chzzkSlide.appendChild(chzzkButton);
+
+      chzzkSlide.classList.add("slide", "active");
+
+      sliderWrapper.appendChild(chzzkSlide);
+    }
+
+    // 일반 이미지 슬라이드 추가
+    images.forEach((imgSrc, index) => {
+      const img = document.createElement("img");
+      img.src = imgSrc;
+      img.classList.add("slide");
+
+      if (!hasActiveSlide) {
+        img.classList.add("active"); // 첫 번째 슬라이드로 설정
+        hasActiveSlide = true;
+      }
+
+      sliderWrapper.appendChild(img);
+    });
+
+    // images.forEach((imgSrc, index) => {
+    //   const img = document.createElement("img");
+    //   img.src = imgSrc;
+    //   img.classList.add("slide");
+    //   if (!event.youtubeLink && index === 0) {
+    //     img.classList.add("active"); // 첫 번째 이미지를 기본으로 표시
+    //   }
+    //   sliderWrapper.appendChild(img);
+    // });
+
+    sliderContainer.appendChild(prevButton);
+    sliderContainer.appendChild(sliderWrapper);
+    sliderContainer.appendChild(nextButton);
+    eventImages.appendChild(sliderContainer);
+
+    // 슬라이더 동작 로직
+    let currentIndex = 0;
+    const slides = sliderWrapper.querySelectorAll(".slide");
+
+    function showSlide(index) {
+      slides.forEach((slide, i) => {
+        slide.classList.remove("active");
+        if (i === index) {
+          slide.classList.add("active");
+        }
+      });
+    }
+
+    prevButton.addEventListener("click", () => {
+      currentIndex = currentIndex > 0 ? currentIndex - 1 : slides.length - 1;
+      showSlide(currentIndex);
+    });
+
+    nextButton.addEventListener("click", () => {
+      currentIndex = currentIndex < slides.length - 1 ? currentIndex + 1 : 0;
+      showSlide(currentIndex);
+    });
+  }
+
+  popup.style.display = "flex"; // 팝업 열기
+}
+
 // 팝업 닫기
+
 const closePopup = document.querySelector(".close");
 closePopup.addEventListener("click", () => {
   document.getElementById("popup").style.display = "none";
