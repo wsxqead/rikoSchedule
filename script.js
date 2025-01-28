@@ -240,24 +240,14 @@ function openPopup(event) {
     }
 
     if (event.chzzkLink) {
-      const chzzkPreview = document.createElement("div");
-      chzzkPreview.classList.add("chzzk-preview");
-
-      // 썸네일 이미지 사용 (실제 썸네일 URL 패턴이 변할 수도 있음, 치지직 공식 지원 없음)
-      const thumbnailUrl = `https://phinf.pstatic.net/image?src=${event.chzzkLink}.jpg`;
-
-      const chzzkThumbnail = document.createElement("img");
-      chzzkThumbnail.src = thumbnailUrl;
-      chzzkThumbnail.classList.add("chzzk-thumbnail");
-      chzzkThumbnail.alt = "치지직 영상 미리보기";
-
-      // 클릭하면 원본 링크로 이동
-      chzzkPreview.addEventListener("click", () => {
+      const chzzkButton = document.createElement("button");
+      chzzkButton.textContent = "치지직 영상 보기";
+      chzzkButton.classList.add("chzzk-button");
+      chzzkButton.addEventListener("click", () => {
         window.open(event.chzzkLink, "_blank");
       });
 
-      chzzkPreview.appendChild(chzzkThumbnail);
-      sliderWrapper.appendChild(chzzkPreview);
+      sliderWrapper.appendChild(chzzkButton);
     }
 
     images.forEach((imgSrc, index) => {
