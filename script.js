@@ -243,6 +243,7 @@ function openPopup(event) {
       const chzzkSlide = document.createElement("div");
       chzzkSlide.classList.add("slide", "chzzk-slide");
 
+      // 치지직 썸네일 설정
       const chzzkThumbnail = document.createElement("img");
       chzzkThumbnail.src = event.chzzkImage;
       chzzkThumbnail.classList.add("chzzk-thumbnail");
@@ -255,10 +256,15 @@ function openPopup(event) {
         window.open(event.chzzkLink, "_blank");
       });
 
-      // 슬라이드에 추가
+      // 슬라이드 구성
       chzzkSlide.appendChild(chzzkThumbnail);
       chzzkSlide.appendChild(chzzkButton);
-      sliderWrapper.appendChild(chzzkSlide);
+
+      // 치지직 슬라이드를 첫 번째 슬라이드로 삽입
+      sliderWrapper.insertBefore(chzzkSlide, sliderWrapper.firstChild);
+
+      // 첫 번째 슬라이드로 활성화
+      chzzkSlide.classList.add("active");
     }
 
     images.forEach((imgSrc, index) => {
