@@ -67,17 +67,6 @@ function initializeSelectors() {
     { year: 2025, month: "jan", label: "2025년 1월" },
   ];
 
-  // for (let month = 0; month < 12; month++) {
-  //   const monthDate = new Date(currentYear, month);
-  //   const monthName = monthDate
-  //     .toLocaleString("en-US", { month: "short" })
-  //     .toLowerCase();
-  //   const label = `${currentYear}년 ${monthDate.toLocaleString("ko-KR", {
-  //     month: "long",
-  //   })}`;
-  //   availableMonths.push({ year: currentYear, month: monthName, label });
-  // }
-
   // 셀렉트 박스에 연도와 월 추가
   availableMonths.forEach(({ year, month, label }) => {
     const option = document.createElement("option");
@@ -248,6 +237,27 @@ function openPopup(event) {
       youtubeIframe.allowFullscreen = true;
       youtubeIframe.classList.add("slide", "active"); // 첫 번째 슬라이드로 활성화
       sliderWrapper.appendChild(youtubeIframe);
+    }
+
+    if (event.chzzkLink) {
+      const chzzkPreview = document.createElement("div");
+      chzzkPreview.classList.add("chzzk-preview");
+
+      // 썸네일 이미지 사용 (실제 썸네일 URL 패턴이 변할 수도 있음, 치지직 공식 지원 없음)
+      const thumbnailUrl = `https://phinf.pstatic.net/image?src=${event.chzzkLink}.jpg`;
+
+      const chzzkThumbnail = document.createElement("img");
+      chzzkThumbnail.src = thumbnailUrl;
+      chzzkThumbnail.classList.add("chzzk-thumbnail");
+      chzzkThumbnail.alt = "치지직 영상 미리보기";
+
+      // 클릭하면 원본 링크로 이동
+      chzzkPreview.addEventListener("click", () => {
+        window.open(event.chzzkLink, "_blank");
+      });
+
+      chzzkPreview.appendChild(chzzkThumbnail);
+      sliderWrapper.appendChild(chzzkPreview);
     }
 
     images.forEach((imgSrc, index) => {
