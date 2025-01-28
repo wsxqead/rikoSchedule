@@ -2292,7 +2292,11 @@
       "quote": "",
       "image": "images/2024/11/event_image_11_7.png",
       "youtubeLink": "https://www.youtube.com/embed/RE252ZO6qG4",
-      "additionalImages": ["images/2024/11/event_image_11_7.png"]
+      "additionalImages": [
+        "images/2024/11/event_image_11_7.png",
+        "images/2024/11/event_image_11_7_01.png",
+        "images/2024/11/event_image_11_7_02.png"
+      ]
     },
     {
       "day": 13,
@@ -2909,6 +2913,7 @@
       "event": "미사이드",
       "quote": "",
       "image": "images/2024/12/event_image_12_16.png",
+      "youtubeLink": "https://www.youtube.com/embed/0oNDsYtwVA0",
       "additionalImages": [
         "images/2024/12/event_image_12_16_01.png",
         "images/2024/12/event_image_12_16_02.png",
@@ -2925,6 +2930,7 @@
       "event": "신의상 공개!!",
       "quote": "",
       "image": "images/2024/12/event_image_12_17.png",
+      "youtubeLink": "https://www.youtube.com/embed/KMrM_4rInR4",
       "additionalImages": [
         "images/2024/12/event_image_12_17_01.png",
         "images/2024/12/event_image_12_17_02.png",
@@ -2967,6 +2973,7 @@
       "event": "싱글 팰월드",
       "quote": "팰월드 & 카페탐방",
       "image": "images/2024/12/event_image_12_18.png",
+      "youtubeLink": "https://www.youtube.com/embed/YK_L7IbYk6M",
       "additionalImages": [
         "images/2024/12/event_image_12_18_01.png",
         "images/2024/12/event_image_12_18_02.png",
