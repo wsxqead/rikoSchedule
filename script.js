@@ -227,6 +227,19 @@ function openPopup(event) {
     sliderWrapper.classList.add("slider-wrapper");
 
     // 유튜브 링크가 있을 경우 첫 번째 슬라이드로 추가
+    // if (event.youtubeLink) {
+    //   const youtubeIframe = document.createElement("iframe");
+    //   youtubeIframe.src = event.youtubeLink;
+    //   youtubeIframe.width = "100%";
+    //   youtubeIframe.height = "315";
+    //   youtubeIframe.allow =
+    //     "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
+    //   youtubeIframe.allowFullscreen = true;
+    //   youtubeIframe.classList.add("slide", "active"); // 첫 번째 슬라이드로 활성화
+    //   sliderWrapper.appendChild(youtubeIframe);
+    // }
+
+    // 유튜브 링크 슬라이드 추가
     if (event.youtubeLink) {
       const youtubeIframe = document.createElement("iframe");
       youtubeIframe.src = event.youtubeLink;
@@ -235,17 +248,53 @@ function openPopup(event) {
       youtubeIframe.allow =
         "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
       youtubeIframe.allowFullscreen = true;
-      youtubeIframe.classList.add("slide", "active"); // 첫 번째 슬라이드로 활성화
+      youtubeIframe.classList.add("slide");
+
+      if (!hasActiveSlide) {
+        youtubeIframe.classList.add("active");
+        hasActiveSlide = true;
+      }
+
       sliderWrapper.appendChild(youtubeIframe);
     }
 
+    // if (event.chzzkLink) {
+    //   const chzzkSlide = document.createElement("div");
+    //   chzzkSlide.classList.add("slide", "chzzk-slide");
+
+    //   // 치지직 썸네일 설정
+    //   const chzzkThumbnail = document.createElement("img");
+    //   chzzkThumbnail.src = event.chzzkImage;
+    //   chzzkThumbnail.classList.add("chzzk-thumbnail");
+
+    //   // 치지직 영상 보기 버튼
+    //   const chzzkButton = document.createElement("button");
+    //   chzzkButton.textContent = "치지직 영상 보기";
+    //   chzzkButton.classList.add("chzzk-button");
+    //   chzzkButton.addEventListener("click", () => {
+    //     window.open(event.chzzkLink, "_blank");
+    //   });
+
+    //   // 슬라이드 구성
+    //   chzzkSlide.appendChild(chzzkThumbnail);
+    //   chzzkSlide.appendChild(chzzkButton);
+
+    //   // 치지직 슬라이드를 첫 번째 슬라이드로 삽입
+    //   sliderWrapper.insertBefore(chzzkSlide, sliderWrapper.firstChild);
+
+    //   // 첫 번째 슬라이드로 활성화
+    //   chzzkSlide.classList.add("active");
+    // }
+    // 치지직 영상 슬라이드 추가
     if (event.chzzkLink) {
       const chzzkSlide = document.createElement("div");
       chzzkSlide.classList.add("slide", "chzzk-slide");
 
       // 치지직 썸네일 설정
       const chzzkThumbnail = document.createElement("img");
-      chzzkThumbnail.src = event.chzzkImage;
+      chzzkThumbnail.src =
+        event.chzzkImage ||
+        "https://ssl.pstatic.net/static/nng/glance/pc/img_og_chzzk.png";
       chzzkThumbnail.classList.add("chzzk-thumbnail");
 
       // 치지직 영상 보기 버튼
@@ -260,22 +309,37 @@ function openPopup(event) {
       chzzkSlide.appendChild(chzzkThumbnail);
       chzzkSlide.appendChild(chzzkButton);
 
-      // 치지직 슬라이드를 첫 번째 슬라이드로 삽입
-      sliderWrapper.insertBefore(chzzkSlide, sliderWrapper.firstChild);
+      if (!hasActiveSlide) {
+        chzzkSlide.classList.add("active");
+        hasActiveSlide = true;
+      }
 
-      // 첫 번째 슬라이드로 활성화
-      chzzkSlide.classList.add("active");
+      sliderWrapper.appendChild(chzzkSlide);
     }
 
+    // 일반 이미지 슬라이드 추가
     images.forEach((imgSrc, index) => {
       const img = document.createElement("img");
       img.src = imgSrc;
       img.classList.add("slide");
-      if (!event.youtubeLink && index === 0) {
-        img.classList.add("active"); // 첫 번째 이미지를 기본으로 표시
+
+      if (!hasActiveSlide) {
+        img.classList.add("active"); // 첫 번째 슬라이드로 설정
+        hasActiveSlide = true;
       }
+
       sliderWrapper.appendChild(img);
     });
+
+    // images.forEach((imgSrc, index) => {
+    //   const img = document.createElement("img");
+    //   img.src = imgSrc;
+    //   img.classList.add("slide");
+    //   if (!event.youtubeLink && index === 0) {
+    //     img.classList.add("active"); // 첫 번째 이미지를 기본으로 표시
+    //   }
+    //   sliderWrapper.appendChild(img);
+    // });
 
     sliderContainer.appendChild(prevButton);
     sliderContainer.appendChild(sliderWrapper);
