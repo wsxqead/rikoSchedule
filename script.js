@@ -239,6 +239,8 @@ function openPopup(event) {
     //   sliderWrapper.appendChild(youtubeIframe);
     // }
 
+    let hasActiveSlide = false;
+
     // 유튜브 링크 슬라이드 추가
     if (event.youtubeLink) {
       const youtubeIframe = document.createElement("iframe");
