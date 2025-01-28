@@ -183,7 +183,15 @@
       "quote": "원티드 & 배틀그라운드",
       "image": "images/2025/01/event_image_01_10.png",
       "youtubeLink": "https://www.youtube.com/embed/Kf2AOI1ZCwg",
-      "additionalImages": ["images/2025/01/event_image_01_10_01.png"]
+      "additionalImages": [
+        "images/2025/01/event_image_01_10_01.png",
+        "images/2025/01/event_image_01_10_02.png",
+        "images/2025/01/event_image_01_10_03.png",
+        "images/2025/01/event_image_01_10_04.png",
+        "images/2025/01/event_image_01_10_05.png",
+        "images/2025/01/event_image_01_10_06.png",
+        "images/2025/01/event_image_01_10_07.png"
+      ]
     },
     {
       "day": 15,
@@ -191,7 +199,19 @@
       "quote": "",
       "image": "images/2025/01/event_image_01_11.png",
       "youtubeLink": "https://www.youtube.com/embed/gE0pSCdUJ3c",
-      "additionalImages": ["images/2025/01/event_image_01_11_01.png"]
+      "additionalImages": [
+        "images/2025/01/event_image_01_11_01.png",
+        "images/2025/01/event_image_01_11_02.png",
+        "images/2025/01/event_image_01_11_03.png",
+        "images/2025/01/event_image_01_11_04.png",
+        "images/2025/01/event_image_01_11_05.png",
+        "images/2025/01/event_image_01_11_06.png",
+        "images/2025/01/event_image_01_11_07.png",
+        "images/2025/01/event_image_01_11_08.png",
+        "images/2025/01/event_image_01_11_09.png",
+        "images/2025/01/event_image_01_11_10.png",
+        "images/2025/01/event_image_01_11_11.png"
+      ]
     },
     {
       "day": 16,
@@ -204,7 +224,21 @@
       "quote": "",
       "image": "images/2025/01/event_image_01_12.png",
       "youtubeLink": "https://www.youtube.com/embed/VKZqlya4syE",
-      "additionalImages": ["images/2025/01/event_image_01_12_01.png"]
+      "additionalImages": [
+        "images/2025/01/event_image_01_12_01.png",
+        "images/2025/01/event_image_01_12_02.png",
+        "images/2025/01/event_image_01_12_03.png",
+        "images/2025/01/event_image_01_12_04.png",
+        "images/2025/01/event_image_01_12_05.png",
+        "images/2025/01/event_image_01_12_06.png",
+        "images/2025/01/event_image_01_12_07.png",
+        "images/2025/01/event_image_01_12_08.png",
+        "images/2025/01/event_image_01_12_09.png",
+        "images/2025/01/event_image_01_12_10.png",
+        "images/2025/01/event_image_01_12_11.png",
+        "images/2025/01/event_image_01_12_12.png",
+        "images/2025/01/event_image_01_12_13.png"
+      ]
     },
     {
       "day": 18,
@@ -212,7 +246,22 @@
       "quote": "",
       "image": "images/2025/01/event_image_01_13.png",
       "youtubeLink": "https://chzzk.naver.com/video/5376116",
-      "additionalImages": ["images/2025/01/event_image_01_13_01.png"]
+      "additionalImages": [
+        "images/2025/01/event_image_01_13_01.png",
+        "images/2025/01/event_image_01_13_02.png",
+        "images/2025/01/event_image_01_13_03.png",
+        "images/2025/01/event_image_01_13_04.png",
+        "images/2025/01/event_image_01_13_05.png",
+        "images/2025/01/event_image_01_13_06.png",
+        "images/2025/01/event_image_01_13_07.png",
+        "images/2025/01/event_image_01_13_08.png",
+        "images/2025/01/event_image_01_13_09.png",
+        "images/2025/01/event_image_01_13_10.png",
+        "images/2025/01/event_image_01_13_11.png",
+        "images/2025/01/event_image_01_13_12.png",
+        "images/2025/01/event_image_01_13_13.png",
+        "images/2025/01/event_image_01_13_14.png"
+      ]
     },
     {
       "day": 19,
@@ -314,7 +363,9 @@
         "images/2025/01/event_image_01_17_06.png",
         "images/2025/01/event_image_01_17_07.png",
         "images/2025/01/event_image_01_17_08.png",
-        "images/2025/01/event_image_01_17_09.png"
+        "images/2025/01/event_image_01_17_09.png",
+        "images/2025/01/event_image_01_17_10.png",
+        "images/2025/01/event_image_01_17_11.png"
       ]
     }
   ]
