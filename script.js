@@ -268,6 +268,7 @@ function setupSlider(sliderWrapper) {
 //   popup.style.display = "flex"; // 팝업 열기
 // }
 
+// 팝업 열기 함수 수정
 function openPopup(event) {
   const popup = document.getElementById("popup");
   const eventTitle = document.getElementById("event-title");
@@ -318,17 +319,33 @@ function openPopup(event) {
       sliderWrapper.appendChild(youtubeIframe);
     }
 
-    // 치지직 영상 슬라이드 추가
+    // if (event.chzzkLink) {
+    //   const chzzkPreview = document.createElement("div");
+    //   chzzkPreview.classList.add("chzzk-preview");
+    //   // 썸네일 이미지 사용 (실제 썸네일 URL 패턴이 변할 수도 있음, 치지직 공식 지원 없음)
+    //   const thumbnailUrl = `https://phinf.pstatic.net/image?src=${event.chzzkLink}.jpg`;
+    //   const chzzkThumbnail = document.createElement("img");
+    //   chzzkThumbnail.src = thumbnailUrl;
+    //   chzzkThumbnail.classList.add("chzzk-thumbnail");
+    //   chzzkThumbnail.alt = "치지직 영상 미리보기";
+    //   // 클릭하면 원본 링크로 이동
+    //   chzzkPreview.addEventListener("click", () => {
+    //     window.open(event.chzzkLink, "_blank");
+    //   });
+    //   chzzkPreview.appendChild(chzzkThumbnail);
+    //   sliderWrapper.appendChild(chzzkPreview);
+    // }
+
     if (event.chzzkLink) {
       const chzzkSlide = document.createElement("div");
-      chzzkSlide.classList.add("slide", "chzzk-slide");
+      chzzkSlide.classList.add("chzzk-preview");
 
-      // 치지직 썸네일 설정
-      const chzzkThumbnail = document.createElement("img");
-      chzzkThumbnail.src = event.chzzkImage;
-      chzzkThumbnail.classList.add("chzzk-thumbnail");
+      if (event.chzzkImage) {
+        const chzzkThumbnail = document.createElement("img");
+        chzzkThumbnail.src = event.chzzkImage;
+        chzzkSlide.appendChild(chzzkThumbnail);
+      }
 
-      // 치지직 영상 보기 버튼
       const chzzkButton = document.createElement("button");
       chzzkButton.textContent = "치지직 영상 보기";
       chzzkButton.classList.add("chzzk-button");
@@ -336,8 +353,6 @@ function openPopup(event) {
         window.open(event.chzzkLink, "_blank");
       });
 
-      // 슬라이드 구성
-      chzzkSlide.appendChild(chzzkThumbnail);
       chzzkSlide.appendChild(chzzkButton);
 
       chzzkSlide.classList.add("slide", "active");
@@ -345,29 +360,15 @@ function openPopup(event) {
       sliderWrapper.appendChild(chzzkSlide);
     }
 
-    // 일반 이미지 슬라이드 추가
     images.forEach((imgSrc, index) => {
       const img = document.createElement("img");
       img.src = imgSrc;
       img.classList.add("slide");
-
-      if (!hasActiveSlide) {
-        img.classList.add("active"); // 첫 번째 슬라이드로 설정
-        hasActiveSlide = true;
+      if (!event.youtubeLink && index === 0) {
+        img.classList.add("active"); // 첫 번째 이미지를 기본으로 표시
       }
-
       sliderWrapper.appendChild(img);
     });
-
-    // images.forEach((imgSrc, index) => {
-    //   const img = document.createElement("img");
-    //   img.src = imgSrc;
-    //   img.classList.add("slide");
-    //   if (!event.youtubeLink && index === 0) {
-    //     img.classList.add("active"); // 첫 번째 이미지를 기본으로 표시
-    //   }
-    //   sliderWrapper.appendChild(img);
-    // });
 
     sliderContainer.appendChild(prevButton);
     sliderContainer.appendChild(sliderWrapper);
