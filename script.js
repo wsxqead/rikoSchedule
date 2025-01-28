@@ -240,6 +240,14 @@ function openPopup(event) {
     }
 
     if (event.chzzkLink) {
+      const chzzkSlide = document.createElement("div");
+      chzzkSlide.classList.add("slide", "chzzk-slide");
+
+      const chzzkThumbnail = document.createElement("img");
+      chzzkThumbnail.src = event.chzzkImage;
+      chzzkThumbnail.classList.add("chzzk-thumbnail");
+
+      // 치지직 영상 보기 버튼
       const chzzkButton = document.createElement("button");
       chzzkButton.textContent = "치지직 영상 보기";
       chzzkButton.classList.add("chzzk-button");
@@ -247,7 +255,10 @@ function openPopup(event) {
         window.open(event.chzzkLink, "_blank");
       });
 
-      sliderWrapper.appendChild(chzzkButton);
+      // 슬라이드에 추가
+      chzzkSlide.appendChild(chzzkThumbnail);
+      chzzkSlide.appendChild(chzzkButton);
+      sliderWrapper.appendChild(chzzkSlide);
     }
 
     images.forEach((imgSrc, index) => {
