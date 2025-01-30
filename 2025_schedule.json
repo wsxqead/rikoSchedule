@@ -355,6 +355,7 @@
       "event": "커버곡 공개 절대적대완전싫어",
       "quote": "절대적대완전싫어 / 유즈하 리코(Yuzuha Riko) x 텐코 시부키(Tenko Shibuki) cover",
       "image": "images/2025/01/event_image_01_17.webp",
+      "youtubeLink": "https://www.youtube.com/embed/KvxY2PcX_-k",
       "additionalImages": [
         "images/2025/01/event_image_01_17_01.png",
         "images/2025/01/event_image_01_17_02.png",
@@ -368,6 +369,27 @@
         "images/2025/01/event_image_01_17_10.png",
         "images/2025/01/event_image_01_17_11.png"
       ]
+    },
+    {
+      "day": 29,
+      "event": "유로 트럭",
+      "quote": "",
+      "image": "images/2025/01/event_image_01_18.png",
+      "youtubeLink": "https://www.youtube.com/embed/RSCVZMNO_-o",
+      "additionalImages": [
+        "images/2025/01/event_image_01_18_01.png",
+        "images/2025/01/event_image_01_18_02.png",
+        "images/2025/01/event_image_01_18_03.png",
+        "images/2025/01/event_image_01_18_04.png",
+        "images/2025/01/event_image_01_18_05.png",
+        "images/2025/01/event_image_01_18_06.png",
+        "images/2025/01/event_image_01_18_07.png"
+      ]
+    },
+    {
+      "day": 30,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
     }
   ]
 }

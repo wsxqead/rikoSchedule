@@ -306,7 +306,6 @@ function openPopup(event) {
     const sliderWrapper = document.createElement("div");
     sliderWrapper.classList.add("slider-wrapper");
 
-    // 유튜브 링크가 있을 경우 첫 번째 슬라이드로 추가
     if (event.youtubeLink) {
       const youtubeIframe = document.createElement("iframe");
       youtubeIframe.src = event.youtubeLink;
@@ -318,23 +317,6 @@ function openPopup(event) {
       youtubeIframe.classList.add("slide", "active"); // 첫 번째 슬라이드로 활성화
       sliderWrapper.appendChild(youtubeIframe);
     }
-
-    // if (event.chzzkLink) {
-    //   const chzzkPreview = document.createElement("div");
-    //   chzzkPreview.classList.add("chzzk-preview");
-    //   // 썸네일 이미지 사용 (실제 썸네일 URL 패턴이 변할 수도 있음, 치지직 공식 지원 없음)
-    //   const thumbnailUrl = `https://phinf.pstatic.net/image?src=${event.chzzkLink}.jpg`;
-    //   const chzzkThumbnail = document.createElement("img");
-    //   chzzkThumbnail.src = thumbnailUrl;
-    //   chzzkThumbnail.classList.add("chzzk-thumbnail");
-    //   chzzkThumbnail.alt = "치지직 영상 미리보기";
-    //   // 클릭하면 원본 링크로 이동
-    //   chzzkPreview.addEventListener("click", () => {
-    //     window.open(event.chzzkLink, "_blank");
-    //   });
-    //   chzzkPreview.appendChild(chzzkThumbnail);
-    //   sliderWrapper.appendChild(chzzkPreview);
-    // }
 
     if (event.chzzkLink) {
       const chzzkSlide = document.createElement("div");
