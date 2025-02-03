@@ -65,6 +65,7 @@ function initializeSelectors() {
     { year: 2024, month: "nov", label: "2024년 11월" },
     { year: 2024, month: "dec", label: "2024년 12월" },
     { year: 2025, month: "jan", label: "2025년 1월" },
+    { year: 2025, month: "feb", label: "2025년 2월" },
   ];
 
   // 셀렉트 박스에 연도와 월 추가
