@@ -428,11 +428,21 @@
       ]
     },
     {
+      "day": 2,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
       "day": 3,
       "event": "스트리머 라이프 시뮬레이터 2",
       "quote": "",
       "image": "images/2025/02/event_image_02_02.png",
       "additionalImages": ["images/2025/02/event_image_02_02_01.png"]
+    },
+    {
+      "day": 5,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
     }
   ]
 }
