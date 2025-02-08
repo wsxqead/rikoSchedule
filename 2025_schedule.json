@@ -435,12 +435,91 @@
     {
       "day": 3,
       "event": "스트리머 라이프 시뮬레이터 2",
-      "quote": "",
+      "quote": "스트리머 라이프 시뮬레이터 2 & 몬스터 헌터: 월드",
+      "youtubeLink": "https://www.youtube.com/embed/Hv9e3TGKmmw",
       "image": "images/2025/02/event_image_02_02.png",
-      "additionalImages": ["images/2025/02/event_image_02_02_01.png"]
+      "additionalImages": [
+        "images/2025/02/event_image_02_02_01.png",
+        "images/2025/02/event_image_02_02_02.png",
+        "images/2025/02/event_image_02_02_03.png",
+        "images/2025/02/event_image_02_02_04.png",
+        "images/2025/02/event_image_02_02_05.png",
+        "images/2025/02/event_image_02_02_06.png",
+        "images/2025/02/event_image_02_02_07.png",
+        "images/2025/02/event_image_02_02_08.png",
+        "images/2025/02/event_image_02_02_09.png",
+        "images/2025/02/event_image_02_02_10.png"
+      ]
+    },
+    {
+      "day": 4,
+      "event": "레이튼 교수와 이상한 마을",
+      "quote": "",
+      "image": "images/2025/02/event_image_02_03.png",
+      "youtubeLink": "https://www.youtube.com/embed/g7NIlxJ8dY4",
+      "additionalImages": [
+        "images/2025/02/event_image_02_03_01.png",
+        "images/2025/02/event_image_02_03_02.png",
+        "images/2025/02/event_image_02_03_03.png",
+        "images/2025/02/event_image_02_03_04.png",
+        "images/2025/02/event_image_02_03_05.png",
+        "images/2025/02/event_image_02_03_06.png",
+        "images/2025/02/event_image_02_03_07.png",
+        "images/2025/02/event_image_02_03_08.png",
+        "images/2025/02/event_image_02_03_09.png",
+        "images/2025/02/event_image_02_03_10.png",
+        "images/2025/02/event_image_02_03_11.png",
+        "images/2025/02/event_image_02_03_12.png",
+        "images/2025/02/event_image_02_03_13.png"
+      ]
     },
     {
       "day": 5,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 6,
+      "event": "리코의 노래방",
+      "quote": "",
+      "image": "images/2025/02/event_image_02_04.png",
+      "youtubeLink": "https://www.youtube.com/embed/NnajL-nQtN0",
+      "additionalImages": [
+        "images/2025/02/event_image_02_04_01.png",
+        "images/2025/02/event_image_02_04_02.png",
+        "images/2025/02/event_image_02_04_03.png",
+        "images/2025/02/event_image_02_04_04.png",
+        "images/2025/02/event_image_02_04_05.png",
+        "images/2025/02/event_image_02_04_06.png",
+        "images/2025/02/event_image_02_04_07.png",
+        "images/2025/02/event_image_02_04_08.png",
+        "images/2025/02/event_image_02_04_09.png"
+      ]
+    },
+    {
+      "day": 7,
+      "event": "몬스터 헌터 와일즈",
+      "quote": "",
+      "image": "images/2025/02/event_image_02_05.png",
+      "additionalImages": [
+        "images/2025/02/event_image_02_05_01.png",
+        "images/2025/02/event_image_02_05_02.png",
+        "images/2025/02/event_image_02_05_03.png",
+        "images/2025/02/event_image_02_05_04.png",
+        "images/2025/02/event_image_02_05_05.png",
+        "images/2025/02/event_image_02_05_06.png",
+        "images/2025/02/event_image_02_05_07.png",
+        "images/2025/02/event_image_02_05_08.png",
+        "images/2025/02/event_image_02_05_09.png",
+        "images/2025/02/event_image_02_05_10.png",
+        "images/2025/02/event_image_02_05_11.png",
+        "images/2025/02/event_image_02_05_12.png",
+        "images/2025/02/event_image_02_05_13.png",
+        "images/2025/02/event_image_02_05_14.png"
+      ]
+    },
+    {
+      "day": 8,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
     }

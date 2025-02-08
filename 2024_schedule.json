@@ -13,6 +13,7 @@
       "event": "리코의 데뷔!",
       "quote": "리코의 데뷔 & 클리셰합방 너의 본성이 보여",
       "image": "images/2024/05/event_image_05_2.png",
+      "youtubeLink": "https://www.youtube.com/embed/Re0thdtWvD4",
       "additionalImages": [
         "images/2024/05/event_image_05_2.png",
         "images/2024/05/event_image_05_2_0.png",
@@ -24,6 +25,7 @@
       "event": "신칸센 0호",
       "quote": "팬네임 정하기 & 신칸센 0호",
       "image": "images/2024/05/event_image_05_3.png",
+      "youtubeLink": "https://www.youtube.com/embed/MAEXrV9AYxk",
       "additionalImages": [
         "images/2024/05/event_image_05_3_1.png",
         "images/2024/05/event_image_05_3_2.png",
@@ -35,6 +37,7 @@
       "event": "벅샷 룰렛!",
       "quote": "",
       "image": "images/2024/05/event_image_05_4.png",
+      "youtubeLink": "https://www.youtube.com/embed/d0qBstGc_-o",
       "additionalImages": [
         "images/2024/05/event_image_05_4.png",
         "images/2024/05/event_image_05_4_1.png",
@@ -48,6 +51,7 @@
       "event": "쯔쿠르게임",
       "quote": "스포일러가 너무 심한 RPG ―마지막 적의 정체는 용사의 아버지―",
       "image": "images/2024/05/event_image_05_5.png",
+      "youtubeLink": "https://www.youtube.com/embed/5X_JH0da4Ao",
       "additionalImages": [
         "images/2024/05/event_image_05_5.png",
         "images/2024/05/event_image_05_5_1.png",
@@ -57,9 +61,10 @@
     },
     {
       "day": 23,
-      "event": "노래 방송",
+      "event": "리코의 노래 방송",
       "quote": "",
       "image": "images/2024/05/event_image_05_6.png",
+      "youtubeLink": "https://www.youtube.com/embed/TtlGYotLho8",
       "additionalImages": [
         "images/2024/05/event_image_05_6.png",
         "images/2024/05/event_image_05_6_1.png",
@@ -71,6 +76,7 @@
       "event": "헤드뱅어즈: 리듬 로열",
       "quote": "Headbangers: Rhythm Royale",
       "image": "images/2024/05/event_image_05_7.png",
+      "youtubeLink": "https://www.youtube.com/embed/Kubd0Nzdit4",
       "additionalImages": [
         "images/2024/05/event_image_05_7.png",
         "images/2024/05/event_image_05_7_1.png",
@@ -85,6 +91,7 @@
       "event": "합방 싱크룸 & IQ 테스트",
       "quote": "",
       "image": "images/2024/05/event_image_05_8.png",
+      "youtubeLink": "https://www.youtube.com/embed/mHZmx62l3Zs",
       "additionalImages": [
         "images/2024/05/event_image_05_8.png",
         "images/2024/05/event_image_05_8_1.png",
@@ -99,6 +106,7 @@
       "event": "파피 플레이 타임 1",
       "quote": "Poppy Playtime 1",
       "image": "images/2024/05/event_image_05_9.png",
+      "youtubeLink": "https://www.youtube.com/embed/4A0RlQMReAA",
       "additionalImages": [
         "images/2024/05/event_image_05_9_1.png",
         "images/2024/05/event_image_05_9.png",
@@ -119,6 +127,7 @@
       "event": "텐코 시부키와 51가지 게임",
       "quote": "6:4",
       "image": "images/2024/05/event_image_05_10.png",
+      "youtubeLink": "https://www.youtube.com/embed/08U5VN3TIZo",
       "additionalImages": [
         "images/2024/05/event_image_05_10.png",
         "images/2024/05/event_image_05_10_1.png",
@@ -134,6 +143,7 @@
       "event": "텐코 시부키와 공포 게임",
       "quote": "The Cursed Tape & 야간경비",
       "image": "images/2024/05/event_image_05_11.png",
+      "youtubeLink": "https://www.youtube.com/embed/qMsIKtAXMtU",
       "additionalImages": [
         "images/2024/05/event_image_05_11.png",
         "images/2024/05/event_image_05_11_1.png",
@@ -154,6 +164,7 @@
       "event": "피자 배달 게임",
       "quote": "Run Pizza Run과 Pilgrims",
       "image": "images/2024/05/event_image_05_12.png",
+      "youtubeLink": "https://www.youtube.com/embed/rjHuO8J8fLA",
       "additionalImages": [
         "images/2024/05/event_image_05_12.png",
         "images/2024/05/event_image_05_12_1.png",
