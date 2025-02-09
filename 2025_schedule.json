@@ -522,6 +522,11 @@
       "day": 8,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 9,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
     }
   ]
 }
