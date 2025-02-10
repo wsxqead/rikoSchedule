@@ -406,10 +406,23 @@ iframe.slide {
 /* 반응형 디자인 */
 @media screen and (max-width: 768px) {
   .calendar-cell {
-    font-size: 0.9rem;
-    height: 100px;
+    /*font-size: 0.9rem;
+    height: 100px;*/
   }
-
+  
+  #calendar-container {
+    display: grid;
+    grid-template-columns: repeat(7, minmax(30px, 1fr)); /* 최소 크기 유지하면서 자동 조절 */
+    gap: 2px;
+  }
+  
+  .calendar-cell {
+    min-width: 30px; /* 모바일에서는 최소 크기 더 줄이기 */ 
+    min-height: 30px;
+    padding: 4px;
+    font-size: 12px; 
+  }
+  
   .calendar-cell img {
     max-width: 40px;
   }
