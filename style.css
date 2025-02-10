@@ -410,23 +410,35 @@ iframe.slide {
     height: 100px;*/
   }
   
-  #calendar-container {
-    display: grid;
-    grid-template-columns: repeat(7, minmax(30px, 1fr)); /* 최소 크기 유지하면서 자동 조절 */
-    gap: 2px;
+  #calendar-container { 
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-between;
   }
   
-  .calendar-cell {
-    min-width: 30px; /* 모바일에서는 최소 크기 더 줄이기 */ 
-    min-height: 30px;
-    padding: 4px;
-    font-size: 12px; 
+  .calendar-cell { 
+    width: calc(100% / 7 - 2px); /* 한 줄에 7칸 유지하면서 자동 조정 */ 
+    height: auto; /* 높이 자동 조정 */ 
+    aspect-ratio: 2 / 1; /* 가로가 긴 직사각형 유지 */ 
+    min-width: auto; /* 최소 크기 제한 해제 */ 
+    font-size: 12px;
+    display: flex; 
+    justify-content: center;
+    align-items: center; overflow: hidden;
+    border: 1px solid #ddd; 
+    background-color: #fff; 
   }
   
   .calendar-cell img {
     max-width: 40px;
   }
 
+  .calendar-cell img { 
+    width: 100%; 
+    height: 100%; 
+    object-fit: cover; /* 비율 유지하면서 칸을 꽉 채움 */
+  }
+  
   .month-btn,
   .nav-btn,
   .action-btn {
@@ -450,14 +462,7 @@ iframe.slide {
     height: 90px;*/
   }
   
-  #calendar-container {
-    max-width: 100%; 
-    padding: 0; 
-  } 
-  
   .calendar-cell { 
-    min-width: 35px; 
-    min-height: 45px;
     font-size: 10px; 
   }
   
