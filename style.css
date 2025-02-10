@@ -451,6 +451,7 @@ iframe.slide {
   }
   
   .calendar-cell { 
+    width: 100%;
     min-width: 25px;
     min-height: 25px;
     font-size: 10px;
