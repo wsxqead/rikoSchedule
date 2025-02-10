@@ -450,12 +450,15 @@ iframe.slide {
     height: 90px;*/
   }
   
+  #calendar-container {
+    max-width: 100%; 
+    padding: 0; 
+  } 
+  
   .calendar-cell { 
-    width: 100%;
-    min-width: 25px;
-    min-height: 25px;
-    font-size: 10px;
-    padding: 2px;
+    min-width: 35px; 
+    min-height: 45px;
+    font-size: 10px; 
   }
   
   .calendar-cell img {
