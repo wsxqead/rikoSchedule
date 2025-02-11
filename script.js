@@ -3,6 +3,7 @@ let currentYear = new Date().getFullYear();
 let currentMonth = new Date()
   .toLocaleString("en-US", { month: "short" })
   .toLowerCase(); // 현재 월을 소문자로 가져옴
+
 const holidayImage = "images/holiday_image.png"; // 휴방일 이미지 설정
 
 const holidays = {
@@ -222,52 +223,6 @@ function setupSlider(sliderWrapper) {
   sliderWrapper.parentElement.appendChild(nextButton);
   showSlide(currentIndex, slides);
 }
-
-// 팝업 열기 함수 수정
-// function openPopup(event) {
-//   const popup = document.getElementById("popup");
-//   const eventTitle = document.getElementById("event-title");
-//   const eventImages = document.getElementById("event-images");
-
-//   eventTitle.textContent = event.holiday ? "휴방" : event.event;
-//   eventImages.innerHTML = ""; // 기존 이미지 초기화
-
-//   const sliderWrapper = document.createElement("div");
-//   sliderWrapper.classList.add("slider-wrapper");
-
-//   if (event.youtubeLink) {
-//     const youtubeIframe = document.createElement("iframe");
-//     youtubeIframe.src = event.youtubeLink;
-//     youtubeIframe.width = "100%";
-//     youtubeIframe.height = "315";
-//     youtubeIframe.allow =
-//       "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
-//     youtubeIframe.allowFullscreen = true;
-//     youtubeIframe.classList.add("slide");
-//     sliderWrapper.appendChild(youtubeIframe);
-//   }
-
-//   if (event.chzzkLink) {
-//     const chzzkSlide = document.createElement("div");
-//     chzzkSlide.classList.add("slide");
-//     const chzzkThumbnail = document.createElement("img");
-//     chzzkThumbnail.src = event.chzzkImage;
-//     chzzkSlide.appendChild(chzzkThumbnail);
-//     sliderWrapper.appendChild(chzzkSlide);
-//   }
-
-//   event.additionalImages.forEach((imgSrc) => {
-//     const img = document.createElement("img");
-//     img.src = imgSrc;
-//     img.classList.add("slide");
-//     sliderWrapper.appendChild(img);
-//   });
-
-//   eventImages.appendChild(sliderWrapper);
-//   setupSlider(sliderWrapper);
-
-//   popup.style.display = "flex"; // 팝업 열기
-// }
 
 // 팝업 열기 함수 수정
 function openPopup(event) {
