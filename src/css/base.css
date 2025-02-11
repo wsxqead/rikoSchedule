@@ -1,0 +1,11 @@
+/* 전체적인 달력 스타일 */
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #f7f9fc;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
