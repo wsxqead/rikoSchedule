@@ -1,9 +1,3 @@
-// 현재 연도와 월 동적 설정
-let currentYear = new Date().getFullYear();
-let currentMonth = new Date()
-  .toLocaleString("en-US", { month: "short" })
-  .toLowerCase();
-
 const holidayImage = "images/holiday_image.png"; // 휴방일 이미지 설정
 
 const holidays = {
