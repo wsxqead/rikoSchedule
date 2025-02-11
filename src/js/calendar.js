@@ -80,3 +80,30 @@ function showMonth(monthId) {
   });
   document.getElementById(monthId).style.display = "grid";
 }
+function showMonth(monthId) {
+  currentMonth = monthId;
+  updateCalendarHeader(monthId);
+
+  // 모든 월 숨기고 선택된 월만 표시
+  document.querySelectorAll(".month").forEach((month) => {
+    month.classList.remove("active");
+    month.style.display = "none"; // 기본적으로 숨김
+  });
+
+  const selectedMonth = document.getElementById(monthId);
+  selectedMonth.classList.add("active");
+
+  // 화면 너비에 따라 다른 display 적용
+  if (window.innerWidth <= 1200) {
+    selectedMonth.style.display = "flex"; // 리스트 스타일
+  } else {
+    selectedMonth.style.display = "grid"; // 기존 PC 스타일
+  }
+}
+
+// 화면 크기 변경 시 반응형 적용
+window.addEventListener("resize", () => {
+  if (document.querySelector(".month.active")) {
+    showMonth(currentMonth);
+  }
+});

@@ -1,71 +1,61 @@
-/* 반응형 디자인 */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1200px) {
+  /* 기존 요일 헤더 숨김 */
+  .calendar-days {
+    display: none !important;
+  }
+
+  /* 달력 전체 컨테이너를 세로 리스트 형태로 정렬 */
   #calendar-container {
-    display: grid;
-    grid-template-columns: repeat(7, 1fr); /* 한 줄에 7칸 유지 */
-    gap: 3px;
-  }
-
-  .calendar-cell {
-    width: 100%;
-    height: auto; /* 높이 자동 조정 */
-    min-height: 50px; /* 최소 높이 유지 */
-    font-size: 12px;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0; /* 리스트 스타일이므로 간격 제거 */
   }
 
-  .calendar-cell img {
-    max-width: 40px;
-  }
-
-  .calendar-cell img {
+  /* 현재 선택된 월만 리스트 형태로 보이게 함 */
+  .month {
+    display: none; /* 기본적으로 모든 월 숨김 */
     width: 100%;
-    height: 100%;
-    object-fit: cover; /* 비율 유지하면서 칸을 꽉 채움 */
   }
 
-  .month-btn,
-  .nav-btn,
-  .action-btn {
-    font-size: 0.9rem;
-    padding: 6px 10px;
+  /* 선택된 월만 리스트 형태로 표시 */
+  .month.active {
+    display: flex !important;
+    flex-direction: column; /* 세로 정렬 */
   }
 
-  #calendar-year,
-  #calendar-month {
-    font-size: 1.5rem;
-  }
-
-  #year-month-select {
-    width: 200px; /* 모바일에서 셀렉트 박스 크기 조정 */
-  }
-}
-
-@media screen and (max-width: 480px) {
+  /* 개별 날짜 셀을 리스트 형태로 변경 */
   .calendar-cell {
-    font-size: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 50px; /* 리스트 스타일 한 줄 높이 */
+    padding: 10px;
+    background-color: #222; /* 리스트 스타일에 맞는 다크 모드 스타일 */
+    color: #fff;
+    border-bottom: 1px solid #444; /* 리스트 간 구분선 */
+    font-size: 1rem;
   }
 
-  .calendar-cell img {
-    max-width: 30px;
+  /* 날짜 숫자 및 요일 정렬 */
+  .calendar-cell .date-overlay {
+    font-size: 1.1rem;
+    font-weight: bold;
   }
 
-  .month-btn,
-  .nav-btn,
-  .action-btn {
-    font-size: 0.8rem;
-    padding: 5px 8px;
+  /* 일요일 스타일 (빨간색) */
+  .calendar-cell.sunday .date-overlay{
+    color: red;
   }
 
-  #calendar-year,
-  #calendar-month {
-    font-size: 1.2rem;
+  /* 토요일 스타일 (파란색) */
+  .calendar-cell.saturday .date-overlay{
+    color: blue;
   }
 
-  #year-month-select {
-    width: 180px; /* 더 작은 화면에서 크기 조정 */
+  /* 기존의 빈 칸 스타일 제거 */
+  .empty-cell {
+    display: none !important;
   }
 }
