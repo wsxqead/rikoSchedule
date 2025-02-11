@@ -528,6 +528,39 @@
       "day": 9,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 10,
+      "event": "리그 오브 레전드",
+      "quote": "",
+      "image": "images/2025/02/event_image_02_06.png",
+      "youtubeLink": "https://www.youtube.com/embed/2y1871ZTfbo",
+      "additionalImages": [
+        "images/2025/02/event_image_02_06_01.png",
+        "images/2025/02/event_image_02_06_02.png",
+        "images/2025/02/event_image_02_06_03.png",
+        "images/2025/02/event_image_02_06_04.png",
+        "images/2025/02/event_image_02_06_05.png",
+        "images/2025/02/event_image_02_06_06.png",
+        "images/2025/02/event_image_02_06_07.png",
+        "images/2025/02/event_image_02_06_08.png",
+        "images/2025/02/event_image_02_06_09.png"
+      ]
+    },
+    {
+      "day": 11,
+      "event": "몬스터 헌터: 월드",
+      "quote": "",
+      "image": "images/2025/02/event_image_02_07.png",
+      "youtubeLink": "https://www.youtube.com/embed/87YF75iNirY",
+      "additionalImages": [
+        "images/2025/02/event_image_02_07_01.png",
+        "images/2025/02/event_image_02_07_02.png",
+        "images/2025/02/event_image_02_07_03.png",
+        "images/2025/02/event_image_02_07_04.png",
+        "images/2025/02/event_image_02_07_05.png",
+        "images/2025/02/event_image_02_07_06.png"
+      ]
     }
   ]
 }

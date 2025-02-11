@@ -200,6 +200,7 @@
       "event": "클리셰 합방 컨텐츠 content warning",
       "quote": "",
       "image": "images/2024/06/event_image_06_2.png",
+      "youtubeLink": "https://www.youtube.com/embed/3kEu841jDqQ",
       "additionalImages": [
         "images/2024/06/event_image_06_2.png",
         "images/2024/06/event_image_06_2_1.png",
@@ -216,6 +217,7 @@
       "event": "토리다마 & 점프킹 맛보기",
       "quote": "",
       "image": "images/2024/06/event_image_06_3.png",
+      "youtubeLink": "https://www.youtube.com/embed/Gyz7BfC-4lU",
       "additionalImages": [
         "images/2024/06/event_image_06_3_1.png",
         "images/2024/06/event_image_06_3_2.png",
@@ -927,6 +929,7 @@
       "event": "멋봉리 8일차",
       "quote": "",
       "image": "images/2024/07/event_image_07_26.png",
+      "youtubeLink": "https://www.youtube.com/embed/urT_Fu_WAhE",
       "additionalImages": [
         "images/2024/07/event_image_07_26_1.png",
         "images/2024/07/event_image_07_26_2.png",
@@ -940,6 +943,7 @@
       "event": "멋봉리 9일차",
       "quote": "",
       "image": "images/2024/07/event_image_07_27.png",
+      "youtubeLink": "https://www.youtube.com/embed/F-Tn27aDM4k",
       "additionalImages": [
         "images/2024/07/event_image_07_27_1.png",
         "images/2024/07/event_image_07_27_2.png",
@@ -1351,6 +1355,7 @@
       "event": "60 Seconds!",
       "quote": "",
       "image": "images/2024/09/event_image_09_1.png",
+      "youtubeLink": "https://www.youtube.com/embed/HjqI9Wy_LLQ",
       "additionalImages": [
         "images/2024/09/event_image_09_1_1.png",
         "images/2024/09/event_image_09_1_2.jpg",
@@ -1362,6 +1367,7 @@
       "event": "파스파투2",
       "quote": "스텔라이브 맴버 그리기",
       "image": "images/2024/09/event_image_09_2.png",
+      "youtubeLink": "https://www.youtube.com/embed/oO0DSIY2Kkg",
       "additionalImages": [
         "images/2024/09/event_image_09_2_1.png",
         "images/2024/09/event_image_09_2_2.png",
@@ -1377,6 +1383,7 @@
       "event": "La Madriguera & slither",
       "quote": "곰게임과 지렁이게임",
       "image": "images/2024/09/event_image_09_3.png",
+      "youtubeLink": "https://www.youtube.com/embed/u0cNu-5mVkA",
       "additionalImages": [
         "images/2024/09/event_image_09_3_1.png",
         "images/2024/09/event_image_09_3_2.png",
@@ -1396,6 +1403,7 @@
       "event": "서울역 & 51가지 게임",
       "quote": "",
       "image": "images/2024/09/event_image_09_4.png",
+      "youtubeLink": "https://www.youtube.com/embed/0qiJDXPjVTY",
       "additionalImages": [
         "images/2024/09/event_image_09_4_1.png",
         "images/2024/09/event_image_09_4_2.png",
@@ -1411,6 +1419,7 @@
       "event": "캐치 티니핑 티니핑 맞추기",
       "quote": "",
       "image": "images/2024/09/event_image_09_5.png",
+      "youtubeLink": "https://www.youtube.com/embed/oX0ZYsOPSoY",
       "additionalImages": [
         "images/2024/09/event_image_09_5.png",
         "images/2024/09/event_image_09_5_1.png",
@@ -1423,6 +1432,7 @@
       "event": "모여봐요 동물의 숲 1일차!",
       "quote": "",
       "image": "images/2024/09/event_image_09_6.png",
+      "youtubeLink": "https://www.youtube.com/embed/mKCYz8TNqp8",
       "additionalImages": [
         "images/2024/09/event_image_09_6.png",
         "images/2024/09/event_image_09_6_1.png",
@@ -1440,6 +1450,7 @@
       "event": "모여봐요 동물의 숲 2일차!",
       "quote": "",
       "image": "images/2024/09/event_image_09_7.png",
+      "youtubeLink": "https://www.youtube.com/embed/4SwRkBx_nIk",
       "additionalImages": [
         "images/2024/09/event_image_09_7_1.png",
         "images/2024/09/event_image_09_7_2.png",
@@ -1461,6 +1472,7 @@
       "event": "스텔고사 & 검을 뽑는 자 왕이 되리라",
       "quote": "",
       "image": "images/2024/09/event_image_09_8.png",
+      "youtubeLink": "https://www.youtube.com/embed/KfWoKQZ3X9c",
       "additionalImages": [
         "images/2024/09/event_image_09_8.png",
         "images/2024/09/event_image_09_8_1.png",
@@ -1474,6 +1486,7 @@
       "event": "갤럭시 버거 & 모여봐요 동물의 숲 3일차!",
       "quote": "",
       "image": "images/2024/09/event_image_09_9.png",
+      "youtubeLink": "https://www.youtube.com/embed/Hu0tsAs-YLE",
       "additionalImages": [
         "images/2024/09/event_image_09_9_1.jpg",
         "images/2024/09/event_image_09_9_2.jpg",
@@ -1497,6 +1510,7 @@
       "event": "Voice Mimicry Show",
       "quote": "효과음을 입으로 따라하는 게임",
       "image": "images/2024/09/event_image_09_10.png",
+      "youtubeLink": "https://www.youtube.com/embed/lHjaUgzc9HI",
       "additionalImages": [
         "images/2024/09/event_image_09_10_1.png",
         "images/2024/09/event_image_09_10_2.jpg",
@@ -1523,6 +1537,7 @@
       "event": "명절기념 클리셰 합방",
       "quote": "마리오 파티 & 배틀그라운드",
       "image": "images/2024/09/event_image_09_11.png",
+      "youtubeLink": "https://www.youtube.com/embed/OjTv8czrZmY",
       "additionalImages": [
         "images/2024/09/event_image_09_11_01.png",
         "images/2024/09/event_image_09_11_02.png",
@@ -1582,6 +1597,7 @@
       "event": "배그 광고 합방",
       "quote": "강지 리제 히나와 함께",
       "image": "images/2024/09/event_image_09_12.png",
+      "youtubeLink": "https://www.youtube.com/embed/FsIgRF7AiJQ",
       "additionalImages": [
         "images/2024/09/event_image_09_12.png",
         "images/2024/09/event_image_09_12_1.jpg",
@@ -1598,6 +1614,7 @@
       "event": "리코와 금요일",
       "quote": "코난 범인 맞추기",
       "image": "images/2024/09/event_image_09_13.png",
+      "youtubeLink": "https://www.youtube.com/embed/KW8suTpSx24",
       "additionalImages": [
         "images/2024/09/event_image_09_13.png",
         "images/2024/09/event_image_09_13_1.png",
@@ -1618,6 +1635,7 @@
       "event": "스텔라이브 팬게임 & 카페 탐방",
       "quote": "3D 수박게임 & 텔제이맥스 & 카페탐방",
       "image": "images/2024/09/event_image_09_14.png",
+      "youtubeLink": "https://www.youtube.com/embed/1okdSJjAuxs",
       "additionalImages": [
         "images/2024/09/event_image_09_14.png",
         "images/2024/09/event_image_09_14_1.png",
@@ -1637,6 +1655,7 @@
       "event": "리코의 4번째 커버곡 맑은 날 공개",
       "quote": "커버곡 공개 & 나노사도",
       "image": "images/2024/09/event_image_09_15.webp",
+      "youtubeLink": "https://www.youtube.com/embed/Nf1SFDDg49w",
       "additionalImages": [
         "images/2024/09/event_image_09_15_1.jpg",
         "images/2024/09/event_image_09_15_2.jpg",
@@ -1662,6 +1681,7 @@
       "event": "살육의천사",
       "quote": "지구멸망60초전 & 살육의천사",
       "image": "images/2024/09/event_image_09_16_7.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/Su1_hVx3mdQ",
       "additionalImages": [
         "images/2024/09/event_image_09_16_1.png",
         "images/2024/09/event_image_09_16_2.png",
@@ -1686,6 +1706,7 @@
       "event": "작혼",
       "quote": "카트 오브 글로리 & 작혼",
       "image": "images/2024/09/event_image_09_17_6.png",
+      "youtubeLink": "https://www.youtube.com/embed/LeEb9UTVaII",
       "additionalImages": [
         "images/2024/09/event_image_09_17_1.png",
         "images/2024/09/event_image_09_17_2.png",
@@ -1703,6 +1724,7 @@
       "event": "매도 월드컵 & 배그",
       "quote": "",
       "image": "images/2024/09/event_image_09_18.png",
+      "youtubeLink": "https://www.youtube.com/embed/fFIDYVJxcW4",
       "additionalImages": [
         "images/2024/09/event_image_09_18_01.png",
         "images/2024/09/event_image_09_18_02.png",
@@ -1722,6 +1744,7 @@
       "event": "체인드 투게더 대회 클리셰팀",
       "quote": "체인드 투게더 대회 & 스텔섭 잠시",
       "image": "images/2024/09/event_image_09_19.png",
+      "youtubeLink": "https://www.youtube.com/embed/Nh1XI4H4p7M",
       "additionalImages": [
         "images/2024/09/event_image_09_19_01.png",
         "images/2024/09/event_image_09_19_02.png",
@@ -1738,6 +1761,7 @@
       "event": "9월의 노래방송",
       "quote": "",
       "image": "images/2024/09/event_image_09_20.png",
+      "youtubeLink": "https://www.youtube.com/embed/0S0R2zuioNo",
       "additionalImages": [
         "images/2024/09/event_image_09_20_01.png",
         "images/2024/09/event_image_09_20_02.png",
@@ -1750,6 +1774,7 @@
       "event": "명조 광고 합방",
       "quote": "리제 타비 린과 함께",
       "image": "images/2024/09/event_image_09_21.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/I4wwE0filFU",
       "additionalImages": [
         "images/2024/09/event_image_09_21.jpg",
         "images/2024/09/event_image_09_21_1.png",
@@ -1773,6 +1798,7 @@
       "event": "스텔섭에서 모래캐기 데이트",
       "quote": "",
       "image": "images/2024/10/event_image_10_1.png",
+      "youtubeLink": "https://www.youtube.com/embed/NpbDp7JD_9g",
       "additionalImages": [
         "images/2024/10/event_image_10_1.png",
         "images/2024/10/event_image_10_1_1.png",
@@ -1797,6 +1823,7 @@
       "event": "린과 리코의 듀엣곡 발표!",
       "quote": "듀엣곡 발표 & We Were Here Too",
       "image": "images/2024/10/event_image_10_2.webp",
+      "youtubeLink": "https://www.youtube.com/embed/M3f8nXVsMvE",
       "additionalImages": [
         "images/2024/10/event_image_10_2_1.png",
         "images/2024/10/event_image_10_2_2.png",
@@ -1812,6 +1839,7 @@
       "event": "TCG 카드샵 시뮬레이터",
       "quote": "",
       "image": "images/2024/10/event_image_10_3.png",
+      "youtubeLink": "https://www.youtube.com/embed/P-FgOsElTSw",
       "additionalImages": [
         "images/2024/10/event_image_10_3_1.png",
         "images/2024/10/event_image_10_3_2.png",
@@ -1825,6 +1853,7 @@
       "event": "리틀 나이트 메어",
       "quote": "",
       "image": "images/2024/10/event_image_10_4.png",
+      "youtubeLink": "https://www.youtube.com/embed/qumB3RanHfU",
       "additionalImages": [
         "images/2024/10/event_image_10_4_1.png",
         "images/2024/10/event_image_10_4_2.png",
@@ -1843,6 +1872,7 @@
       "event": "리틀 나이트 메어2",
       "quote": "",
       "image": "images/2024/10/event_image_10_5.png",
+      "youtubeLink": "https://www.youtube.com/embed/JwMRPJDhgNM",
       "additionalImages": [
         "images/2024/10/event_image_10_5_1.png",
         "images/2024/10/event_image_10_5_2.png",
@@ -1860,6 +1890,7 @@
       "event": "욘사의 좀보이드 1일차",
       "quote": "",
       "image": "images/2024/10/event_image_10_6.png",
+      "youtubeLink": "https://www.youtube.com/embed/uPNFdhaBJk8",
       "additionalImages": [
         "images/2024/10/event_image_10_6_001.png",
         "images/2024/10/event_image_10_6_002.png",
@@ -1873,6 +1904,7 @@
       "event": "욘사의 좀보이드 2일차",
       "quote": "",
       "image": "images/2024/10/event_image_10_7.png",
+      "youtubeLink": "https://www.youtube.com/embed/BIKPR3WqF",
       "additionalImages": [
         "images/2024/10/event_image_10_7_001.png",
         "images/2024/10/event_image_10_7_002.png",
@@ -1886,6 +1918,7 @@
       "event": "글쟁이의 필기체 도서관",
       "quote": "",
       "image": "images/2024/10/event_image_10_8.png",
+      "youtubeLink": "https://www.youtube.com/embed/jVUsqiYHAto",
       "additionalImages": [
         "images/2024/10/event_image_10_8_001.png",
         "images/2024/10/event_image_10_8_002.png",
