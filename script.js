@@ -1,8 +1,3 @@
-// 현재 연도와 월 동적 설정
-let currentYear = new Date().getFullYear();
-let currentMonth = new Date()
-  .toLocaleString("en-US", { month: "short" })
-  .toLowerCase(); // 현재 월을 소문자로 가져옴
 const holidayImage = "images/holiday_image.png"; // 휴방일 이미지 설정
 
 const holidays = {
@@ -10,79 +5,6 @@ const holidays = {
   "2024-09-17": "추석 연휴",
   "2024-09-18": "추석 연휴",
 };
-
-// 연도 변경 함수
-function changeYear(direction) {
-  currentYear += direction;
-  document.getElementById("current-year").textContent = currentYear + "년";
-  document.getElementById("calendar-year").textContent = currentYear;
-  initializeSelectors(); // 연도 변경 시 셀렉터 초기화
-  loadScheduleData(); // 연도 변경 시 데이터 로드
-}
-
-// 연도와 월을 함께 변경하는 함수
-function changeYearMonth(selectedValue) {
-  const [year, month] = selectedValue.split("-");
-  currentYear = parseInt(year, 10); // 연도 업데이트
-  currentMonth = month; // 월 업데이트
-  document.getElementById("calendar-year").textContent = currentYear + "년";
-  updateCalendarHeader(currentMonth);
-  showMonth(currentMonth);
-  loadScheduleData(); // 선택된 연도에 맞는 데이터 로드
-}
-
-// 연도와 월 정보 업데이트 함수
-function updateCalendarHeader(monthId) {
-  const monthNames = {
-    jan: "1월",
-    feb: "2월",
-    mar: "3월",
-    apr: "4월",
-    may: "5월",
-    jun: "6월",
-    jul: "7월",
-    aug: "8월",
-    sep: "9월",
-    oct: "10월",
-    nov: "11월",
-    dec: "12월",
-  };
-  document.getElementById("calendar-month").textContent = monthNames[monthId];
-}
-
-// 초기화 함수 (연도 및 월 셀렉트 박스 설정)
-function initializeSelectors() {
-  const yearMonthSelect = document.getElementById("year-month-select");
-  yearMonthSelect.innerHTML = ""; // 기존 옵션 초기화
-
-  const availableMonths = [
-    { year: 2024, month: "may", label: "2024년 5월" },
-    { year: 2024, month: "jun", label: "2024년 6월" },
-    { year: 2024, month: "jul", label: "2024년 7월" },
-    { year: 2024, month: "aug", label: "2024년 8월" },
-    { year: 2024, month: "sep", label: "2024년 9월" },
-    { year: 2024, month: "oct", label: "2024년 10월" },
-    { year: 2024, month: "nov", label: "2024년 11월" },
-    { year: 2024, month: "dec", label: "2024년 12월" },
-    { year: 2025, month: "jan", label: "2025년 1월" },
-    { year: 2025, month: "feb", label: "2025년 2월" },
-  ];
-
-  // 셀렉트 박스에 연도와 월 추가
-  availableMonths.forEach(({ year, month, label }) => {
-    const option = document.createElement("option");
-    option.value = `${year}-${month}`;
-    option.textContent = label;
-    yearMonthSelect.appendChild(option);
-  });
-
-  // 현재 연도와 월을 기본값으로 선택
-  const defaultValue = `${currentYear}-${currentMonth}`;
-  yearMonthSelect.value = defaultValue;
-
-  updateCalendarHeader(currentMonth);
-  showMonth(currentMonth);
-}
 
 // 연도에 맞는 JSON 데이터 불러오기
 async function loadScheduleData() {
@@ -224,52 +146,6 @@ function setupSlider(sliderWrapper) {
 }
 
 // 팝업 열기 함수 수정
-// function openPopup(event) {
-//   const popup = document.getElementById("popup");
-//   const eventTitle = document.getElementById("event-title");
-//   const eventImages = document.getElementById("event-images");
-
-//   eventTitle.textContent = event.holiday ? "휴방" : event.event;
-//   eventImages.innerHTML = ""; // 기존 이미지 초기화
-
-//   const sliderWrapper = document.createElement("div");
-//   sliderWrapper.classList.add("slider-wrapper");
-
-//   if (event.youtubeLink) {
-//     const youtubeIframe = document.createElement("iframe");
-//     youtubeIframe.src = event.youtubeLink;
-//     youtubeIframe.width = "100%";
-//     youtubeIframe.height = "315";
-//     youtubeIframe.allow =
-//       "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
-//     youtubeIframe.allowFullscreen = true;
-//     youtubeIframe.classList.add("slide");
-//     sliderWrapper.appendChild(youtubeIframe);
-//   }
-
-//   if (event.chzzkLink) {
-//     const chzzkSlide = document.createElement("div");
-//     chzzkSlide.classList.add("slide");
-//     const chzzkThumbnail = document.createElement("img");
-//     chzzkThumbnail.src = event.chzzkImage;
-//     chzzkSlide.appendChild(chzzkThumbnail);
-//     sliderWrapper.appendChild(chzzkSlide);
-//   }
-
-//   event.additionalImages.forEach((imgSrc) => {
-//     const img = document.createElement("img");
-//     img.src = imgSrc;
-//     img.classList.add("slide");
-//     sliderWrapper.appendChild(img);
-//   });
-
-//   eventImages.appendChild(sliderWrapper);
-//   setupSlider(sliderWrapper);
-
-//   popup.style.display = "flex"; // 팝업 열기
-// }
-
-// 팝업 열기 함수 수정
 function openPopup(event) {
   const popup = document.getElementById("popup");
   const eventTitle = document.getElementById("event-title");
@@ -383,52 +259,6 @@ function openPopup(event) {
   }
 
   popup.style.display = "flex"; // 팝업 열기
-}
-
-// 팝업 닫기
-
-const closePopup = document.querySelector(".close");
-closePopup.addEventListener("click", () => {
-  document.getElementById("popup").style.display = "none";
-});
-
-window.addEventListener("click", (event) => {
-  const popup = document.getElementById("popup");
-  if (event.target === popup) {
-    popup.style.display = "none";
-  }
-});
-
-document.getElementById("save-btn").addEventListener("click", () => {
-  const calendarContainer = document.querySelector(".calendar-container");
-
-  html2canvas(calendarContainer, {
-    scale: 2, // 고해상도 캡처를 위해 배율을 높임
-    useCORS: true, // CORS 문제 방지
-    backgroundColor: "#ffffff", // 배경색을 흰색으로 설정
-  }).then((canvas) => {
-    const link = document.createElement("a");
-    link.href = canvas.toDataURL("image/png");
-    link.download = `${currentYear}-${currentMonth}-Calendar.png`; // 파일 이름을 현재 연도와 월로 설정
-    link.click();
-  });
-});
-
-// 초기 로드 시 기본 설정
-document.addEventListener("DOMContentLoaded", function () {
-  document.getElementById("calendar-year").textContent = currentYear + "년";
-  initializeSelectors(); // 초기화 함수 실행
-  loadScheduleData(); // 일정 데이터 로드
-});
-
-// 달력 표시 함수 (기존 로직 유지)
-function showMonth(monthId) {
-  currentMonth = monthId;
-  updateCalendarHeader(monthId); // 월 정보 업데이트
-  document.querySelectorAll(".month").forEach((month) => {
-    month.style.display = "none";
-  });
-  document.getElementById(monthId).style.display = "grid";
 }
 
 // 월 ID를 월 인덱스로 변환하는 함수 (ex: 'may' -> 4)
