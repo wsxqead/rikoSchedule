@@ -411,22 +411,19 @@ iframe.slide {
   }
   
   #calendar-container { 
-    display: flex; 
-    flex-wrap: wrap; 
-    justify-content: space-between;
-  }
-  
+    display: grid; 
+    grid-template-columns: repeat(7, 1fr); /* 한 줄에 7칸 유지 */ 
+    gap: 3px; 
+  } 
   .calendar-cell { 
-    width: calc(100% / 7 - 2px); /* 한 줄에 7칸 유지하면서 자동 조정 */ 
+    width: 100%; 
     height: auto; /* 높이 자동 조정 */ 
-    aspect-ratio: 2 / 1; /* 가로가 긴 직사각형 유지 */ 
-    min-width: auto; /* 최소 크기 제한 해제 */ 
-    font-size: 12px;
+    min-height: 50px; /* 최소 높이 유지 */ 
+    font-size: 12px; 
     display: flex; 
-    justify-content: center;
-    align-items: center; overflow: hidden;
-    border: 1px solid #ddd; 
-    background-color: #fff; 
+    justify-content: center; 
+    align-items: center; 
+    overflow: hidden; 
   }
   
   .calendar-cell img {
