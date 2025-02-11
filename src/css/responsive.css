@@ -1,0 +1,71 @@
+/* 반응형 디자인 */
+@media screen and (max-width: 768px) {
+  #calendar-container {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr); /* 한 줄에 7칸 유지 */
+    gap: 3px;
+  }
+
+  .calendar-cell {
+    width: 100%;
+    height: auto; /* 높이 자동 조정 */
+    min-height: 50px; /* 최소 높이 유지 */
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+  }
+
+  .calendar-cell img {
+    max-width: 40px;
+  }
+
+  .calendar-cell img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* 비율 유지하면서 칸을 꽉 채움 */
+  }
+
+  .month-btn,
+  .nav-btn,
+  .action-btn {
+    font-size: 0.9rem;
+    padding: 6px 10px;
+  }
+
+  #calendar-year,
+  #calendar-month {
+    font-size: 1.5rem;
+  }
+
+  #year-month-select {
+    width: 200px; /* 모바일에서 셀렉트 박스 크기 조정 */
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .calendar-cell {
+    font-size: 10px;
+  }
+
+  .calendar-cell img {
+    max-width: 30px;
+  }
+
+  .month-btn,
+  .nav-btn,
+  .action-btn {
+    font-size: 0.8rem;
+    padding: 5px 8px;
+  }
+
+  #calendar-year,
+  #calendar-month {
+    font-size: 1.2rem;
+  }
+
+  #year-month-select {
+    width: 180px; /* 더 작은 화면에서 크기 조정 */
+  }
+}
