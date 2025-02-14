@@ -561,6 +561,46 @@
         "images/2025/02/event_image_02_07_05.png",
         "images/2025/02/event_image_02_07_06.png"
       ]
+    },
+    {
+      "day": 12,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 13,
+      "event": "몬스터 헌터: 월드",
+      "quote": "",
+      "image": "images/2025/02/event_image_02_08.png",
+      "youtubeLink": "https://www.youtube.com/embed/8GEGI1wrLtU",
+      "additionalImages": [
+        "images/2025/02/event_image_02_07_01.png",
+        "images/2025/02/event_image_02_07_02.png",
+        "images/2025/02/event_image_02_07_03.png",
+        "images/2025/02/event_image_02_07_04.png",
+        "images/2025/02/event_image_02_07_05.png",
+        "images/2025/02/event_image_02_07_06.png"
+      ]
+    },
+    {
+      "day": 14,
+      "event": "커버곡 공개 마음예보",
+      "quote": "커버곡 공개 마음예보 & 노래방송",
+      "image": "images/2025/02/event_image_02_09.webp",
+      "youtubeLink": "https://www.youtube.com/embed/87YF75iNirY",
+      "additionalImages": [
+        "images/2025/02/event_image_02_07_01.png",
+        "images/2025/02/event_image_02_07_02.png",
+        "images/2025/02/event_image_02_07_03.png",
+        "images/2025/02/event_image_02_07_04.png",
+        "images/2025/02/event_image_02_07_05.png",
+        "images/2025/02/event_image_02_07_06.png"
+      ]
+    },
+    {
+      "day": 15,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
     }
   ]
 }
