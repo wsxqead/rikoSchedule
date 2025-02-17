@@ -615,6 +615,43 @@
       "day": 15,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 16,
+      "event": "마인크래프트 스텔라이브 서버",
+      "quote": "마인크래프트 스텔라이브 서버",
+      "image": "images/2025/02/event_image_02_10.png",
+      "youtubeLink": "https://www.youtube.com/embed/5QoPQXhaZkE",
+      "additionalImages": [
+        "images/2025/02/event_image_02_10_01.png",
+        "images/2025/02/event_image_02_10_02.png",
+        "images/2025/02/event_image_02_10_03.png",
+        "images/2025/02/event_image_02_10_04.png",
+        "images/2025/02/event_image_02_10_05.png",
+        "images/2025/02/event_image_02_10_06.png",
+        "images/2025/02/event_image_02_10_07.png",
+        "images/2025/02/event_image_02_10_08.png"
+      ]
+    },
+    {
+      "day": 17,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 21,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 22,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 23,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
     }
   ]
 }
