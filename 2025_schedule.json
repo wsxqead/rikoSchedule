@@ -645,9 +645,7 @@
         "images/2025/02/event_image_02_11_03.png",
         "images/2025/02/event_image_02_11_04.png",
         "images/2025/02/event_image_02_11_05.png",
-        "images/2025/02/event_image_02_11_06.png",
-        "images/2025/02/event_image_02_11_07.png",
-        "images/2025/02/event_image_02_11_08.png"
+        "images/2025/02/event_image_02_11_06.png"
       ]
     },
     {
@@ -668,6 +666,28 @@
       ]
     },
     {
+      "day": 19,
+      "event": "마인크래프트 스텔라이브 서버",
+      "quote": "4일차 & 무한도전 가요제 같이보기",
+      "image": "images/2025/02/event_image_02_13.png",
+      "youtubeLink": "https://www.youtube.com/embed/5QoPQXhaZkE",
+      "additionalImages": [
+        "images/2025/02/event_image_02_13_01.png",
+        "images/2025/02/event_image_02_13_02.png",
+        "images/2025/02/event_image_02_13_03.png",
+        "images/2025/02/event_image_02_13_04.png",
+        "images/2025/02/event_image_02_13_05.png",
+        "images/2025/02/event_image_02_13_06.png",
+        "images/2025/02/event_image_02_13_07.png",
+        "images/2025/02/event_image_02_13_08.png"
+      ]
+    },
+    {
+      "day": 20,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
       "day": 21,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
@@ -679,6 +699,11 @@
     },
     {
       "day": 23,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 24,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
     }
