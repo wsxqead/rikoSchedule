@@ -662,7 +662,15 @@
         "images/2025/02/event_image_02_12_05.png",
         "images/2025/02/event_image_02_12_06.png",
         "images/2025/02/event_image_02_12_07.png",
-        "images/2025/02/event_image_02_12_08.png"
+        "images/2025/02/event_image_02_12_08.png",
+        "images/2025/02/event_image_02_12_09.png",
+        "images/2025/02/event_image_02_12_10.png",
+        "images/2025/02/event_image_02_12_11.png",
+        "images/2025/02/event_image_02_12_12.png",
+        "images/2025/02/event_image_02_12_13.png",
+        "images/2025/02/event_image_02_12_14.png",
+        "images/2025/02/event_image_02_12_15.png",
+        "images/2025/02/event_image_02_12_16.png"
       ]
     },
     {
@@ -679,13 +687,24 @@
         "images/2025/02/event_image_02_13_05.png",
         "images/2025/02/event_image_02_13_06.png",
         "images/2025/02/event_image_02_13_07.png",
-        "images/2025/02/event_image_02_13_08.png"
+        "images/2025/02/event_image_02_13_08.png",
+        "images/2025/02/event_image_02_13_09.png"
       ]
     },
     {
       "day": 20,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
+      "event": "휴방중 잠깐 커버곡 공개!",
+      "quote": "Beyond the way / [하나코 나나 x 유즈하 리코 x 아오쿠모 린] COVER",
+      "image": "images/2025/02/event_image_02_14.webp",
+      "youtubeLink": "https://www.youtube.com/embed/wCAw5YSxP1A",
+      "additionalImages": [
+        "images/2025/02/event_image_02_14_01.png",
+        "images/2025/02/event_image_02_14_02.png",
+        "images/2025/02/event_image_02_14_03.png",
+        "images/2025/02/event_image_02_14_04.png",
+        "images/2025/02/event_image_02_14_05.png",
+        "images/2025/02/event_image_02_14_06.png"
+      ]
     },
     {
       "day": 21,
