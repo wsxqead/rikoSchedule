@@ -725,6 +725,36 @@
       "day": 24,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 25,
+      "event": "마인크래프트 스텔라이브 서버",
+      "quote": "5일차 & 엔더드래곤 토벌!",
+      "image": "images/2025/02/event_image_02_15.png",
+      "youtubeLink": "https://www.youtube.com/embed/X3-ByDgxU6I",
+      "additionalImages": [
+        "images/2025/02/event_image_02_15_01.png",
+        "images/2025/02/event_image_02_15_02.png",
+        "images/2025/02/event_image_02_15_03.png",
+        "images/2025/02/event_image_02_15_04.png",
+        "images/2025/02/event_image_02_15_05.png",
+        "images/2025/02/event_image_02_15_06.png"
+      ]
+    },
+    {
+      "day": 26,
+      "event": "마인크래프트 스텔라이브 서버",
+      "quote": "6일차",
+      "image": "images/2025/02/event_image_02_16.png",
+      "youtubeLink": "https://www.youtube.com/embed/tqLaj9DONiY",
+      "additionalImages": [
+        "images/2025/02/event_image_02_16_01.png",
+        "images/2025/02/event_image_02_16_02.png",
+        "images/2025/02/event_image_02_16_03.png",
+        "images/2025/02/event_image_02_16_04.png",
+        "images/2025/02/event_image_02_16_05.png",
+        "images/2025/02/event_image_02_16_06.png"
+      ]
     }
   ]
 }
