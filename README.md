@@ -15,30 +15,6 @@
 
 ---
 
-## 📂 디렉토리 구조
-```
-
-📂 프로젝트
-├── 📂 src/
-│ ├── 📂 css/  
- │ │ ├── base.css # 기본적인 스타일 (글꼴, 버튼, 배경)
-│ │ ├── calendar.css # 달력 관련 스타일
-│ │ ├── popup.css # 팝업 스타일
-│ │ ├── responsive.css # 반응형 스타일
-│ ├── 📂 images/ # 달력에 사용될 이미지
-│ ├── 📂 scripts/
-│ │ ├── main.js # 달력 생성 및 데이터 로딩 스크립트
-│ │ ├── popup.js # 팝업 및 슬라이더 기능
-│ │ ├── calendar.js # 달력 로직 및 UI 업데이트
-│ ├── index.html # 메인 페이지
-├── README.md # 프로젝트 설명 파일
-├── package.json # 프로젝트 설정 파일
-├── .gitignore # Git에서 제외할 파일 목록
-
-````
-
----
-
 ## 🚀 설치 및 실행 방법
 ### 1️⃣ **Git 저장소 클론**
 ```sh
