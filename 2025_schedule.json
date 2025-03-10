@@ -807,5 +807,150 @@
         "images/2025/02/event_image_02_18_10.png"
       ]
     }
+  ],
+  "mar": [
+    {
+      "day": 1,
+      "event": "감자바쓰",
+      "quote": "강지 + 부키 타비 린 리코 | 유튜브 10만!!",
+      "image": "images/2025/03/event_image_03_01.png",
+      "youtubeLink": "https://www.youtube.com/embed/bVTaaIgyl8E",
+      "additionalImages": [
+        "images/2025/03/event_image_03_01_01.png",
+        "images/2025/03/event_image_03_01_02.png",
+        "images/2025/03/event_image_03_01_03.png",
+        "images/2025/03/event_image_03_01_04.png",
+        "images/2025/03/event_image_03_01_05.png",
+        "images/2025/03/event_image_03_01_06.png",
+        "images/2025/03/event_image_03_01_07.png"
+      ]
+    },
+    {
+      "day": 2,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 3,
+      "event": "Digging a hole",
+      "quote": "스텔마크",
+      "image": "images/2025/03/event_image_03_02.png",
+      "youtubeLink": "https://www.youtube.com/embed/aw3gOScG86w",
+      "additionalImages": [
+        "images/2025/03/event_image_03_02_01.png",
+        "images/2025/03/event_image_03_02_02.png",
+        "images/2025/03/event_image_03_02_03.png",
+        "images/2025/03/event_image_03_02_04.png",
+        "images/2025/03/event_image_03_02_05.png",
+        "images/2025/03/event_image_03_02_06.png",
+        "images/2025/03/event_image_03_02_07.png",
+        "images/2025/03/event_image_03_02_08.png",
+        "images/2025/03/event_image_03_02_09.png",
+        "images/2025/03/event_image_03_02_10.png",
+        "images/2025/03/event_image_03_02_11.png"
+      ]
+    },
+    {
+      "day": 4,
+      "event": "몬스터헌터 와일즈",
+      "quote": "몬스터헌터 와일즈",
+      "image": "images/2025/03/event_image_03_03.png",
+      "youtubeLink": "https://www.youtube.com/embed/hqOXNto2Wxs",
+      "additionalImages": [
+        "images/2025/03/event_image_03_03_01.png",
+        "images/2025/03/event_image_03_03_02.png",
+        "images/2025/03/event_image_03_03_03.png",
+        "images/2025/03/event_image_03_03_04.png",
+        "images/2025/03/event_image_03_03_05.png",
+        "images/2025/03/event_image_03_03_06.png",
+        "images/2025/03/event_image_03_03_07.png",
+        "images/2025/03/event_image_03_03_08.png",
+        "images/2025/03/event_image_03_03_09.png",
+        "images/2025/03/event_image_03_03_10.png",
+        "images/2025/03/event_image_03_03_11.png",
+        "images/2025/03/event_image_03_03_12.png",
+        "images/2025/03/event_image_03_03_13.png",
+        "images/2025/03/event_image_03_03_14.png",
+        "images/2025/03/event_image_03_03_15.png"
+      ]
+    },
+    {
+      "day": 5,
+      "event": "몬스터헌터 와일즈",
+      "quote": "몬스터헌터 와일즈",
+      "image": "images/2025/03/event_image_03_04.png",
+      "youtubeLink": "https://www.youtube.com/embed/rKlviEmxzrc",
+      "additionalImages": [
+        "images/2025/03/event_image_03_04_01.png",
+        "images/2025/03/event_image_03_04_02.png",
+        "images/2025/03/event_image_03_04_03.png",
+        "images/2025/03/event_image_03_04_04.png",
+        "images/2025/03/event_image_03_04_05.png",
+        "images/2025/03/event_image_03_04_06.png",
+        "images/2025/03/event_image_03_04_07.png",
+        "images/2025/03/event_image_03_04_08.png",
+        "images/2025/03/event_image_03_04_09.png",
+        "images/2025/03/event_image_03_04_10.png",
+        "images/2025/03/event_image_03_04_11.png",
+        "images/2025/03/event_image_03_04_12.png"
+      ]
+    },
+    {
+      "day": 6,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 7,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 8,
+      "event": "좋은커피 위대한 커피",
+      "quote": "커피 게임 + 카페탐방",
+      "image": "images/2025/03/event_image_03_05.png",
+      "youtubeLink": "https://www.youtube.com/embed/PVLDxPdXpw4",
+      "additionalImages": [
+        "images/2025/03/event_image_03_05_01.png",
+        "images/2025/03/event_image_03_05_02.png",
+        "images/2025/03/event_image_03_05_03.png",
+        "images/2025/03/event_image_03_05_04.png",
+        "images/2025/03/event_image_03_05_05.png",
+        "images/2025/03/event_image_03_05_06.png",
+        "images/2025/03/event_image_03_05_07.png",
+        "images/2025/03/event_image_03_05_08.png",
+        "images/2025/03/event_image_03_05_09.png",
+        "images/2025/03/event_image_03_05_10.png",
+        "images/2025/03/event_image_03_05_11.png",
+        "images/2025/03/event_image_03_05_12.png",
+        "images/2025/03/event_image_03_05_13.png",
+        "images/2025/03/event_image_03_05_14.png",
+        "images/2025/03/event_image_03_05_15.png",
+        "images/2025/03/event_image_03_05_16.png",
+        "images/2025/03/event_image_03_05_17.png",
+        "images/2025/03/event_image_03_05_18.png"
+      ]
+    },
+    {
+      "day": 9,
+      "event": "무한도전 같이보기",
+      "quote": "",
+      "image": "images/2025/03/event_image_03_06.png",
+      "additionalImages": [
+        "images/2025/03/event_image_03_06_01.png",
+        "images/2025/03/event_image_03_06_02.png",
+        "images/2025/03/event_image_03_06_03.png",
+        "images/2025/03/event_image_03_06_04.png",
+        "images/2025/03/event_image_03_06_05.png",
+        "images/2025/03/event_image_03_06_06.png",
+        "images/2025/03/event_image_03_06_07.png",
+        "images/2025/03/event_image_03_06_08.png",
+        "images/2025/03/event_image_03_06_09.png",
+        "images/2025/03/event_image_03_06_10.png",
+        "images/2025/03/event_image_03_06_11.png",
+        "images/2025/03/event_image_03_06_12.png"
+      ]
+    }
   ]
 }
