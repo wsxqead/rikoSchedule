@@ -1004,6 +1004,25 @@
       "day": 13,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 14,
+      "event": "배틀그라운드 스텔라이브 3:3 대전!!",
+      "quote": "",
+      "image": "images/2025/03/event_image_03_09.png",
+      "youtubeLink": "https://www.youtube.com/embed/wjoJs83uhko",
+      "additionalImages": [
+        "images/2025/03/event_image_03_09_01.png",
+        "images/2025/03/event_image_03_09_02.png",
+        "images/2025/03/event_image_03_09_03.png",
+        "images/2025/03/event_image_03_09_04.png",
+        "images/2025/03/event_image_03_09_05.png",
+        "images/2025/03/event_image_03_09_06.png",
+        "images/2025/03/event_image_03_09_07.png",
+        "images/2025/03/event_image_03_09_08.png",
+        "images/2025/03/event_image_03_09_09.png",
+        "images/2025/03/event_image_03_09_10.png"
+      ]
     }
   ]
 }
