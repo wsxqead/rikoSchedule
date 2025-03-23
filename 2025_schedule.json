@@ -1023,6 +1023,59 @@
         "images/2025/03/event_image_03_09_09.png",
         "images/2025/03/event_image_03_09_10.png"
       ]
+    },
+    {
+      "day": 15,
+      "event": "맛깔나는 기습 노래방!!",
+      "quote": "",
+      "image": "images/2025/03/event_image_03_10.png",
+      "youtubeLink": "https://www.youtube.com/embed/9skOq-2519M",
+      "additionalImages": [
+        "images/2025/03/event_image_03_10_01.png",
+        "images/2025/03/event_image_03_10_02.png",
+        "images/2025/03/event_image_03_10_03.png",
+        "images/2025/03/event_image_03_10_04.png",
+        "images/2025/03/event_image_03_10_05.png",
+        "images/2025/03/event_image_03_10_06.png",
+        "images/2025/03/event_image_03_10_07.png"
+      ]
+    },
+    {
+      "day": 16,
+      "event": "젠레스 존 제로 한 번 먹어보기!!",
+      "quote": "",
+      "image": "images/2025/03/event_image_03_11.png",
+      "youtubeLink": "https://www.youtube.com/embed/VZ4AUoOjNXQ",
+      "additionalImages": [
+        "images/2025/03/event_image_03_11_01.png",
+        "images/2025/03/event_image_03_11_02.png",
+        "images/2025/03/event_image_03_11_03.png",
+        "images/2025/03/event_image_03_11_04.png",
+        "images/2025/03/event_image_03_11_05.png",
+        "images/2025/03/event_image_03_11_06.png",
+        "images/2025/03/event_image_03_11_07.png",
+        "images/2025/03/event_image_03_11_08.png"
+      ]
+    },
+    {
+      "day": 17,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 18,
+      "event": "부키와 러스트 공부!! | 발로란트",
+      "quote": "",
+      "image": "images/2025/03/event_image_03_12.png",
+      "youtubeLink": "https://www.youtube.com/embed/sLwq3pDI8js",
+      "additionalImages": [
+        "images/2025/03/event_image_03_12_01.png",
+        "images/2025/03/event_image_03_12_02.png",
+        "images/2025/03/event_image_03_12_03.png",
+        "images/2025/03/event_image_03_12_04.png",
+        "images/2025/03/event_image_03_12_05.png",
+        "images/2025/03/event_image_03_12_06.png"
+      ]
     }
   ]
 }
