@@ -951,6 +951,25 @@
         "images/2025/03/event_image_03_06_11.png",
         "images/2025/03/event_image_03_06_12.png"
       ]
+    },
+    {
+      "day": 10,
+      "event": "리코 바니걸 그리기",
+      "quote": "점프킹 내기",
+      "image": "images/2025/03/event_image_03_07.png",
+      "youtubeLink": "https://www.youtube.com/embed/BZelKABy6OA",
+      "additionalImages": [
+        "images/2025/03/event_image_03_07_01.png",
+        "images/2025/03/event_image_03_07_02.png",
+        "images/2025/03/event_image_03_07_03.png",
+        "images/2025/03/event_image_03_07_04.png",
+        "images/2025/03/event_image_03_07_05.png",
+        "images/2025/03/event_image_03_07_06.png",
+        "images/2025/03/event_image_03_07_07.png",
+        "images/2025/03/event_image_03_07_08.png",
+        "images/2025/03/event_image_03_07_09.png",
+        "images/2025/03/event_image_03_07_10.png"
+      ]
     }
   ]
 }
