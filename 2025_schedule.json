@@ -970,6 +970,40 @@
         "images/2025/03/event_image_03_07_09.png",
         "images/2025/03/event_image_03_07_10.png"
       ]
+    },
+    {
+      "day": 11,
+      "event": "커버곡 공개 특별한 게스트와 합방🍀 [용사님의 듀엣 모험] ",
+      "quote": "스텔라이브 마크 오랜만에 접속하는 스텔 마크",
+      "image": "images/2025/03/event_image_03_08.webp",
+      "youtubeLink": "https://www.youtube.com/embed/XNhzQ4McHlg",
+      "additionalImages": [
+        "images/2025/03/event_image_03_08_01.png",
+        "images/2025/03/event_image_03_08_02.png",
+        "images/2025/03/event_image_03_08_03.png",
+        "images/2025/03/event_image_03_08_04.png",
+        "images/2025/03/event_image_03_08_05.png",
+        "images/2025/03/event_image_03_08_06.png",
+        "images/2025/03/event_image_03_08_07.png",
+        "images/2025/03/event_image_03_08_08.png",
+        "images/2025/03/event_image_03_08_09.png",
+        "images/2025/03/event_image_03_08_10.png",
+        "images/2025/03/event_image_03_08_11.png",
+        "images/2025/03/event_image_03_08_12.png",
+        "images/2025/03/event_image_03_08_13.png",
+        "images/2025/03/event_image_03_08_14.png",
+        "images/2025/03/event_image_03_08_15.png"
+      ]
+    },
+    {
+      "day": 12,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 13,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
     }
   ]
 }
