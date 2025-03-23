@@ -1076,6 +1076,72 @@
         "images/2025/03/event_image_03_12_05.png",
         "images/2025/03/event_image_03_12_06.png"
       ]
+    },
+    {
+      "day": 19,
+      "event": "용사 본업하기!! 던그리드",
+      "quote": "",
+      "image": "images/2025/03/event_image_03_13.png",
+      "youtubeLink": "https://www.youtube.com/embed/yUBJXKs9e_0",
+      "additionalImages": [
+        "images/2025/03/event_image_03_13_01.png",
+        "images/2025/03/event_image_03_13_02.png",
+        "images/2025/03/event_image_03_13_03.png",
+        "images/2025/03/event_image_03_13_04.png",
+        "images/2025/03/event_image_03_13_05.png",
+        "images/2025/03/event_image_03_13_06.png",
+        "images/2025/03/event_image_03_13_07.png",
+        "images/2025/03/event_image_03_13_08.png",
+        "images/2025/03/event_image_03_13_09.png"
+      ]
+    },
+    {
+      "day": 20,
+      "event": "용사의 첫 러스트 서버 입성!",
+      "quote": "",
+      "image": "images/2025/03/event_image_03_14.png",
+      "youtubeLink": "https://www.youtube.com/embed/gaMfu-vRuug",
+      "additionalImages": [
+        "images/2025/03/event_image_03_14_01.png",
+        "images/2025/03/event_image_03_14_02.png",
+        "images/2025/03/event_image_03_14_03.png",
+        "images/2025/03/event_image_03_14_04.png",
+        "images/2025/03/event_image_03_14_05.png",
+        "images/2025/03/event_image_03_14_06.png",
+        "images/2025/03/event_image_03_14_07.png",
+        "images/2025/03/event_image_03_14_08.png",
+        "images/2025/03/event_image_03_14_09.png",
+        "images/2025/03/event_image_03_14_10.png"
+      ]
+    },
+    {
+      "day": 21,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 22,
+      "event": "카페 탐방 & 중세 러스트 마지막",
+      "quote": "",
+      "image": "images/2025/03/event_image_03_15.png",
+      "youtubeLink": "https://www.youtube.com/embed/2e2v25x79CU",
+      "additionalImages": [
+        "images/2025/03/event_image_03_15_01.png",
+        "images/2025/03/event_image_03_15_02.png",
+        "images/2025/03/event_image_03_15_03.png",
+        "images/2025/03/event_image_03_15_04.png",
+        "images/2025/03/event_image_03_15_05.png",
+        "images/2025/03/event_image_03_15_06.png",
+        "images/2025/03/event_image_03_15_07.png",
+        "images/2025/03/event_image_03_15_08.png",
+        "images/2025/03/event_image_03_15_09.png",
+        "images/2025/03/event_image_03_15_10.png",
+        "images/2025/03/event_image_03_15_11.png",
+        "images/2025/03/event_image_03_15_12.png",
+        "images/2025/03/event_image_03_15_13.png",
+        "images/2025/03/event_image_03_15_14.png",
+        "images/2025/03/event_image_03_15_15.png"
+      ]
     }
   ]
 }
