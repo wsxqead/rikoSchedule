@@ -1144,6 +1144,89 @@
       ]
     },
     {
+      "day": 23,
+      "event": "러스트 스트리머 서버 : 바닐라서버",
+      "quote": "",
+      "image": "images/2025/03/event_image_03_16.png",
+      "youtubeLink": "https://www.youtube.com/embed/9f8TG11pGBI",
+      "additionalImages": [
+        "images/2025/03/event_image_03_16_01.png",
+        "images/2025/03/event_image_03_16_02.png",
+        "images/2025/03/event_image_03_16_03.png",
+        "images/2025/03/event_image_03_16_04.png",
+        "images/2025/03/event_image_03_16_05.png",
+        "images/2025/03/event_image_03_16_06.png",
+        "images/2025/03/event_image_03_16_07.png",
+        "images/2025/03/event_image_03_16_08.png",
+        "images/2025/03/event_image_03_16_09.png",
+        "images/2025/03/event_image_03_16_10.png",
+        "images/2025/03/event_image_03_16_11.png",
+        "images/2025/03/event_image_03_16_12.png",
+        "images/2025/03/event_image_03_16_13.png",
+        "images/2025/03/event_image_03_16_14.png",
+        "images/2025/03/event_image_03_16_15.png"
+      ]
+    },
+    {
+      "day": 24,
+      "event": "러스트 스트리머 서버 : 바닐라서버",
+      "quote": "",
+      "image": "images/2025/03/event_image_03_17.png",
+      "youtubeLink": "https://www.youtube.com/embed/5zy-MOh_dEg",
+      "additionalImages": [
+        "images/2025/03/event_image_03_17_01.png",
+        "images/2025/03/event_image_03_17_02.png",
+        "images/2025/03/event_image_03_17_03.png",
+        "images/2025/03/event_image_03_17_04.png",
+        "images/2025/03/event_image_03_17_05.png",
+        "images/2025/03/event_image_03_17_06.png",
+        "images/2025/03/event_image_03_17_07.png",
+        "images/2025/03/event_image_03_17_08.png",
+        "images/2025/03/event_image_03_17_09.png",
+        "images/2025/03/event_image_03_17_10.png",
+        "images/2025/03/event_image_03_17_11.png"
+      ]
+    },
+    {
+      "day": 25,
+      "event": "러스트 스트리머 서버 : 바닐라서버",
+      "quote": "영웅호걸의 시간",
+      "image": "images/2025/03/event_image_03_18.png",
+      "youtubeLink": "https://www.youtube.com/embed/iSSG2A_8TXE",
+      "additionalImages": [
+        "images/2025/03/event_image_03_18_01.png",
+        "images/2025/03/event_image_03_18_02.png",
+        "images/2025/03/event_image_03_18_03.png",
+        "images/2025/03/event_image_03_18_04.png",
+        "images/2025/03/event_image_03_18_05.png",
+        "images/2025/03/event_image_03_18_06.png",
+        "images/2025/03/event_image_03_18_07.png",
+        "images/2025/03/event_image_03_18_08.png"
+      ]
+    },
+    {
+      "day": 26,
+      "event": "러스트 스트리머 서버 : 바닐라서버",
+      "quote": "러스트 마지막날!",
+      "image": "images/2025/03/event_image_03_19.png",
+      "youtubeLink": "https://www.youtube.com/embed/bA3-pcIW0A8",
+      "additionalImages": [
+        "images/2025/03/event_image_03_19_01.png",
+        "images/2025/03/event_image_03_19_02.png",
+        "images/2025/03/event_image_03_19_03.png",
+        "images/2025/03/event_image_03_19_04.png",
+        "images/2025/03/event_image_03_19_05.png",
+        "images/2025/03/event_image_03_19_06.png",
+        "images/2025/03/event_image_03_19_07.png",
+        "images/2025/03/event_image_03_19_08.png",
+        "images/2025/03/event_image_03_19_09.png",
+        "images/2025/03/event_image_03_19_10.png",
+        "images/2025/03/event_image_03_19_11.png",
+        "images/2025/03/event_image_03_19_12.png",
+        "images/2025/03/event_image_03_19_13.png"
+      ]
+    },
+    {
       "day": 27,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
