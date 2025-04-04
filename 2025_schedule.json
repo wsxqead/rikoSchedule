@@ -1142,6 +1142,23 @@
         "images/2025/03/event_image_03_15_14.png",
         "images/2025/03/event_image_03_15_15.png"
       ]
+    },
+    {
+      "day": 27,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 31,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    }
+  ],
+  "apr": [
+    {
+      "day": 3,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
     }
   ]
 }
