@@ -1232,6 +1232,64 @@
       "image": "images/holiday_image.png"
     },
     {
+      "day": 28,
+      "event": "스텔라이브 팀 ✨ <우리은행과 함께하는 샌드박스 MCN 대전>",
+      "quote": "피코파코2",
+      "image": "images/2025/03/event_image_03_20.png",
+      "youtubeLink": "https://www.youtube.com/embed/cwhsjcWwA08",
+      "additionalImages": [
+        "images/2025/03/event_image_03_20_01.png",
+        "images/2025/03/event_image_03_20_02.png",
+        "images/2025/03/event_image_03_20_03.png",
+        "images/2025/03/event_image_03_20_04.png",
+        "images/2025/03/event_image_03_20_05.png",
+        "images/2025/03/event_image_03_20_06.png",
+        "images/2025/03/event_image_03_20_07.png",
+        "images/2025/03/event_image_03_20_08.png",
+        "images/2025/03/event_image_03_20_09.png",
+        "images/2025/03/event_image_03_20_10.png"
+      ]
+    },
+    {
+      "day": 29,
+      "event": "시부키 VS 리코 [광고]",
+      "quote": "월드 오브 탱크",
+      "image": "images/2025/03/event_image_03_21.png",
+      "youtubeLink": "https://www.youtube.com/embed/jm3kTMW4luU",
+      "additionalImages": [
+        "images/2025/03/event_image_03_21_01.png",
+        "images/2025/03/event_image_03_21_02.png",
+        "images/2025/03/event_image_03_21_03.png",
+        "images/2025/03/event_image_03_21_04.png",
+        "images/2025/03/event_image_03_21_05.png",
+        "images/2025/03/event_image_03_21_06.png",
+        "images/2025/03/event_image_03_21_07.png",
+        "images/2025/03/event_image_03_21_08.png"
+      ]
+    },
+    {
+      "day": 30,
+      "event": "클리셰 4인방의 공겜⭐",
+      "quote": "R.E.P.O.",
+      "image": "images/2025/03/event_image_03_22.png",
+      "youtubeLink": "https://www.youtube.com/embed/GAvUkTkP7BA",
+      "additionalImages": [
+        "images/2025/03/event_image_03_22_01.png",
+        "images/2025/03/event_image_03_22_02.png",
+        "images/2025/03/event_image_03_22_03.png",
+        "images/2025/03/event_image_03_22_04.png",
+        "images/2025/03/event_image_03_22_05.png",
+        "images/2025/03/event_image_03_22_06.png",
+        "images/2025/03/event_image_03_22_07.png",
+        "images/2025/03/event_image_03_22_08.png",
+        "images/2025/03/event_image_03_22_09.png",
+        "images/2025/03/event_image_03_22_10.png",
+        "images/2025/03/event_image_03_22_11.png",
+        "images/2025/03/event_image_03_22_12.png",
+        "images/2025/03/event_image_03_22_13.png"
+      ]
+    },
+    {
       "day": 31,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
