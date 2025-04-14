@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const closePopup = document.querySelector(".close");
   closePopup.addEventListener("click", closePopupModal);
 
-  window.addEventListener("click", (event) => {
+  window.addEventListener("click", (event) => { 
     const popup = document.getElementById("popup");
     if (event.target === popup) {
       closePopupModal();

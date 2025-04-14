@@ -16,6 +16,7 @@ const availableMonths = [
   { year: 2025, month: "feb", label: "2025년 2월" },
   { year: 2025, month: "mar", label: "2025년 3월" },
   { year: 2025, month: "apr", label: "2025년 4월" },
+  { year: 2025, month: "may", label: "2025년 5월" },
 ];
 
 // 연도 및 월 선택 박스 초기화
