@@ -1298,8 +1298,8 @@
   "apr": [
     {
       "day": 1,
-      "event": "",
-      "quote": "",
+      "event": "스틸라이브 NEWS",
+      "quote": "스틸라이브 NEWS & 인조이",
       "image": "images/2025/03/event_image_04_01.png",
       "youtubeLink": "https://www.youtube.com/embed/BOteIruMcns",
       "additionalImages": [
@@ -1310,13 +1310,16 @@
         "images/2025/03/event_image_04_01_05.png",
         "images/2025/03/event_image_04_01_06.png",
         "images/2025/03/event_image_04_01_07.png",
-        "images/2025/03/event_image_04_01_08.png"
+        "images/2025/03/event_image_04_01_08.png",
+        "images/2025/03/event_image_04_01_09.png",
+        "images/2025/03/event_image_04_01_10.png",
+        "images/2025/03/event_image_04_01_11.png"
       ]
     },
     {
       "day": 2,
-      "event": "",
-      "quote": "",
+      "event": "빨강 혹은 파랑",
+      "quote": "인조이 결혼 과 출산과 이혼",
       "image": "images/2025/03/event_image_04_02.png",
       "youtubeLink": "https://www.youtube.com/embed/dM-tV76_5FI",
       "additionalImages": [
@@ -1327,7 +1330,8 @@
         "images/2025/03/event_image_04_02_05.png",
         "images/2025/03/event_image_04_02_06.png",
         "images/2025/03/event_image_04_02_07.png",
-        "images/2025/03/event_image_04_02_08.png"
+        "images/2025/03/event_image_04_02_08.png",
+        "images/2025/03/event_image_04_02_09.png"
       ]
     },
     {
@@ -1337,7 +1341,7 @@
     },
     {
       "day": 4,
-      "event": "",
+      "event": "리코의 노래방송",
       "quote": "",
       "image": "images/2025/03/event_image_04_03.png",
       "youtubeLink": "https://www.youtube.com/embed/1vigosho-04",
@@ -1457,7 +1461,7 @@
       "event": "",
       "quote": "",
       "image": "images/2025/03/event_image_04_09.png",
-      "youtubeLink": "https://www.youtube.com/embed/dM-tV76_5FI",
+      "youtubeLink": "https://www.youtube.com/embed/516-rZtmcno",
       "additionalImages": [
         "images/2025/03/event_image_04_09_01.png",
         "images/2025/03/event_image_04_09_02.png",
@@ -1467,6 +1471,23 @@
         "images/2025/03/event_image_04_09_06.png",
         "images/2025/03/event_image_04_09_07.png",
         "images/2025/03/event_image_04_09_08.png"
+      ]
+    },
+    {
+      "day": 14,
+      "event": "휴방이지만 녹화방송 올려준 방송",
+      "quote": "",
+      "image": "images/2025/03/event_image_04_10.png",
+      "youtubeLink": "https://www.youtube.com/embed/5uhQg-PGPZA",
+      "additionalImages": [
+        "images/2025/03/event_image_04_10_01.png",
+        "images/2025/03/event_image_04_10_02.png",
+        "images/2025/03/event_image_04_10_03.png",
+        "images/2025/03/event_image_04_10_04.png",
+        "images/2025/03/event_image_04_10_05.png",
+        "images/2025/03/event_image_04_10_06.png",
+        "images/2025/03/event_image_04_10_07.png",
+        "images/2025/03/event_image_04_10_08.png"
       ]
     }
   ]
