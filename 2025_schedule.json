@@ -1484,6 +1484,11 @@
         "images/2025/04/event_image_04_10_07.png",
         "images/2025/04/event_image_04_10_08.png"
       ]
+    },
+    {
+      "day": 15,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
     }
   ]
 }
