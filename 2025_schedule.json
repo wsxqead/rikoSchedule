@@ -1491,6 +1491,23 @@
       "image": "images/holiday_image.png"
     },
     {
+      "day": 16,
+      "event": "카페 탐방",
+      "quote": "생일 팬아트 감상",
+      "image": "images/2025/04/event_image_04_11.png",
+      "youtubeLink": "https://www.youtube.com/embed/gdk8asnOCbU",
+      "additionalImages": [
+        "images/2025/04/event_image_04_11_01.png",
+        "images/2025/04/event_image_04_11_02.png",
+        "images/2025/04/event_image_04_11_03.png",
+        "images/2025/04/event_image_04_11_04.png",
+        "images/2025/04/event_image_04_11_05.png",
+        "images/2025/04/event_image_04_11_06.png",
+        "images/2025/04/event_image_04_11_07.png",
+        "images/2025/04/event_image_04_11_08.png"
+      ]
+    },
+    {
       "day": 17,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
