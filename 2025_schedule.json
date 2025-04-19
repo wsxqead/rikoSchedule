@@ -1441,7 +1441,8 @@
         "images/2025/04/event_image_04_07_05.png",
         "images/2025/04/event_image_04_07_06.png",
         "images/2025/04/event_image_04_07_07.png",
-        "images/2025/04/event_image_04_07_08.png"
+        "images/2025/04/event_image_04_07_08.png",
+        "images/2025/04/event_image_04_07_09.png"
       ]
     },
     {
@@ -1458,7 +1459,12 @@
         "images/2025/04/event_image_04_08_05.png",
         "images/2025/04/event_image_04_08_06.png",
         "images/2025/04/event_image_04_08_07.png",
-        "images/2025/04/event_image_04_08_08.png"
+        "images/2025/04/event_image_04_08_08.png",
+        "images/2025/04/event_image_04_08_09.png",
+        "images/2025/04/event_image_04_08_10.png",
+        "images/2025/04/event_image_04_08_11.png",
+        "images/2025/04/event_image_04_08_12.png",
+        "images/2025/04/event_image_04_08_13.png"
       ]
     },
     {
@@ -1526,17 +1532,17 @@
       "day": 18,
       "event": "던그리드 후속 세피리아",
       "quote": "",
-      "image": "images/2025/04/event_image_04_11.png",
+      "image": "images/2025/04/event_image_04_12.png",
       "youtubeLink": "https://www.youtube.com/embed/gdk8asnOCbU",
       "additionalImages": [
-        "images/2025/04/event_image_04_11_01.png",
-        "images/2025/04/event_image_04_11_02.png",
-        "images/2025/04/event_image_04_11_03.png",
-        "images/2025/04/event_image_04_11_04.png",
-        "images/2025/04/event_image_04_11_05.png",
-        "images/2025/04/event_image_04_11_06.png",
-        "images/2025/04/event_image_04_11_07.png",
-        "images/2025/04/event_image_04_11_08.png"
+        "images/2025/04/event_image_04_12_01.png",
+        "images/2025/04/event_image_04_12_02.png",
+        "images/2025/04/event_image_04_12_03.png",
+        "images/2025/04/event_image_04_12_04.png",
+        "images/2025/04/event_image_04_12_05.png",
+        "images/2025/04/event_image_04_12_06.png",
+        "images/2025/04/event_image_04_12_07.png",
+        "images/2025/04/event_image_04_12_08.png"
       ]
     }
   ]
