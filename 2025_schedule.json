@@ -1370,7 +1370,19 @@
         "images/2025/04/event_image_04_04_05.png",
         "images/2025/04/event_image_04_04_06.png",
         "images/2025/04/event_image_04_04_07.png",
-        "images/2025/04/event_image_04_04_08.png"
+        "images/2025/04/event_image_04_04_08.png",
+        "images/2025/04/event_image_04_04_09.png",
+        "images/2025/04/event_image_04_04_10.png",
+        "images/2025/04/event_image_04_04_11.png",
+        "images/2025/04/event_image_04_04_12.png",
+        "images/2025/04/event_image_04_04_13.png",
+        "images/2025/04/event_image_04_04_14.png",
+        "images/2025/04/event_image_04_04_15.png",
+        "images/2025/04/event_image_04_04_16.png",
+        "images/2025/04/event_image_04_04_17.png",
+        "images/2025/04/event_image_04_04_18.png",
+        "images/2025/04/event_image_04_04_19.png",
+        "images/2025/04/event_image_04_04_20.png"
       ]
     },
     {
@@ -1381,7 +1393,7 @@
     {
       "day": 8,
       "event": "운빨용사의 모비노기",
-      "quote": "모바일 마비노기",
+      "quote": "건축학개론 같이보기 & 모바일 마비노기",
       "image": "images/2025/04/event_image_04_05.png",
       "youtubeLink": "https://www.youtube.com/embed/mgy5zgoCsRQ",
       "additionalImages": [
@@ -1412,15 +1424,13 @@
         "images/2025/04/event_image_04_06_03.png",
         "images/2025/04/event_image_04_06_04.png",
         "images/2025/04/event_image_04_06_05.png",
-        "images/2025/04/event_image_04_06_06.png",
-        "images/2025/04/event_image_04_06_07.png",
-        "images/2025/04/event_image_04_06_08.png"
+        "images/2025/04/event_image_04_06_06.png"
       ]
     },
     {
       "day": 11,
       "event": "도태용사의 모바일 마비노기",
-      "quote": "",
+      "quote": "카페탐방",
       "image": "images/2025/04/event_image_04_07.png",
       "youtubeLink": "https://www.youtube.com/embed/-LOq4rLBjx0",
       "additionalImages": [
@@ -1511,6 +1521,23 @@
       "day": 17,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 18,
+      "event": "던그리드 후속 세피리아",
+      "quote": "",
+      "image": "images/2025/04/event_image_04_11.png",
+      "youtubeLink": "https://www.youtube.com/embed/gdk8asnOCbU",
+      "additionalImages": [
+        "images/2025/04/event_image_04_11_01.png",
+        "images/2025/04/event_image_04_11_02.png",
+        "images/2025/04/event_image_04_11_03.png",
+        "images/2025/04/event_image_04_11_04.png",
+        "images/2025/04/event_image_04_11_05.png",
+        "images/2025/04/event_image_04_11_06.png",
+        "images/2025/04/event_image_04_11_07.png",
+        "images/2025/04/event_image_04_11_08.png"
+      ]
     }
   ]
 }
