@@ -1469,9 +1469,9 @@
     },
     {
       "day": 13,
-      "event": "기다리고 기다려온 생일방송",
-      "quote": "",
-      "image": "images/2025/04/event_image_04_09.png",
+      "event": "생일 방송 & 커버곡 증표 공개",
+      "quote": "기다리고 기다려온 생일방송",
+      "image": "images/2025/04/event_image_04_09.webp",
       "youtubeLink": "https://www.youtube.com/embed/516-rZtmcno",
       "additionalImages": [
         "images/2025/04/event_image_04_09_01.png",
@@ -1481,7 +1481,31 @@
         "images/2025/04/event_image_04_09_05.png",
         "images/2025/04/event_image_04_09_06.png",
         "images/2025/04/event_image_04_09_07.png",
-        "images/2025/04/event_image_04_09_08.png"
+        "images/2025/04/event_image_04_09_08.png",
+        "images/2025/04/event_image_04_09_09.png",
+        "images/2025/04/event_image_04_09_10.png",
+        "images/2025/04/event_image_04_09_11.png",
+        "images/2025/04/event_image_04_09_12.png",
+        "images/2025/04/event_image_04_09_13.png",
+        "images/2025/04/event_image_04_09_14.png",
+        "images/2025/04/event_image_04_09_15.png",
+        "images/2025/04/event_image_04_09_16.png",
+        "images/2025/04/event_image_04_09_17.png",
+        "images/2025/04/event_image_04_09_18.png",
+        "images/2025/04/event_image_04_09_19.png",
+        "images/2025/04/event_image_04_09_20.png",
+        "images/2025/04/event_image_04_09_21.png",
+        "images/2025/04/event_image_04_09_22.png",
+        "images/2025/04/event_image_04_09_23.png",
+        "images/2025/04/event_image_04_09_24.png",
+        "images/2025/04/event_image_04_09_25.png",
+        "images/2025/04/event_image_04_09_26.png",
+        "images/2025/04/event_image_04_09_27.png",
+        "images/2025/04/event_image_04_09_28.png",
+        "images/2025/04/event_image_04_09_29.png",
+        "images/2025/04/event_image_04_09_30.png",
+        "images/2025/04/event_image_04_09_31.png",
+        "images/2025/04/event_image_04_09_32.png"
       ]
     },
     {
@@ -1539,7 +1563,7 @@
       "event": "던그리드 후속 세피리아",
       "quote": "",
       "image": "images/2025/04/event_image_04_12.png",
-      "youtubeLink": "https://www.youtube.com/embed/gdk8asnOCbU",
+      "youtubeLink": "https://www.youtube.com/embed/jnJ1v1Q2Am4",
       "additionalImages": [
         "images/2025/04/event_image_04_12_01.png",
         "images/2025/04/event_image_04_12_02.png",
@@ -1552,6 +1576,32 @@
         "images/2025/04/event_image_04_12_09.png",
         "images/2025/04/event_image_04_12_10.png"
       ]
+    },
+    {
+      "day": 19,
+      "event": "발로란트 첫 내전!",
+      "quote": "세피리아 & 발로란트",
+      "image": "images/2025/04/event_image_04_13.png",
+      "additionalImages": [
+        "images/2025/04/event_image_04_13_01.png",
+        "images/2025/04/event_image_04_13_02.png",
+        "images/2025/04/event_image_04_13_03.png",
+        "images/2025/04/event_image_04_13_04.png",
+        "images/2025/04/event_image_04_13_05.png",
+        "images/2025/04/event_image_04_13_06.png",
+        "images/2025/04/event_image_04_13_07.png",
+        "images/2025/04/event_image_04_13_08.png",
+        "images/2025/04/event_image_04_13_09.png",
+        "images/2025/04/event_image_04_13_10.png",
+        "images/2025/04/event_image_04_13_11.png",
+        "images/2025/04/event_image_04_13_12.png",
+        "images/2025/04/event_image_04_13_13.png"
+      ]
+    },
+    {
+      "day": 20,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
     }
   ]
 }
