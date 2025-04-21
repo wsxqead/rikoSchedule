@@ -1512,9 +1512,10 @@
       "day": 14,
       "event": "휴방이지만 녹화방송 올려준 방송",
       "quote": "",
-      "image": "images/2025/04/event_image_04_10.png",
+      "image": "images/holiday_image.png",
       "youtubeLink": "https://www.youtube.com/embed/5uhQg-PGPZA",
       "additionalImages": [
+        "images/2025/04/event_image_04_10.png",
         "images/2025/04/event_image_04_10_01.png",
         "images/2025/04/event_image_04_10_02.png",
         "images/2025/04/event_image_04_10_03.png",

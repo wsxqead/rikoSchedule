@@ -168,12 +168,12 @@ function openPopup(event) {
   eventImages.innerHTML = ""; // 기존 이미지 초기화
   // const images = event.holiday ? [holidayImage] : event.additionalImages; // 휴방일에는 휴방 이미지만 표시
   // 이미지 슬라이드 처리 (변경)
-  const images = event.additionalImages?.length > 0
-    ? event.additionalImages
-    : event.holiday
+  const images =
+    event.additionalImages?.length > 0
+      ? event.additionalImages
+      : event.holiday
       ? [holidayImage]
       : [];
-
 
   if (images.length > 0) {
     const sliderContainer = document.createElement("div");
@@ -200,6 +200,20 @@ function openPopup(event) {
       youtubeIframe.allowFullscreen = true;
       youtubeIframe.classList.add("slide", "active"); // 첫 번째 슬라이드로 활성화
       sliderWrapper.appendChild(youtubeIframe);
+    }
+
+    if (Array.isArray(event.youtubeLinks)) {
+      event.youtubeLinks.forEach((link) => {
+        const youtubeIframe = document.createElement("iframe");
+        youtubeIframe.src = link;
+        youtubeIframe.width = "100%";
+        youtubeIframe.height = "315";
+        youtubeIframe.allow =
+          "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
+        youtubeIframe.allowFullscreen = true;
+        youtubeIframe.classList.add("slide");
+        sliderWrapper.appendChild(youtubeIframe);
+      });
     }
 
     if (event.chzzkLink) {
