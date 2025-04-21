@@ -1602,7 +1602,8 @@
     {
       "day": 20,
       "holiday": "휴방",
-      "image": "images/holiday_image.png"
+      "image": "images/holiday_image.png",
+      "youtubeLink": "https://www.youtube.com/embed/gJ1N631Ji0Q"
     }
   ]
 }

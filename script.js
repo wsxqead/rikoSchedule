@@ -166,7 +166,14 @@ function openPopup(event) {
 
   // 이미지 슬라이드 처리
   eventImages.innerHTML = ""; // 기존 이미지 초기화
-  const images = event.holiday ? [holidayImage] : event.additionalImages; // 휴방일에는 휴방 이미지만 표시
+  // const images = event.holiday ? [holidayImage] : event.additionalImages; // 휴방일에는 휴방 이미지만 표시
+  // 이미지 슬라이드 처리 (변경)
+  const images = event.additionalImages?.length > 0
+    ? event.additionalImages
+    : event.holiday
+      ? [holidayImage]
+      : [];
+
 
   if (images.length > 0) {
     const sliderContainer = document.createElement("div");
