@@ -1607,9 +1607,75 @@
       "youtubeLink": "https://www.youtube.com/embed/gJ1N631Ji0Q"
     },
     {
+      "day": 21,
+      "event": "",
+      "quote": "",
+      "image": "images/2025/04/event_image_04_14.png",
+      "youtubeLink": "https://www.youtube.com/embed/ndcnYqhPNn8",
+      "additionalImages": [
+        "images/2025/04/event_image_04_14_01.png",
+        "images/2025/04/event_image_04_14_02.png",
+        "images/2025/04/event_image_04_14_03.png",
+        "images/2025/04/event_image_04_14_04.png",
+        "images/2025/04/event_image_04_14_05.png",
+        "images/2025/04/event_image_04_14_06.png",
+        "images/2025/04/event_image_04_14_07.png",
+        "images/2025/04/event_image_04_14_08.png",
+        "images/2025/04/event_image_04_14_09.png",
+        "images/2025/04/event_image_04_14_10.png",
+        "images/2025/04/event_image_04_14_11.png",
+        "images/2025/04/event_image_04_14_12.png",
+        "images/2025/04/event_image_04_14_13.png"
+      ]
+    },
+    {
+      "day": 22,
+      "event": "",
+      "quote": "",
+      "image": "images/2025/04/event_image_04_15.png",
+      "youtubeLink": "https://www.youtube.com/embed/-F3ZMHdM3ZM",
+      "additionalImages": [
+        "images/2025/04/event_image_04_15_01.png",
+        "images/2025/04/event_image_04_15_02.png",
+        "images/2025/04/event_image_04_15_03.png",
+        "images/2025/04/event_image_04_15_04.png",
+        "images/2025/04/event_image_04_15_05.png",
+        "images/2025/04/event_image_04_15_06.png",
+        "images/2025/04/event_image_04_15_07.png",
+        "images/2025/04/event_image_04_15_08.png",
+        "images/2025/04/event_image_04_15_09.png",
+        "images/2025/04/event_image_04_15_10.png",
+        "images/2025/04/event_image_04_15_11.png",
+        "images/2025/04/event_image_04_15_12.png",
+        "images/2025/04/event_image_04_15_13.png"
+      ]
+    },
+    {
       "day": 23,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 24,
+      "event": "",
+      "quote": "",
+      "image": "images/2025/04/event_image_04_16.png",
+      "youtubeLink": "https://www.youtube.com/embed/KwiupjZPffg",
+      "additionalImages": [
+        "images/2025/04/event_image_04_16_01.png",
+        "images/2025/04/event_image_04_16_02.png",
+        "images/2025/04/event_image_04_16_03.png",
+        "images/2025/04/event_image_04_16_04.png",
+        "images/2025/04/event_image_04_16_05.png",
+        "images/2025/04/event_image_04_16_06.png",
+        "images/2025/04/event_image_04_16_07.png",
+        "images/2025/04/event_image_04_16_08.png",
+        "images/2025/04/event_image_04_16_09.png",
+        "images/2025/04/event_image_04_16_10.png",
+        "images/2025/04/event_image_04_16_11.png",
+        "images/2025/04/event_image_04_16_12.png",
+        "images/2025/04/event_image_04_16_13.png"
+      ]
     },
     {
       "day": 25,
