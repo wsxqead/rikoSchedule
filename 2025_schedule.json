@@ -1608,8 +1608,8 @@
     },
     {
       "day": 21,
-      "event": "",
-      "quote": "",
+      "event": "스케쥴 I 플레이",
+      "quote": "스케쥴 I 약 파는 아이돌, 기분 좋을거에요",
       "image": "images/2025/04/event_image_04_14.png",
       "youtubeLink": "https://www.youtube.com/embed/ndcnYqhPNn8",
       "additionalImages": [
@@ -1620,17 +1620,12 @@
         "images/2025/04/event_image_04_14_05.png",
         "images/2025/04/event_image_04_14_06.png",
         "images/2025/04/event_image_04_14_07.png",
-        "images/2025/04/event_image_04_14_08.png",
-        "images/2025/04/event_image_04_14_09.png",
-        "images/2025/04/event_image_04_14_10.png",
-        "images/2025/04/event_image_04_14_11.png",
-        "images/2025/04/event_image_04_14_12.png",
-        "images/2025/04/event_image_04_14_13.png"
+        "images/2025/04/event_image_04_14_08.png"
       ]
     },
     {
       "day": 22,
-      "event": "",
+      "event": "얼불춤 내기와 마인크래프트 스텔서버",
       "quote": "",
       "image": "images/2025/04/event_image_04_15.png",
       "youtubeLink": "https://www.youtube.com/embed/-F3ZMHdM3ZM",
@@ -1679,6 +1674,55 @@
     },
     {
       "day": 25,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
+    },
+    {
+      "day": 26,
+      "event": "",
+      "quote": "",
+      "image": "images/2025/04/event_image_04_17.png",
+      "youtubeLink": "https://www.youtube.com/embed/mWRwJ5UzWVQ",
+      "additionalImages": [
+        "images/2025/04/event_image_04_17_01.png",
+        "images/2025/04/event_image_04_17_02.png",
+        "images/2025/04/event_image_04_17_03.png",
+        "images/2025/04/event_image_04_17_04.png",
+        "images/2025/04/event_image_04_17_05.png",
+        "images/2025/04/event_image_04_17_06.png",
+        "images/2025/04/event_image_04_17_07.png",
+        "images/2025/04/event_image_04_17_08.png",
+        "images/2025/04/event_image_04_17_09.png",
+        "images/2025/04/event_image_04_17_10.png",
+        "images/2025/04/event_image_04_17_11.png",
+        "images/2025/04/event_image_04_17_12.png",
+        "images/2025/04/event_image_04_17_13.png"
+      ]
+    },
+    {
+      "day": 27,
+      "event": "",
+      "quote": "Sunset Motel",
+      "image": "images/2025/04/event_image_04_18.png",
+      "youtubeLink": "https://www.youtube.com/embed/D6SdkeN_dPU",
+      "additionalImages": [
+        "images/2025/04/event_image_04_18_01.png",
+        "images/2025/04/event_image_04_18_02.png",
+        "images/2025/04/event_image_04_18_03.png",
+        "images/2025/04/event_image_04_18_04.png",
+        "images/2025/04/event_image_04_18_05.png",
+        "images/2025/04/event_image_04_18_06.png",
+        "images/2025/04/event_image_04_18_07.png",
+        "images/2025/04/event_image_04_18_08.png",
+        "images/2025/04/event_image_04_18_09.png",
+        "images/2025/04/event_image_04_18_10.png",
+        "images/2025/04/event_image_04_18_11.png",
+        "images/2025/04/event_image_04_18_12.png",
+        "images/2025/04/event_image_04_18_13.png"
+      ]
+    },
+    {
+      "day": 28,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
     }
