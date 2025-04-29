@@ -1725,6 +1725,11 @@
       "day": 28,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 30,
+      "holiday": "휴방",
+      "image": "images/holiday_image.png"
     }
   ]
 }
