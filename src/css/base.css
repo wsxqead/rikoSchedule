@@ -16,4 +16,5 @@ body {
   height: auto;
   display: block;
   margin: 24px auto 8px auto;
+  margin-left: 0;
 }
