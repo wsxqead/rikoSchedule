@@ -1562,7 +1562,7 @@
     {
       "day": 18,
       "event": "던그리드 후속 세피리아",
-      "quote": "",
+      "quote": "세피리아",
       "image": "images/2025/04/event_image_04_12.png",
       "youtubeLink": "https://www.youtube.com/embed/jnJ1v1Q2Am4",
       "additionalImages": [
@@ -1725,6 +1725,28 @@
       "day": 28,
       "holiday": "휴방",
       "image": "images/holiday_image.png"
+    },
+    {
+      "day": 29,
+      "event": "용사님의 듀엣 모험 2탄 메이드 아오쿠모 린",
+      "quote": "듀엣 모험 | 스텔 마크 새로운 집짓기",
+      "image": "images/2025/04/event_image_04_19.png",
+      "youtubeLink": "https://www.youtube.com/embed/D6SdkeN_dPU",
+      "additionalImages": [
+        "images/2025/04/event_image_04_19_01.png",
+        "images/2025/04/event_image_04_19_02.png",
+        "images/2025/04/event_image_04_19_03.png",
+        "images/2025/04/event_image_04_19_04.png",
+        "images/2025/04/event_image_04_19_05.png",
+        "images/2025/04/event_image_04_19_06.png",
+        "images/2025/04/event_image_04_19_07.png",
+        "images/2025/04/event_image_04_19_08.png",
+        "images/2025/04/event_image_04_19_09.png",
+        "images/2025/04/event_image_04_19_10.png",
+        "images/2025/04/event_image_04_19_11.png",
+        "images/2025/04/event_image_04_19_12.png",
+        "images/2025/04/event_image_04_19_13.png"
+      ]
     },
     {
       "day": 30,
