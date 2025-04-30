@@ -9,3 +9,11 @@ body {
   align-items: center;
   min-height: 100vh;
 }
+
+.calendar-logo img {
+  width: 240px;
+  max-width: 90%;
+  height: auto;
+  display: block;
+  margin: 24px auto 8px auto;
+}
