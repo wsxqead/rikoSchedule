@@ -10,6 +10,10 @@ body {
   min-height: 100vh;
 }
 
+.calendar-logo {
+  position: absolute;
+}
+
 .calendar-logo img {
   width: 240px;
   max-width: 90%;
