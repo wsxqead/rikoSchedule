@@ -679,6 +679,10 @@
       "quote": "4일차 & 무한도전 가요제 같이보기",
       "image": "images/2025/02/event_image_02_13.png",
       "youtubeLink": "https://www.youtube.com/embed/wCAw5YSxP1A",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/wCAw5YSxP1A",
+        "https://www.youtube.com/embed/3F_8kMkAjSc"
+      ],
       "additionalImages": [
         "images/2025/02/event_image_02_13_01.png",
         "images/2025/02/event_image_02_13_02.png",
@@ -977,6 +981,10 @@
       "quote": "스텔라이브 마크 오랜만에 접속하는 스텔 마크",
       "image": "images/2025/03/event_image_03_08.webp",
       "youtubeLink": "https://www.youtube.com/embed/XNhzQ4McHlg",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/XNhzQ4McHlg",
+        "https://www.youtube.com/embed/kGJly9zggCo"
+      ],
       "additionalImages": [
         "images/2025/03/event_image_03_08_01.png",
         "images/2025/03/event_image_03_08_02.png",
@@ -1302,6 +1310,10 @@
       "quote": "스틸라이브 NEWS & 인조이",
       "image": "images/2025/04/event_image_04_01.png",
       "youtubeLink": "https://www.youtube.com/embed/BOteIruMcns",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/BOteIruMcns",
+        "https://www.youtube.com/embed/qlxGZMlmprU"
+      ],
       "additionalImages": [
         "images/2025/04/event_image_04_01_01.png",
         "images/2025/04/event_image_04_01_02.png",
@@ -1678,6 +1690,7 @@
     {
       "day": 25,
       "holiday": "휴방",
+      "quote": "휴방이에요!!\n\n외부일정입니댜어엉\n\n​\n\n나중에만나요오오\n\n​\n\n💚\n",
       "image": "images/holiday_image.png"
     },
     {
@@ -1728,6 +1741,7 @@
     {
       "day": 28,
       "holiday": "휴방",
+      "quote": "오늘 푸욱 쉬고오\n\n내일 컨텐츠로 만나요!!\n\n​\n\n아 그리구 향수 왔움 ㅎㅎ\n\n리코가 쓰는거래~!! 꺄호!!!!!\n\n향에 대해서도 내일 같이 리뷰할테니까\n\n내일 꼭 말해주께요\n\n​\n\n치코 사랑해\n",
       "image": "images/holiday_image.png"
     },
     {
@@ -1736,6 +1750,10 @@
       "quote": "듀엣 모험 | 스텔 마크 새로운 집짓기",
       "image": "images/2025/04/event_image_04_19.png",
       "youtubeLink": "https://www.youtube.com/embed/E4d_ODBie0E",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/E4d_ODBie0E",
+        "https://www.youtube.com/embed/EAKEQwLoi4A"
+      ],
       "additionalImages": [
         "images/2025/04/event_image_04_19_01.png",
         "images/2025/04/event_image_04_19_02.png",

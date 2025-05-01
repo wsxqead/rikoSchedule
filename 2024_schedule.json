@@ -120,6 +120,7 @@
     {
       "day": 27,
       "holiday": "휴방",
+      "quote": "월요일은 휴방을 할거에요!\n우리 일주일 열심히 달렸다 그치!?\n하루만 푹 쉬고 올게요!ㅎㅎ\n\n\n대신 화요일에 재밌는거 있으니까~!\n화요일에 많이 보러와주세요!!\n\n잘자요~!!\n",
       "image": "images/holiday_image.png"
     },
     {
@@ -144,6 +145,10 @@
       "quote": "The Cursed Tape & 야간경비",
       "image": "images/2024/05/event_image_05_11.png",
       "youtubeLink": "https://www.youtube.com/embed/qMsIKtAXMtU",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/qMsIKtAXMtU",
+        "https://www.youtube.com/embed/s92AhibLwGg"
+      ],
       "additionalImages": [
         "images/2024/05/event_image_05_11.png",
         "images/2024/05/event_image_05_11_1.png",
@@ -157,6 +162,7 @@
     {
       "day": 30,
       "holiday": "휴방",
+      "quote": "안녕하세요  ㅎㅎ\n\n유즈하 리코입니다!\n\n​\n\n오늘은 말씀드렸던대로\n\n짧방 아니면 휴방을 할 생각이였는데!\n\n휴방을 하게되었습니다!\n\n​\n\n사랑니는 아직 안뽑았구\n\n다음에 뽑기로하고 예약을 잡았어요ㅜ.ㅜ\n\n오늘은 외출한 겸 조금 재정비를 한 후!\n\n내일 방송에서 더 재밌게 치코랑 놀려구요ㅎㅎ\n\n​\n\n그러니까 넘 아쉬워하지말구\n\n우리 내일 더!! 더어~~!!@! 재밌게 만나요!\n\n​\n\n오늘두 고마워 치코💚\n",
       "image": "images/holiday_image.png"
     },
     {
@@ -182,6 +188,10 @@
       "quote": "",
       "image": "images/2024/06/event_image_06_1.png",
       "youtubeLink": "https://www.youtube.com/embed/fsy_qbvVlvg",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/fsy_qbvVlvg",
+        "https://www.youtube.com/embed/kHBvp3IpnYw"
+      ],
       "additionalImages": [
         "images/2024/06/event_image_06_1.png",
         "images/2024/06/event_image_06_1_1.png",
@@ -201,6 +211,10 @@
       "quote": "",
       "image": "images/2024/06/event_image_06_2.png",
       "youtubeLink": "https://www.youtube.com/embed/3kEu841jDqQ",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/3kEu841jDqQ",
+        "https://www.youtube.com/embed/P_3AIDpjrYA"
+      ],
       "additionalImages": [
         "images/2024/06/event_image_06_2.png",
         "images/2024/06/event_image_06_2_1.png",
@@ -233,12 +247,13 @@
     {
       "day": 4,
       "holiday": "휴방",
+      "quote": "오늘은 휴방입니다!\n\n말씀드린대로 11시-12시쯤에 스페킬게요!\n치코 오늘 하루도 화이팅!!!",
       "image": "images/holiday_image.png"
     },
     {
       "day": 5,
       "event": "산나비 전반부",
-      "quote": "",
+      "quote": "리코가 풀더빙 하는 산나비 1편",
       "image": "images/2024/06/event_image_06_4.png",
       "youtubeLink": "https://www.youtube.com/embed/2JMctpDWqOw",
       "additionalImages": [
@@ -253,7 +268,7 @@
     {
       "day": 6,
       "event": "산나비 후반부",
-      "quote": "",
+      "quote": "리코가 풀더빙 하는 산나비 2편",
       "image": "images/2024/06/event_image_06_5.png",
       "youtubeLink": "https://www.youtube.com/embed/z2lSdTDld6I",
       "additionalImages": [
@@ -272,6 +287,10 @@
       "quote": "나나 부키 린 강지",
       "image": "images/2024/06/event_image_06_6.png",
       "youtubeLink": "https://www.youtube.com/embed/W_lIiYmbFRk",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/W_lIiYmbFRk",
+        "https://www.youtube.com/embed/BYV-QkA6FBU"
+      ],
       "additionalImages": [
         "images/2024/06/event_image_06_6.png",
         "images/2024/06/event_image_06_6_1.png",
@@ -284,7 +303,7 @@
     {
       "day": 8,
       "event": "지뢰찾기 + 노래 방송",
-      "quote": "",
+      "quote": "잔잔한(?) 새벽에 노래부르기",
       "image": "images/2024/06/event_image_06_7.png",
       "youtubeLink": "https://www.youtube.com/embed/kGQXo9dgWhc",
       "additionalImages": [
@@ -325,6 +344,7 @@
     {
       "day": 11,
       "holiday": "휴방",
+      "quote": "오늘은 좀 쉬면서!\n\n일도 하구 \n\n우리 남은 평일이랑 주말을 어떻게 즐겁게 보낼지\n\n정리도 하고 고민두 하고 그러면서 보내려구요!\n\n​\n\n치코 정말 정말 보고싶지만\n\n조굼만 참아..\n\n진짜 보고싶어서 미치겠으면\n\n스페 킬게요 히히\n\n​\n\n오늘 하루 잘 보내구 와요!\n",
       "image": "images/holiday_image.png"
     },
     {
@@ -358,7 +378,7 @@
     {
       "day": 14,
       "event": "엘든링",
-      "quote": "",
+      "quote": "엘든링을 도끼로만 패고 다녀보았다",
       "image": "images/2024/06/event_image_06_12.png",
       "youtubeLink": "https://www.youtube.com/embed/Bd7JJ4jJLjc",
       "additionalImages": [
@@ -372,12 +392,20 @@
       "day": 15,
       "event": "J-pop월드컵",
       "quote": "",
+      "chzzkLink": "https://chzzk.naver.com/video/2073957",
+      "chzzkImage": "https://video-phinf.pstatic.net/20240616_170/17184986207872xNTA_JPEG/fFEsgIKKDH_03.jpg?type=o500x280_blur",
       "image": "images/2024/06/event_image_06_13.png",
-
       "additionalImages": [
         "images/2024/06/event_image_06_13.png",
-        "images/2024/06/event_image_06_13_1.png",
-        "images/2024/06/event_image_06_13_2.png"
+        "images/2024/06/event_image_06_13_01.png",
+        "images/2024/06/event_image_06_13_02.png",
+        "images/2024/06/event_image_06_13_03.png",
+        "images/2024/06/event_image_06_13_04.png",
+        "images/2024/06/event_image_06_13_05.png",
+        "images/2024/06/event_image_06_13_06.png",
+        "images/2024/06/event_image_06_13_07.png",
+        "images/2024/06/event_image_06_13_08.png",
+        "images/2024/06/event_image_06_13_09.png"
       ]
     },
     {
@@ -385,7 +413,7 @@
       "event": "주문 받겠습니다",
       "quote": "클리셰 합방",
       "image": "images/2024/06/event_image_06_14.png",
-
+      "youtubeLink": "https://www.youtube.com/embed/aSJ7WqxOZp0",
       "additionalImages": [
         "images/2024/06/event_image_06_14.png",
         "images/2024/06/event_image_06_14_1.png",
@@ -411,6 +439,7 @@
     {
       "day": 18,
       "holiday": "휴방",
+      "quote": "말씀드렸지만!\n\n오늘은 사랑니를 뽑았기땜운에..\n\n​\n\n휴방입니다!!\n\n흑.. 이제 슬슬 아파오는것 같아요\n\n;-;\n\n​\n\n치코들 밥 잘 챙겨묵고 오늘은 계속X를 통해서\n\n소통할게욧!!\n\n​\n\n보고시풔\n\n​\n\n \n\n​\n\n​\n\n​\n\n+추신\n\n​\n\n아!! 그리구 용사 30만축하 너무너무 감사해요!!!!ㅎㅎ\n\n기분좋더라 히히\n\n여러분들 덕분이에요 정말 감사합니다!\n",
       "image": "images/holiday_image.png"
     },
     {
@@ -441,14 +470,19 @@
     {
       "day": 21,
       "holiday": "휴방",
+      "quote": "오늘 진짜 어떻게든 방송키려구 했는데..\n\n그동안 말을 너무 많이 해서 그런가\n\n입도 더 안벌어지고 붓기도 더 심해져서\n\n말하기가 어려울 정도로 아파졌어요ㅠㅠ\n\n​\n\n제가 관리하지 못한것두 있겠지만..\n\n여러분들과 즐겁게 놀고싶었습니당..!\n\n(그리고 괜찮을줄 알았어 ㅎㅎ...)\n\n​\n\n화요일에 사랑니 뺀다고 휴방을 했기때문에\n\n휴방공지를 정말정말 올리기 싫었는데..\n\n이상태로 방송하면\n\n아프기도하고 치코한테 만족하는 하루를 선물할수도 없을것 같아서ㅠㅠ\n\n오늘하루만 쉬게해주시면 감사하겠습니다😢\n\n​\n\n치코\n\n리코가 자꾸 쉬어서 미안해..\n\n치코랑 놀고싶어..\n\n​\n\n내일 일찍 올테니까\n\n진짜 재밌게 다시 놀자!!\n",
       "image": "images/holiday_image.png"
     },
     {
       "day": 22,
       "event": "첫 스텔서버",
-      "quote": "스텔 마크 서버 1일차",
+      "quote": "스텔 마크 서버 1일차 & 부키야 구해줘!",
       "image": "images/2024/06/event_image_06_18.png",
       "youtubeLink": "https://www.youtube.com/embed/3A1D2HAkpU4",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/G4saHqFYSRI",
+        "https://www.youtube.com/embed/3A1D2HAkpU4"
+      ],
       "additionalImages": [
         "images/2024/06/event_image_06_18_1.png",
         "images/2024/06/event_image_06_18_2.png",
@@ -466,7 +500,7 @@
     {
       "day": 23,
       "event": "두근두근 스텔 마크 서버 2일차",
-      "quote": "",
+      "quote": "최약체가 되었다.. ",
       "image": "images/2024/06/event_image_06_19_3.png",
       "youtubeLink": "https://www.youtube.com/embed/mVuW9kD9BM8",
       "additionalImages": [
@@ -480,7 +514,7 @@
     {
       "day": 24,
       "event": "스텔 마크 서버 3일차",
-      "quote": "",
+      "quote": "유니선배, 히나선배와 첫만남 | 두근두근 첫 워든 탐험",
       "image": "images/2024/06/event_image_06_20.png",
       "youtubeLink": "https://www.youtube.com/embed/Kr74xvcZPTY",
       "additionalImages": [
@@ -494,7 +528,7 @@
     {
       "day": 25,
       "event": "스텔 마크 서버 4일차",
-      "quote": "",
+      "quote": "칸나선배와 첫 만남 | 엔더드래곤 잡기 | 18즈의 모험",
       "image": "images/2024/06/event_image_06_21_7.png",
       "youtubeLink": "https://www.youtube.com/embed/Urh35nk-txQ",
       "additionalImages": [
@@ -512,9 +546,13 @@
     {
       "day": 26,
       "event": "리코 the of 뮤직 | 스텔 마크서버 5일차!",
-      "quote": "",
+      "quote": "리코 the of 뮤직 | 마시로, 리제 선배와 첫 만남",
       "image": "images/2024/06/event_image_06_22.png",
-      "youtubeLink": "https://www.youtube.com/embed/bbiRs5E5cIQ?",
+      "youtubeLink": "https://www.youtube.com/embed/bbiRs5E5cIQ",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/bbiRs5E5cIQ",
+        "https://www.youtube.com/embed/0rm_KY3uL8Y"
+      ],
       "additionalImages": [
         "images/2024/06/event_image_06_22_1.png",
         "images/2024/06/event_image_06_22_2.png",
@@ -535,7 +573,10 @@
       "quote": "오퍼레이션: 탱고 합방 (w. 나나) & 스텔 마크서버 6일차!",
       "image": "images/2024/06/event_image_06_23.png",
       "youtubeLink": "https://www.youtube.com/embed/kchU8m8uW_I",
-
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/kchU8m8uW_I",
+        "https://www.youtube.com/embed/2mvU6VqK_No"
+      ],
       "additionalImages": [
         "images/2024/06/event_image_06_23.png",
         "images/2024/06/event_image_06_23_1.png",
@@ -606,9 +647,13 @@
     {
       "day": 3,
       "event": "스텔라리듬 & 배틀그라운드 방송",
-      "quote": "",
+      "quote": "배그 오늘은 꼭 치킨을 먹고말테야!!",
       "image": "images/2024/07/event_image_07_3_2.png",
       "youtubeLink": "https://www.youtube.com/embed/meJ_eLiirsw",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/meJ_eLiirsw",
+        "https://www.youtube.com/embed/HnsHzYuL1Co"
+      ],
       "additionalImages": [
         "images/2024/07/event_image_07_3_1.png",
         "images/2024/07/event_image_07_3_2.png",
@@ -640,6 +685,10 @@
       "quote": "체인드 투게더 (w. 칸나, 린) & 배틀 그라운드",
       "image": "images/2024/07/event_image_07_5.png",
       "youtubeLink": "https://www.youtube.com/embed/qfFsxwzbg7I",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/qfFsxwzbg7I",
+        "https://www.youtube.com/embed/1QT4o_AJdqM"
+      ],
       "additionalImages": [
         "images/2024/07/event_image_07_5_1.png",
         "images/2024/07/event_image_07_5_2.png",
@@ -707,6 +756,10 @@
       "quote": "워든시티 털어버렷",
       "image": "images/2024/07/event_image_07_9.png",
       "youtubeLink": "https://www.youtube.com/embed/y97gsjV4hCY",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/y97gsjV4hCY",
+        "https://www.youtube.com/embed/rwG5hQkBVNQ"
+      ],
       "additionalImages": [
         "images/2024/07/event_image_07_9_1.png",
         "images/2024/07/event_image_07_9_2.png",
@@ -757,6 +810,10 @@
       "quote": "쿠크세이튼 트라이",
       "image": "images/2024/07/event_image_07_12.png",
       "youtubeLink": "https://www.youtube.com/embed/dXsZYnga1aI",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/eAWltnQP5mM",
+        "https://www.youtube.com/embed/dXsZYnga1aI"
+      ],
       "additionalImages": [
         "images/2024/07/event_image_07_12_1.png",
         "images/2024/07/event_image_07_12_2.png",
@@ -804,6 +861,10 @@
       "quote": "아브렐슈드",
       "image": "images/2024/07/event_image_07_15.png",
       "youtubeLink": "https://www.youtube.com/embed/9MNGIQfmX44",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/sa-kST3T8cU",
+        "https://www.youtube.com/embed/9MNGIQfmX44"
+      ],
       "additionalImages": [
         "images/2024/07/event_image_07_15_1.png",
         "images/2024/07/event_image_07_15_2.png",
@@ -817,6 +878,7 @@
     {
       "day": 17,
       "holiday": "휴방",
+      "quote": "치코들!\n\n오늘은 리코가 녹음일정이 있고해서\n\n휴방하게 되었어요!!\n\n​\n\n너무너무.. 아쉽지마아안~!!\n\n그래도오 휴방날이되기두했고!\n\n치코들도 그동안 장시간 방송으로 피곤했을테니!\n\n오늘 푹 잘 쉬고 우리 내일만나요!\n\n​\n\n항상 사랑해!!\n\n치코덕에 행복해 >ㅁ< 고마워\n",
       "image": "images/holiday_image.png"
     },
     {
@@ -910,6 +972,7 @@
     {
       "day": 24,
       "holiday": "휴방",
+      "quote": "크히히ㅣㅎ\n\n​\n\n휴방이에여\n\n​\n\n​\n\n아주 늦었죠?\n\n​\n\n왜냐면 잤기 때문이에요\n\n​\n\n​\n\n​\n\n미녀는 잠꾸러기 >ㅁ<\n\n​\n\n​\n\n​\n\n​\n\n​\n\n내일보쟛💚\n\n아참!! 새벽에 스페킬거에유!!\n\n1시에서 2시 사이?~일거같은데!\n\n​\n\n​\n\n​\n\n​\n\n+)아 맞아 다시보기..!! 올리는중이에요.. 조금만 기다려줘잉..\n",
       "image": "images/holiday_image.png"
     },
     {
@@ -1093,6 +1156,7 @@
     {
       "day": 6,
       "holiday": "휴방",
+      "quote": "안녕하세요!!\n\n리코입니닷!!\n\n​\n\n부득이하게도.. 어제 휴방공지를 못해줬더라구요\n\n방송에서 말했어서 다행이긴했지만\n\n못보고 기다리던 치코들에게 미안합니다 💚\n\n​\n\n오늘도 휴방을 해야할것 같아요!!\n\n어제 트윗에 썼지만 목소리가 많이 쉬어버려서\n\n어떻게든 소리를 내보려구 해도\n\n목소리가 나오지 않았어서 정말 큰일이였는데\n\n​\n\n어제 한번도 말을 안해서 그런지\n\n오늘은 다행이도 조오금!! 아주조그으음은 돌아왔더라구요\n\n근데 역시 하루쉬는거로는 역부족인지\n\n목소리는 여전히 안나오는 상태에요 ;-;\n\n좀 확실하게 쉬고 치코를 만나러 오는게 좋겠다 라는 생각을 했어요\n\n​\n\n그래야 치코랑 더 재밌게 놀고 신나게 방송할 수 있을것 같아요!\n\n​\n\n연속 휴방인거 너무너무 싫고 미안하구 그러지만\n\n우리 앞으로 볼날 생각하면 조금만 너그러이 이해해줄래요?\n\n​\n\n오늘도 잘 다녀오구 화요일도 마중나오진 못했지만\n\n조심히 집에 와요!\n\n​\n\n수고많았어!!💚\n",
       "image": "images/holiday_image.png"
     },
     {
@@ -1123,6 +1187,7 @@
     {
       "day": 9,
       "holiday": "휴방",
+      "quote": "안녕하세요!\n\n리코입니돳!!\n\n​\n\n방송공지가 아니라 놀라셨나유?!..\n\n히히 다름이 아니라 오늘 할일도 많기두 하구\n\n목을 좀 더 쉬어줘야할것 같아서\n\n휴방을 하려구 해요!!\n\n​\n\n대신!\n\n내일은 좀 길게 방송할 수도 있을거라구 생각하는데!!\n\n[사이버 펑크 2077]를 가져올 생각이에욧!!\n\n허허헣ㅎㅎ\n\n총게임겸 레이싱겸 스토리도 있는 이게임 한 번\n\n먹어보려구 합니다!!\n\n​\n\n그러니까아\n\n넘 아쉬워하지말구\n\n오늘 스페 있으니까!!\n\n스페에서 봐욧!!\n\n​\n\n항상 사랑해 치코 💚\n\n​\n",
       "image": "images/holiday_image.png"
     },
     {
@@ -1172,6 +1237,10 @@
       "quote": "사이버펑크 & 배틀그라운드 & 롤체",
       "image": "images/2024/08/event_image_08_10.png",
       "youtubeLink": "https://www.youtube.com/embed/a-IIUH64ync",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/a-IIUH64ync",
+        "https://www.youtube.com/embed/mSNTi62H_nw"
+      ],
       "additionalImages": [
         "images/2024/08/event_image_08_10_01.png",
         "images/2024/08/event_image_08_10_02.png",
@@ -1201,6 +1270,10 @@
       "quote": "",
       "image": "images/2024/08/event_image_08_12.png",
       "youtubeLink": "https://www.youtube.com/embed/cvMaVGkLzVg",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/cvMaVGkLzVg",
+        "https://www.youtube.com/embed/svCgpo4N0Q0"
+      ],
       "additionalImages": [
         "images/2024/08/event_image_08_12_01.png",
         "images/2024/08/event_image_08_12_02.png",
@@ -1222,6 +1295,7 @@
     {
       "day": 17,
       "holiday": "휴방",
+      "quote": "안녕!!\n\n리코에요 ㅎㅎ\n\n​\n\n아시는 분들도 있겠지만\n\n모르시는 분들도 있으니!!\n\n공지를 쓰게 되었습니다!!!\n\n​\n\n리코가 몸이 좀 안좋아서\n\n어제 새벽에 병원 다녀왔어요\n\n몸살이였구\n\n지금은 열도 내린 상태입니다!!\n\n​\n\n오늘은 원래 내일 녹음때문에\n\n오늘 목을 쉬기위해 휴방이라고 말씀을 드렸었고!\n\n내일은 녹음때문에 휴방일겁니다!\n\n​\n\n월요일에 봐요 저희 💚\n\n​\n\n​\n\n세줄요약:\n\n17일 18일 휴방\n",
       "image": "images/holiday_image.png"
     },
     {
@@ -1356,6 +1430,10 @@
       "quote": "사이버펑크 & 여름방학 숙제",
       "image": "images/2024/08/event_image_08_22.png",
       "youtubeLink": "https://www.youtube.com/embed/JUopu6j7v1s",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/RN-T3bgvn5g",
+        "https://www.youtube.com/embed/JUopu6j7v1s"
+      ],
       "additionalImages": [
         "images/2024/08/event_image_08_22_01.png",
         "images/2024/08/event_image_08_22_02.png",
@@ -1367,6 +1445,7 @@
     {
       "day": 29,
       "holiday": "휴방",
+      "quote": "안녕!\n\n오늘은 휴방이에요!\n\n치코 오늘 하루 잘 보내구 와요!\n\n나중에 보쟈!!💚",
       "image": "images/holiday_image.png"
     },
     {
@@ -1400,6 +1479,7 @@
     {
       "day": 1,
       "holiday": "휴방",
+      "quote": "오늘방송은 휴방 하도록 하겠습니다!!\n\n​\n\n여러분들 월요일 잘 보내야하니까\n\n오늘 컨디션 조절 잘 하구\n\n일찍 자구 일어나요💚\n\n​\n\n리코랑은 담에만나!!\n\n사랑해에",
       "image": "images/holiday_image.png"
     },
     {
@@ -1688,6 +1768,11 @@
       "quote": "3D 수박게임 & 텔제이맥스 & 카페탐방",
       "image": "images/2024/09/event_image_09_14.png",
       "youtubeLink": "https://www.youtube.com/embed/1okdSJjAuxs",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/1okdSJjAuxs",
+        "https://www.youtube.com/embed/cQjRqjtSsoA",
+        "https://www.youtube.com/embed/s8WL0fI0VFg"
+      ],
       "additionalImages": [
         "images/2024/09/event_image_09_14.png",
         "images/2024/09/event_image_09_14_1.png",
@@ -1708,6 +1793,10 @@
       "quote": "커버곡 공개 & 나노사도",
       "image": "images/2024/09/event_image_09_15.webp",
       "youtubeLink": "https://www.youtube.com/embed/Nf1SFDDg49w",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/g9oZ4z3gyc8",
+        "https://www.youtube.com/embed/Nf1SFDDg49w"
+      ],
       "additionalImages": [
         "images/2024/09/event_image_09_15_1.jpg",
         "images/2024/09/event_image_09_15_2.jpg",
@@ -1876,6 +1965,10 @@
       "quote": "듀엣곡 발표 & We Were Here Too",
       "image": "images/2024/10/event_image_10_2.webp",
       "youtubeLink": "https://www.youtube.com/embed/M3f8nXVsMvE",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/AQGn8PRGS4o",
+        "https://www.youtube.com/embed/M3f8nXVsMvE"
+      ],
       "additionalImages": [
         "images/2024/10/event_image_10_2_1.png",
         "images/2024/10/event_image_10_2_2.png",
@@ -2060,6 +2153,10 @@
       "quote": "톤데모 원더즈 + 아오오니 공포게임",
       "image": "images/2024/10/event_image_10_13.webp",
       "youtubeLink": "https://www.youtube.com/embed/GTlXyOJB_Qo",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/GTlXyOJB_Qo",
+        "https://www.youtube.com/embed/lJRIs_OdtLA"
+      ],
       "additionalImages": [
         "images/2024/10/event_image_10_13_001.png",
         "images/2024/10/event_image_10_13_002.png",
@@ -2166,6 +2263,10 @@
       "quote": "장미와 동백 & GTA 스토리 모드 3일차",
       "image": "images/2024/10/event_image_10_19.png",
       "youtubeLink": "https://www.youtube.com/embed/M7NcOS6lpp0",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/wncD-4iRNAA",
+        "https://www.youtube.com/embed/M7NcOS6lpp0"
+      ],
       "additionalImages": [
         "images/2024/10/event_image_10_19_1.png",
         "images/2024/10/event_image_10_19_2.png",
@@ -2278,6 +2379,10 @@
       "quote": "케세라세라 & 스텔 좀보이드 2일차",
       "image": "images/2024/11/event_image_11_1.webp",
       "youtubeLink": "https://www.youtube.com/embed/S-46Xmc6xk8",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/S-46Xmc6xk8",
+        "https://www.youtube.com/embed/FORM3Jg8ov8"
+      ],
       "additionalImages": [
         "images/2024/11/event_image_11_1_1.png",
         "images/2024/11/event_image_11_1_2.png",
@@ -2439,9 +2544,13 @@
     {
       "day": 15,
       "event": "GTA5 습격 사전준비",
-      "quote": "GTA5",
+      "quote": "용사의 혼인신고서 작성 I GTA 습격 준비하기",
       "image": "images/2024/11/event_image_11_9_3.png",
       "youtubeLink": "https://www.youtube.com/embed/pX_Emc7VPYw",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/pX_Emc7VPYw",
+        "https://www.youtube.com/embed/CXuFB3dcwro"
+      ],
       "additionalImages": [
         "images/2024/11/event_image_11_9_1.png",
         "images/2024/11/event_image_11_9_2.png",
@@ -2528,6 +2637,10 @@
       "quote": "경화수월 커버곡 & 마인크래프트 하드모드 엔더드레곤",
       "image": "images/2024/11/event_image_11_13.webp",
       "youtubeLink": "https://www.youtube.com/embed/v1msv6oIfVM",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/v1msv6oIfVM",
+        "https://www.youtube.com/embed/cducyN2lrXY"
+      ],
       "additionalImages": [
         "images/2024/11/event_image_11_13_1.png",
         "images/2024/11/event_image_11_13_2.png",
@@ -2573,6 +2686,10 @@
       "quote": "당직 근무 & 카페 탐방",
       "image": "images/2024/11/event_image_11_15.png",
       "youtubeLink": "https://www.youtube.com/embed/R7RJNUyVck8",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/R7RJNUyVck8",
+        "https://www.youtube.com/embed/SuxVQYrCyvY"
+      ],
       "additionalImages": [
         "images/2024/11/event_image_11_15_1.png",
         "images/2024/11/event_image_11_15_2.png",
@@ -2817,7 +2934,9 @@
     {
       "day": 11,
       "holiday": "휴방",
-      "image": "images/holiday_image.png"
+      "quote": "오늘은 휴방입니다!\n\n병원 다녀와서 못 한 일좀 쭈욱 하고\n\n쉬려구요!\n\n​\n\n말씀드린대로 혹시나 봉누도가 바쁘거나(경찰)\n\n보물섬을 하게되면 녹화? 정도 할 것 같아요!\n\n​\n\n최대한 오늘 말 안하고 살아볼테니까 걱정말구~!!\n\n​\n\n항상 누구보다도 먼저 걱정해주고\n\n신경써줘서 고마워요 치코💚\n\n​\n\n담에보쟈!\n",
+      "image": "images/holiday_image.png",
+      "youtubeLink": "https://www.youtube.com/embed/KaTUfp2GdCE"
     },
     {
       "day": 12,
@@ -3049,6 +3168,10 @@
       "quote": "",
       "image": "images/2024/12/event_image_12_17.png",
       "youtubeLink": "https://www.youtube.com/embed/KMrM_4rInR4",
+      "youtubeLinks": [
+        "https://www.youtube.com/embed/KMrM_4rInR4",
+        "https://www.youtube.com/embed/wA-Qf4EI7aU"
+      ],
       "additionalImages": [
         "images/2024/12/event_image_12_17_01.png",
         "images/2024/12/event_image_12_17_02.png",
