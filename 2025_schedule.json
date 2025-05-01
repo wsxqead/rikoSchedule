@@ -1,1776 +1,1787 @@
 {
-  "jan": [
-    {
-      "day": 1,
-      "event": "스텔 팰월드",
-      "quote": "",
-      "image": "images/2025/01/event_image_01_01.png",
-      "youtubeLink": "https://www.youtube.com/embed/drR8_BJfbuA",
-      "additionalImages": [
-        "images/2025/01/event_image_01_01_01.png",
-        "images/2025/01/event_image_01_01_02.png",
-        "images/2025/01/event_image_01_01_03.png",
-        "images/2025/01/event_image_01_01_04.png",
-        "images/2025/01/event_image_01_01_05.png",
-        "images/2025/01/event_image_01_01_06.png",
-        "images/2025/01/event_image_01_01_07.png",
-        "images/2025/01/event_image_01_01_08.png",
-        "images/2025/01/event_image_01_01_09.png",
-        "images/2025/01/event_image_01_01_10.png"
-      ]
-    },
-    {
-      "day": 2,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 3,
-      "event": "스텔 팰월드",
-      "quote": "",
-      "image": "images/2025/01/event_image_01_02.png",
-      "youtubeLink": "https://www.youtube.com/embed/AiD-b1HVTe0",
-      "additionalImages": [
-        "images/2025/01/event_image_01_02_01.png",
-        "images/2025/01/event_image_01_02_02.png",
-        "images/2025/01/event_image_01_02_03.png",
-        "images/2025/01/event_image_01_02_04.png",
-        "images/2025/01/event_image_01_02_05.png",
-        "images/2025/01/event_image_01_02_06.png",
-        "images/2025/01/event_image_01_02_07.png",
-        "images/2025/01/event_image_01_02_08.png",
-        "images/2025/01/event_image_01_02_09.png"
-      ]
-    },
-    {
-      "day": 4,
-      "event": "스텔 팰월드",
-      "quote": "",
-      "image": "images/2025/01/event_image_01_03.png",
-      "youtubeLink": "https://www.youtube.com/embed/v51NINdbbJA",
-      "additionalImages": [
-        "images/2025/01/event_image_01_03_01.png",
-        "images/2025/01/event_image_01_03_02.png",
-        "images/2025/01/event_image_01_03_03.png",
-        "images/2025/01/event_image_01_03_04.png",
-        "images/2025/01/event_image_01_03_05.png",
-        "images/2025/01/event_image_01_03_06.png",
-        "images/2025/01/event_image_01_03_07.png",
-        "images/2025/01/event_image_01_03_08.png"
-      ]
-    },
-    {
-      "day": 5,
-      "event": "스텔 팰월드",
-      "quote": "",
-      "image": "images/2025/01/event_image_01_04.png",
-      "youtubeLink": "https://www.youtube.com/embed/YW4Ejv5G1ho",
-      "additionalImages": [
-        "images/2025/01/event_image_01_04_01.png",
-        "images/2025/01/event_image_01_04_02.png",
-        "images/2025/01/event_image_01_04_03.png",
-        "images/2025/01/event_image_01_04_04.png"
-      ]
-    },
-    {
-      "day": 6,
-      "event": "스텔 팰월드",
-      "quote": "",
-      "image": "images/2025/01/event_image_01_05.png",
-      "youtubeLink": "https://www.youtube.com/embed/ums34WjDNqw",
-      "additionalImages": [
-        "images/2025/01/event_image_01_05_01.png",
-        "images/2025/01/event_image_01_05_02.png",
-        "images/2025/01/event_image_01_05_03.png",
-        "images/2025/01/event_image_01_05_04.png",
-        "images/2025/01/event_image_01_05_05.png",
-        "images/2025/01/event_image_01_05_06.png",
-        "images/2025/01/event_image_01_05_07.png",
-        "images/2025/01/event_image_01_05_08.png",
-        "images/2025/01/event_image_01_05_09.png"
-      ]
-    },
-    {
-      "day": 7,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 8,
-      "event": "겟투워크",
-      "quote": "",
-      "image": "images/2025/01/event_image_01_06.png",
-      "youtubeLink": "https://www.youtube.com/embed/ewImdtHqqgQ",
-      "additionalImages": [
-        "images/2025/01/event_image_01_06_01.png",
-        "images/2025/01/event_image_01_06_02.png",
-        "images/2025/01/event_image_01_06_03.png",
-        "images/2025/01/event_image_01_06_04.png",
-        "images/2025/01/event_image_01_06_05.png",
-        "images/2025/01/event_image_01_06_06.png",
-        "images/2025/01/event_image_01_06_07.png",
-        "images/2025/01/event_image_01_06_08.png",
-        "images/2025/01/event_image_01_06_09.png",
-        "images/2025/01/event_image_01_06_10.png"
-      ]
-    },
-    {
-      "day": 9,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 10,
-      "event": "커버곡 공개 꽃의 탑",
-      "quote": "",
-      "image": "images/2025/01/event_image_01_07.webp",
-      "youtubeLink": "https://www.youtube.com/embed/fuEODI_bTBQ",
-      "additionalImages": [
-        "images/2025/01/event_image_01_07_01.png",
-        "images/2025/01/event_image_01_07_02.png",
-        "images/2025/01/event_image_01_07_03.png",
-        "images/2025/01/event_image_01_07_04.png",
-        "images/2025/01/event_image_01_07_05.png",
-        "images/2025/01/event_image_01_07_06.png",
-        "images/2025/01/event_image_01_07_07.png",
-        "images/2025/01/event_image_01_07_08.png",
-        "images/2025/01/event_image_01_07_09.png"
-      ]
-    },
-    {
-      "day": 11,
-      "event": "팬게임 스텔큐어",
-      "quote": "스텔라맥스",
-      "image": "images/2025/01/event_image_01_08.png",
-      "youtubeLink": "https://www.youtube.com/embed/xBliPsIcGTo",
-      "additionalImages": [
-        "images/2025/01/event_image_01_08_01.png",
-        "images/2025/01/event_image_01_08_02.png",
-        "images/2025/01/event_image_01_08_03.png",
-        "images/2025/01/event_image_01_08_04.png",
-        "images/2025/01/event_image_01_08_05.png",
-        "images/2025/01/event_image_01_08_06.png",
-        "images/2025/01/event_image_01_08_07.png",
-        "images/2025/01/event_image_01_08_08.png",
-        "images/2025/01/event_image_01_08_09.png",
-        "images/2025/01/event_image_01_08_10.png"
-      ]
-    },
-    {
-      "day": 12,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 13,
-      "event": "커스드 디지캠",
-      "quote": "커스드 디지캠 & 데바데",
-      "image": "images/2025/01/event_image_01_09.png",
-      "youtubeLink": "https://www.youtube.com/embed/cb-tQt7VJCE",
-      "additionalImages": [
-        "images/2025/01/event_image_01_09_01.png",
-        "images/2025/01/event_image_01_09_02.png",
-        "images/2025/01/event_image_01_09_03.png",
-        "images/2025/01/event_image_01_09_04.png",
-        "images/2025/01/event_image_01_09_05.png",
-        "images/2025/01/event_image_01_09_06.png",
-        "images/2025/01/event_image_01_09_07.png"
-      ]
-    },
-    {
-      "day": 14,
-      "event": "원티드",
-      "quote": "원티드 & 배틀그라운드",
-      "image": "images/2025/01/event_image_01_10.png",
-      "youtubeLink": "https://www.youtube.com/embed/Kf2AOI1ZCwg",
-      "additionalImages": [
-        "images/2025/01/event_image_01_10_01.png",
-        "images/2025/01/event_image_01_10_02.png",
-        "images/2025/01/event_image_01_10_03.png",
-        "images/2025/01/event_image_01_10_04.png",
-        "images/2025/01/event_image_01_10_05.png",
-        "images/2025/01/event_image_01_10_06.png",
-        "images/2025/01/event_image_01_10_07.png"
-      ]
-    },
-    {
-      "day": 15,
-      "event": "마이 썸머 카",
-      "quote": "",
-      "image": "images/2025/01/event_image_01_11.png",
-      "youtubeLink": "https://www.youtube.com/embed/gE0pSCdUJ3c",
-      "additionalImages": [
-        "images/2025/01/event_image_01_11_01.png",
-        "images/2025/01/event_image_01_11_02.png",
-        "images/2025/01/event_image_01_11_03.png",
-        "images/2025/01/event_image_01_11_04.png",
-        "images/2025/01/event_image_01_11_05.png",
-        "images/2025/01/event_image_01_11_06.png",
-        "images/2025/01/event_image_01_11_07.png",
-        "images/2025/01/event_image_01_11_08.png",
-        "images/2025/01/event_image_01_11_09.png",
-        "images/2025/01/event_image_01_11_10.png",
-        "images/2025/01/event_image_01_11_11.png"
-      ]
-    },
-    {
-      "day": 16,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 17,
-      "event": "내가 만약 남자라면, 만나고싶은 스텔 멤버 | 마썸카 2편",
-      "quote": "",
-      "image": "images/2025/01/event_image_01_12.png",
-      "youtubeLink": "https://www.youtube.com/embed/VKZqlya4syE",
-      "additionalImages": [
-        "images/2025/01/event_image_01_12_01.png",
-        "images/2025/01/event_image_01_12_02.png",
-        "images/2025/01/event_image_01_12_03.png",
-        "images/2025/01/event_image_01_12_04.png",
-        "images/2025/01/event_image_01_12_05.png",
-        "images/2025/01/event_image_01_12_06.png",
-        "images/2025/01/event_image_01_12_07.png",
-        "images/2025/01/event_image_01_12_08.png",
-        "images/2025/01/event_image_01_12_09.png",
-        "images/2025/01/event_image_01_12_10.png",
-        "images/2025/01/event_image_01_12_11.png",
-        "images/2025/01/event_image_01_12_12.png",
-        "images/2025/01/event_image_01_12_13.png"
-      ]
-    },
-    {
-      "day": 18,
-      "event": "애니 OST 월드컵 256강",
-      "quote": "",
-      "image": "images/2025/01/event_image_01_13.png",
-      "chzzkLink": "https://chzzk.naver.com/video/5376116",
-      "chzzkImage": "https://nng-phinf.pstatic.net/MjAyNTAxMTlfMTI5/MDAxNzM3MjIxMTExMzQ5.BwuSRN5dyb1gRBhbwSLJECswhvENwPqLXpv8UtXqLYAg.zpntt-7fPDfi9K-D6baCEro8VUk8ZM5FYr9iBJCFKpAg.PNG/4.png?type=o500x280_blur",
-      "additionalImages": [
-        "images/2025/01/event_image_01_13_01.png",
-        "images/2025/01/event_image_01_13_02.png",
-        "images/2025/01/event_image_01_13_03.png",
-        "images/2025/01/event_image_01_13_04.png",
-        "images/2025/01/event_image_01_13_05.png",
-        "images/2025/01/event_image_01_13_06.png",
-        "images/2025/01/event_image_01_13_07.png",
-        "images/2025/01/event_image_01_13_08.png",
-        "images/2025/01/event_image_01_13_09.png",
-        "images/2025/01/event_image_01_13_10.png",
-        "images/2025/01/event_image_01_13_11.png",
-        "images/2025/01/event_image_01_13_12.png",
-        "images/2025/01/event_image_01_13_13.png",
-        "images/2025/01/event_image_01_13_14.png"
-      ]
-    },
-    {
-      "day": 19,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 20,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 21,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 22,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 23,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 24,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 25,
-      "event": "저챗 & 카페탐방",
-      "quote": "카페탐방 & 사과게임",
-      "image": "images/2025/01/event_image_01_14.png",
-      "youtubeLink": "https://www.youtube.com/embed/r2JSI-Rl4Ho",
-      "additionalImages": [
-        "images/2025/01/event_image_01_14_01.png",
-        "images/2025/01/event_image_01_14_02.png",
-        "images/2025/01/event_image_01_14_03.png",
-        "images/2025/01/event_image_01_14_04.png",
-        "images/2025/01/event_image_01_14_05.png",
-        "images/2025/01/event_image_01_14_06.png",
-        "images/2025/01/event_image_01_14_07.png",
-        "images/2025/01/event_image_01_14_08.png"
-      ]
-    },
-    {
-      "day": 26,
-      "event": "super sorry",
-      "quote": "super sorry & 사과게임 & 배틀그라운드",
-      "image": "images/2025/01/event_image_01_15.png",
-      "youtubeLink": "https://www.youtube.com/embed/BudF_tt2DkY",
-      "additionalImages": [
-        "images/2025/01/event_image_01_15_01.png",
-        "images/2025/01/event_image_01_15_02.png",
-        "images/2025/01/event_image_01_15_03.png",
-        "images/2025/01/event_image_01_15_04.png",
-        "images/2025/01/event_image_01_15_05.png",
-        "images/2025/01/event_image_01_15_06.png",
-        "images/2025/01/event_image_01_15_07.png",
-        "images/2025/01/event_image_01_15_08.png",
-        "images/2025/01/event_image_01_15_09.png",
-        "images/2025/01/event_image_01_15_10.png"
-      ]
-    },
-    {
-      "day": 27,
-      "event": "Poppy Playtime - Chapter 3",
-      "quote": "Poppy Playtime 3 & 사과게임",
-      "image": "images/2025/01/event_image_01_16.png",
-      "youtubeLink": "https://www.youtube.com/embed/E2ZU65_Qlw4",
-      "additionalImages": [
-        "images/2025/01/event_image_01_16_01.png",
-        "images/2025/01/event_image_01_16_02.png",
-        "images/2025/01/event_image_01_16_03.png",
-        "images/2025/01/event_image_01_16_04.png",
-        "images/2025/01/event_image_01_16_05.png",
-        "images/2025/01/event_image_01_16_06.png",
-        "images/2025/01/event_image_01_16_07.png",
-        "images/2025/01/event_image_01_16_08.png",
-        "images/2025/01/event_image_01_16_09.png",
-        "images/2025/01/event_image_01_16_10.png",
-        "images/2025/01/event_image_01_16_11.png"
-      ]
-    },
-    {
-      "day": 28,
-      "event": "커버곡 공개 절대적대완전싫어",
-      "quote": "절대적대완전싫어 / 유즈하 리코(Yuzuha Riko) x 텐코 시부키(Tenko Shibuki) cover",
-      "image": "images/2025/01/event_image_01_17.webp",
-      "youtubeLink": "https://www.youtube.com/embed/KvxY2PcX_-k",
-      "additionalImages": [
-        "images/2025/01/event_image_01_17_01.png",
-        "images/2025/01/event_image_01_17_02.png",
-        "images/2025/01/event_image_01_17_03.png",
-        "images/2025/01/event_image_01_17_04.png",
-        "images/2025/01/event_image_01_17_05.png",
-        "images/2025/01/event_image_01_17_06.png",
-        "images/2025/01/event_image_01_17_07.png",
-        "images/2025/01/event_image_01_17_08.png",
-        "images/2025/01/event_image_01_17_09.png",
-        "images/2025/01/event_image_01_17_10.png",
-        "images/2025/01/event_image_01_17_11.png"
-      ]
-    },
-    {
-      "day": 29,
-      "event": "유로 트럭",
-      "quote": "",
-      "image": "images/2025/01/event_image_01_18.png",
-      "youtubeLink": "https://www.youtube.com/embed/RSCVZMNO_-o",
-      "additionalImages": [
-        "images/2025/01/event_image_01_18_01.png",
-        "images/2025/01/event_image_01_18_02.png",
-        "images/2025/01/event_image_01_18_03.png",
-        "images/2025/01/event_image_01_18_04.png",
-        "images/2025/01/event_image_01_18_05.png",
-        "images/2025/01/event_image_01_18_06.png",
-        "images/2025/01/event_image_01_18_07.png"
-      ]
-    },
-    {
-      "day": 30,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 31,
-      "event": "파피플레이타임 4",
-      "quote": "파피플레이타임 4 & 레몬게임",
-      "image": "images/2025/01/event_image_01_19.png",
-      "youtubeLink": "https://www.youtube.com/embed/suPZAgiloqQ",
-      "additionalImages": [
-        "images/2025/01/event_image_01_19_01.png",
-        "images/2025/01/event_image_01_19_02.png",
-        "images/2025/01/event_image_01_19_03.png",
-        "images/2025/01/event_image_01_19_04.png",
-        "images/2025/01/event_image_01_19_05.png",
-        "images/2025/01/event_image_01_19_06.png",
-        "images/2025/01/event_image_01_19_07.png",
-        "images/2025/01/event_image_01_19_08.png"
-      ]
-    }
-  ],
-  "feb": [
-    {
-      "day": 1,
-      "event": "몬스터 헌터: 월드",
-      "quote": "",
-      "image": "images/2025/02/event_image_02_01.png",
-      "youtubeLink": "https://www.youtube.com/embed/a_uYmAoFuy4",
-      "additionalImages": [
-        "images/2025/02/event_image_02_01_01.png",
-        "images/2025/02/event_image_02_01_02.png",
-        "images/2025/02/event_image_02_01_03.png",
-        "images/2025/02/event_image_02_01_04.png",
-        "images/2025/02/event_image_02_01_05.png",
-        "images/2025/02/event_image_02_01_06.png",
-        "images/2025/02/event_image_02_01_07.png",
-        "images/2025/02/event_image_02_01_08.png"
-      ]
-    },
-    {
-      "day": 2,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 3,
-      "event": "스트리머 라이프 시뮬레이터 2",
-      "quote": "스트리머 라이프 시뮬레이터 2 & 몬스터 헌터: 월드",
-      "youtubeLink": "https://www.youtube.com/embed/Hv9e3TGKmmw",
-      "image": "images/2025/02/event_image_02_02.png",
-      "additionalImages": [
-        "images/2025/02/event_image_02_02_01.png",
-        "images/2025/02/event_image_02_02_02.png",
-        "images/2025/02/event_image_02_02_03.png",
-        "images/2025/02/event_image_02_02_04.png",
-        "images/2025/02/event_image_02_02_05.png",
-        "images/2025/02/event_image_02_02_06.png",
-        "images/2025/02/event_image_02_02_07.png",
-        "images/2025/02/event_image_02_02_08.png",
-        "images/2025/02/event_image_02_02_09.png",
-        "images/2025/02/event_image_02_02_10.png"
-      ]
-    },
-    {
-      "day": 4,
-      "event": "레이튼 교수와 이상한 마을",
-      "quote": "",
-      "image": "images/2025/02/event_image_02_03.png",
-      "youtubeLink": "https://www.youtube.com/embed/g7NIlxJ8dY4",
-      "additionalImages": [
-        "images/2025/02/event_image_02_03_01.png",
-        "images/2025/02/event_image_02_03_02.png",
-        "images/2025/02/event_image_02_03_03.png",
-        "images/2025/02/event_image_02_03_04.png",
-        "images/2025/02/event_image_02_03_05.png",
-        "images/2025/02/event_image_02_03_06.png",
-        "images/2025/02/event_image_02_03_07.png",
-        "images/2025/02/event_image_02_03_08.png",
-        "images/2025/02/event_image_02_03_09.png",
-        "images/2025/02/event_image_02_03_10.png",
-        "images/2025/02/event_image_02_03_11.png",
-        "images/2025/02/event_image_02_03_12.png",
-        "images/2025/02/event_image_02_03_13.png"
-      ]
-    },
-    {
-      "day": 5,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 6,
-      "event": "리코의 노래방",
-      "quote": "",
-      "image": "images/2025/02/event_image_02_04.png",
-      "youtubeLink": "https://www.youtube.com/embed/NnajL-nQtN0",
-      "additionalImages": [
-        "images/2025/02/event_image_02_04_01.png",
-        "images/2025/02/event_image_02_04_02.png",
-        "images/2025/02/event_image_02_04_03.png",
-        "images/2025/02/event_image_02_04_04.png",
-        "images/2025/02/event_image_02_04_05.png",
-        "images/2025/02/event_image_02_04_06.png",
-        "images/2025/02/event_image_02_04_07.png",
-        "images/2025/02/event_image_02_04_08.png",
-        "images/2025/02/event_image_02_04_09.png"
-      ]
-    },
-    {
-      "day": 7,
-      "event": "몬스터 헌터 와일즈",
-      "quote": "",
-      "image": "images/2025/02/event_image_02_05.png",
-      "youtubeLink": "https://www.youtube.com/embed/O3O4Jaa0Dds",
-      "additionalImages": [
-        "images/2025/02/event_image_02_05_01.png",
-        "images/2025/02/event_image_02_05_02.png",
-        "images/2025/02/event_image_02_05_03.png",
-        "images/2025/02/event_image_02_05_04.png",
-        "images/2025/02/event_image_02_05_05.png",
-        "images/2025/02/event_image_02_05_06.png",
-        "images/2025/02/event_image_02_05_07.png",
-        "images/2025/02/event_image_02_05_08.png",
-        "images/2025/02/event_image_02_05_09.png",
-        "images/2025/02/event_image_02_05_10.png",
-        "images/2025/02/event_image_02_05_11.png",
-        "images/2025/02/event_image_02_05_12.png",
-        "images/2025/02/event_image_02_05_13.png",
-        "images/2025/02/event_image_02_05_14.png"
-      ]
-    },
-    {
-      "day": 8,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 9,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 10,
-      "event": "리그 오브 레전드",
-      "quote": "",
-      "image": "images/2025/02/event_image_02_06.png",
-      "youtubeLink": "https://www.youtube.com/embed/2y1871ZTfbo",
-      "additionalImages": [
-        "images/2025/02/event_image_02_06_01.png",
-        "images/2025/02/event_image_02_06_02.png",
-        "images/2025/02/event_image_02_06_03.png",
-        "images/2025/02/event_image_02_06_04.png",
-        "images/2025/02/event_image_02_06_05.png",
-        "images/2025/02/event_image_02_06_06.png",
-        "images/2025/02/event_image_02_06_07.png",
-        "images/2025/02/event_image_02_06_08.png",
-        "images/2025/02/event_image_02_06_09.png"
-      ]
-    },
-    {
-      "day": 11,
-      "event": "몬스터 헌터: 월드",
-      "quote": "",
-      "image": "images/2025/02/event_image_02_07.png",
-      "youtubeLink": "https://www.youtube.com/embed/87YF75iNirY",
-      "additionalImages": [
-        "images/2025/02/event_image_02_07_01.png",
-        "images/2025/02/event_image_02_07_02.png",
-        "images/2025/02/event_image_02_07_03.png",
-        "images/2025/02/event_image_02_07_04.png",
-        "images/2025/02/event_image_02_07_05.png",
-        "images/2025/02/event_image_02_07_06.png"
-      ]
-    },
-    {
-      "day": 12,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 13,
-      "event": "몬스터 헌터: 월드",
-      "quote": "",
-      "image": "images/2025/02/event_image_02_08.png",
-      "youtubeLink": "https://www.youtube.com/embed/8GEGI1wrLtU",
-      "additionalImages": [
-        "images/2025/02/event_image_02_08_01.png",
-        "images/2025/02/event_image_02_08_02.png",
-        "images/2025/02/event_image_02_08_03.png",
-        "images/2025/02/event_image_02_08_04.png",
-        "images/2025/02/event_image_02_08_05.png",
-        "images/2025/02/event_image_02_08_06.png",
-        "images/2025/02/event_image_02_08_07.png",
-        "images/2025/02/event_image_02_08_08.png",
-        "images/2025/02/event_image_02_08_09.png",
-        "images/2025/02/event_image_02_08_10.png",
-        "images/2025/02/event_image_02_08_11.png",
-        "images/2025/02/event_image_02_08_12.png",
-        "images/2025/02/event_image_02_08_13.png"
-      ]
-    },
-    {
-      "day": 14,
-      "event": "커버곡 공개 마음예보",
-      "quote": "커버곡 공개 마음예보 & 노래방송",
-      "image": "images/2025/02/event_image_02_09.webp",
-      "youtubeLink": "https://www.youtube.com/embed/5QoPQXhaZkE",
-      "additionalImages": [
-        "images/2025/02/event_image_02_09_01.png",
-        "images/2025/02/event_image_02_09_02.png",
-        "images/2025/02/event_image_02_09_03.png",
-        "images/2025/02/event_image_02_09_04.png",
-        "images/2025/02/event_image_02_09_05.png",
-        "images/2025/02/event_image_02_09_06.png",
-        "images/2025/02/event_image_02_09_07.png",
-        "images/2025/02/event_image_02_09_08.png",
-        "images/2025/02/event_image_02_09_09.png",
-        "images/2025/02/event_image_02_09_10.png",
-        "images/2025/02/event_image_02_09_11.png",
-        "images/2025/02/event_image_02_09_12.png",
-        "images/2025/02/event_image_02_09_13.png"
-      ]
-    },
-    {
-      "day": 15,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 16,
-      "event": "마인크래프트 스텔라이브 서버",
-      "quote": "1일차",
-      "image": "images/2025/02/event_image_02_10.png",
-      "youtubeLink": "https://www.youtube.com/embed/DSttzl0TBHw",
-      "additionalImages": [
-        "images/2025/02/event_image_02_10_01.png",
-        "images/2025/02/event_image_02_10_02.png",
-        "images/2025/02/event_image_02_10_03.png",
-        "images/2025/02/event_image_02_10_04.png",
-        "images/2025/02/event_image_02_10_05.png",
-        "images/2025/02/event_image_02_10_06.png",
-        "images/2025/02/event_image_02_10_07.png",
-        "images/2025/02/event_image_02_10_08.png"
-      ]
-    },
-    {
-      "day": 17,
-      "event": "마인크래프트 스텔라이브 서버",
-      "quote": "2일차",
-      "image": "images/2025/02/event_image_02_11.png",
-      "youtubeLink": "https://www.youtube.com/embed/MVfYGAsQd6I",
-      "additionalImages": [
-        "images/2025/02/event_image_02_11_01.png",
-        "images/2025/02/event_image_02_11_02.png",
-        "images/2025/02/event_image_02_11_03.png",
-        "images/2025/02/event_image_02_11_04.png",
-        "images/2025/02/event_image_02_11_05.png",
-        "images/2025/02/event_image_02_11_06.png"
-      ]
-    },
-    {
-      "day": 18,
-      "event": "마인크래프트 스텔라이브 서버",
-      "quote": "3일차",
-      "image": "images/2025/02/event_image_02_12.png",
-      "youtubeLink": "https://www.youtube.com/embed/JCYC3LPEFRk",
-      "additionalImages": [
-        "images/2025/02/event_image_02_12_01.png",
-        "images/2025/02/event_image_02_12_02.png",
-        "images/2025/02/event_image_02_12_03.png",
-        "images/2025/02/event_image_02_12_04.png",
-        "images/2025/02/event_image_02_12_05.png",
-        "images/2025/02/event_image_02_12_06.png",
-        "images/2025/02/event_image_02_12_07.png",
-        "images/2025/02/event_image_02_12_08.png",
-        "images/2025/02/event_image_02_12_09.png",
-        "images/2025/02/event_image_02_12_10.png",
-        "images/2025/02/event_image_02_12_11.png",
-        "images/2025/02/event_image_02_12_12.png",
-        "images/2025/02/event_image_02_12_13.png",
-        "images/2025/02/event_image_02_12_14.png",
-        "images/2025/02/event_image_02_12_15.png",
-        "images/2025/02/event_image_02_12_16.png"
-      ]
-    },
-    {
-      "day": 19,
-      "event": "마인크래프트 스텔라이브 서버",
-      "quote": "4일차 & 무한도전 가요제 같이보기",
-      "image": "images/2025/02/event_image_02_13.png",
-      "youtubeLink": "https://www.youtube.com/embed/wCAw5YSxP1A",
-      "youtubeLinks": [
-        "https://www.youtube.com/embed/wCAw5YSxP1A",
-        "https://www.youtube.com/embed/3F_8kMkAjSc"
-      ],
-      "additionalImages": [
-        "images/2025/02/event_image_02_13_01.png",
-        "images/2025/02/event_image_02_13_02.png",
-        "images/2025/02/event_image_02_13_03.png",
-        "images/2025/02/event_image_02_13_04.png",
-        "images/2025/02/event_image_02_13_05.png",
-        "images/2025/02/event_image_02_13_06.png",
-        "images/2025/02/event_image_02_13_07.png",
-        "images/2025/02/event_image_02_13_08.png",
-        "images/2025/02/event_image_02_13_09.png"
-      ]
-    },
-    {
-      "day": 20,
-      "event": "휴방중 잠깐 커버곡 공개!",
-      "quote": "Beyond the way / [하나코 나나 x 유즈하 리코 x 아오쿠모 린] COVER",
-      "image": "images/2025/02/event_image_02_14.webp",
-      "youtubeLink": "https://www.youtube.com/embed/SbDWmGUmRb4",
-      "additionalImages": [
-        "images/2025/02/event_image_02_14_01.png",
-        "images/2025/02/event_image_02_14_02.png",
-        "images/2025/02/event_image_02_14_03.png",
-        "images/2025/02/event_image_02_14_04.png",
-        "images/2025/02/event_image_02_14_05.png",
-        "images/2025/02/event_image_02_14_06.png"
-      ]
-    },
-    {
-      "day": 21,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 22,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 23,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 24,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 25,
-      "event": "마인크래프트 스텔라이브 서버",
-      "quote": "5일차 & 엔더드래곤 토벌!",
-      "image": "images/2025/02/event_image_02_15.png",
-      "youtubeLink": "https://www.youtube.com/embed/X3-ByDgxU6I",
-      "additionalImages": [
-        "images/2025/02/event_image_02_15_01.png",
-        "images/2025/02/event_image_02_15_02.png",
-        "images/2025/02/event_image_02_15_03.png",
-        "images/2025/02/event_image_02_15_04.png",
-        "images/2025/02/event_image_02_15_05.png",
-        "images/2025/02/event_image_02_15_06.png",
-        "images/2025/02/event_image_02_15_07.png",
-        "images/2025/02/event_image_02_15_08.png",
-        "images/2025/02/event_image_02_15_09.png",
-        "images/2025/02/event_image_02_15_10.png",
-        "images/2025/02/event_image_02_15_11.png",
-        "images/2025/02/event_image_02_15_12.png",
-        "images/2025/02/event_image_02_15_13.png",
-        "images/2025/02/event_image_02_15_14.png",
-        "images/2025/02/event_image_02_15_15.png",
-        "images/2025/02/event_image_02_15_16.png"
-      ]
-    },
-    {
-      "day": 26,
-      "event": "마인크래프트 스텔라이브 서버",
-      "quote": "6일차 & 다크문라이트치코아부나이 1세",
-      "image": "images/2025/02/event_image_02_16.png",
-      "youtubeLink": "https://www.youtube.com/embed/tqLaj9DONiY",
-      "additionalImages": [
-        "images/2025/02/event_image_02_16_01.png",
-        "images/2025/02/event_image_02_16_02.png",
-        "images/2025/02/event_image_02_16_03.png",
-        "images/2025/02/event_image_02_16_04.png",
-        "images/2025/02/event_image_02_16_05.png",
-        "images/2025/02/event_image_02_16_06.png",
-        "images/2025/02/event_image_02_16_07.png"
-      ]
-    },
-    {
-      "day": 27,
-      "event": "마인크래프트 스텔라이브 서버",
-      "quote": "7일차 && 수선책 획득!",
-      "image": "images/2025/02/event_image_02_17.png",
-      "youtubeLink": "https://www.youtube.com/embed/JUqZkxGozqE",
-      "additionalImages": [
-        "images/2025/02/event_image_02_17_01.png",
-        "images/2025/02/event_image_02_17_02.png",
-        "images/2025/02/event_image_02_17_03.png",
-        "images/2025/02/event_image_02_17_04.png",
-        "images/2025/02/event_image_02_17_05.png",
-        "images/2025/02/event_image_02_17_06.png",
-        "images/2025/02/event_image_02_17_07.png",
-        "images/2025/02/event_image_02_17_08.png",
-        "images/2025/02/event_image_02_17_09.png",
-        "images/2025/02/event_image_02_17_10.png",
-        "images/2025/02/event_image_02_17_11.png",
-        "images/2025/02/event_image_02_17_12.png"
-      ]
-    },
-    {
-      "day": 28,
-      "event": "몬스터헌터 와일즈",
-      "quote": "클리셰 몬스터헌터 와일즈 파티!",
-      "image": "images/2025/02/event_image_02_18.png",
-      "youtubeLink": "https://www.youtube.com/embed/EEekZkqpqK4",
-      "additionalImages": [
-        "images/2025/02/event_image_02_18_01.png",
-        "images/2025/02/event_image_02_18_02.png",
-        "images/2025/02/event_image_02_18_03.png",
-        "images/2025/02/event_image_02_18_04.png",
-        "images/2025/02/event_image_02_18_05.png",
-        "images/2025/02/event_image_02_18_06.png",
-        "images/2025/02/event_image_02_18_07.png",
-        "images/2025/02/event_image_02_18_08.png",
-        "images/2025/02/event_image_02_18_09.png",
-        "images/2025/02/event_image_02_18_10.png"
-      ]
-    }
-  ],
-  "mar": [
-    {
-      "day": 1,
-      "event": "감자바쓰",
-      "quote": "강지 + 부키 타비 린 리코 | 유튜브 10만!!",
-      "image": "images/2025/03/event_image_03_01.png",
-      "youtubeLink": "https://www.youtube.com/embed/bVTaaIgyl8E",
-      "additionalImages": [
-        "images/2025/03/event_image_03_01_01.png",
-        "images/2025/03/event_image_03_01_02.png",
-        "images/2025/03/event_image_03_01_03.png",
-        "images/2025/03/event_image_03_01_04.png",
-        "images/2025/03/event_image_03_01_05.png",
-        "images/2025/03/event_image_03_01_06.png",
-        "images/2025/03/event_image_03_01_07.png"
-      ]
-    },
-    {
-      "day": 2,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 3,
-      "event": "Digging a hole",
-      "quote": "스텔마크",
-      "image": "images/2025/03/event_image_03_02.png",
-      "youtubeLink": "https://www.youtube.com/embed/aw3gOScG86w",
-      "additionalImages": [
-        "images/2025/03/event_image_03_02_01.png",
-        "images/2025/03/event_image_03_02_02.png",
-        "images/2025/03/event_image_03_02_03.png",
-        "images/2025/03/event_image_03_02_04.png",
-        "images/2025/03/event_image_03_02_05.png",
-        "images/2025/03/event_image_03_02_06.png",
-        "images/2025/03/event_image_03_02_07.png",
-        "images/2025/03/event_image_03_02_08.png",
-        "images/2025/03/event_image_03_02_09.png",
-        "images/2025/03/event_image_03_02_10.png",
-        "images/2025/03/event_image_03_02_11.png"
-      ]
-    },
-    {
-      "day": 4,
-      "event": "몬스터헌터 와일즈",
-      "quote": "몬스터헌터 와일즈",
-      "image": "images/2025/03/event_image_03_03.png",
-      "youtubeLink": "https://www.youtube.com/embed/hqOXNto2Wxs",
-      "additionalImages": [
-        "images/2025/03/event_image_03_03_01.png",
-        "images/2025/03/event_image_03_03_02.png",
-        "images/2025/03/event_image_03_03_03.png",
-        "images/2025/03/event_image_03_03_04.png",
-        "images/2025/03/event_image_03_03_05.png",
-        "images/2025/03/event_image_03_03_06.png",
-        "images/2025/03/event_image_03_03_07.png",
-        "images/2025/03/event_image_03_03_08.png",
-        "images/2025/03/event_image_03_03_09.png",
-        "images/2025/03/event_image_03_03_10.png",
-        "images/2025/03/event_image_03_03_11.png",
-        "images/2025/03/event_image_03_03_12.png",
-        "images/2025/03/event_image_03_03_13.png",
-        "images/2025/03/event_image_03_03_14.png",
-        "images/2025/03/event_image_03_03_15.png"
-      ]
-    },
-    {
-      "day": 5,
-      "event": "몬스터헌터 와일즈",
-      "quote": "몬스터헌터 와일즈",
-      "image": "images/2025/03/event_image_03_04.png",
-      "youtubeLink": "https://www.youtube.com/embed/rKlviEmxzrc",
-      "additionalImages": [
-        "images/2025/03/event_image_03_04_01.png",
-        "images/2025/03/event_image_03_04_02.png",
-        "images/2025/03/event_image_03_04_03.png",
-        "images/2025/03/event_image_03_04_04.png",
-        "images/2025/03/event_image_03_04_05.png",
-        "images/2025/03/event_image_03_04_06.png",
-        "images/2025/03/event_image_03_04_07.png",
-        "images/2025/03/event_image_03_04_08.png",
-        "images/2025/03/event_image_03_04_09.png",
-        "images/2025/03/event_image_03_04_10.png",
-        "images/2025/03/event_image_03_04_11.png",
-        "images/2025/03/event_image_03_04_12.png"
-      ]
-    },
-    {
-      "day": 6,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 7,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 8,
-      "event": "좋은커피 위대한 커피",
-      "quote": "커피 게임 + 카페탐방",
-      "image": "images/2025/03/event_image_03_05.png",
-      "youtubeLink": "https://www.youtube.com/embed/PVLDxPdXpw4",
-      "additionalImages": [
-        "images/2025/03/event_image_03_05_01.png",
-        "images/2025/03/event_image_03_05_02.png",
-        "images/2025/03/event_image_03_05_03.png",
-        "images/2025/03/event_image_03_05_04.png",
-        "images/2025/03/event_image_03_05_05.png",
-        "images/2025/03/event_image_03_05_06.png",
-        "images/2025/03/event_image_03_05_07.png",
-        "images/2025/03/event_image_03_05_08.png",
-        "images/2025/03/event_image_03_05_09.png",
-        "images/2025/03/event_image_03_05_10.png",
-        "images/2025/03/event_image_03_05_11.png",
-        "images/2025/03/event_image_03_05_12.png",
-        "images/2025/03/event_image_03_05_13.png",
-        "images/2025/03/event_image_03_05_14.png",
-        "images/2025/03/event_image_03_05_15.png",
-        "images/2025/03/event_image_03_05_16.png",
-        "images/2025/03/event_image_03_05_17.png",
-        "images/2025/03/event_image_03_05_18.png"
-      ]
-    },
-    {
-      "day": 9,
-      "event": "무한도전 같이보기",
-      "quote": "",
-      "image": "images/2025/03/event_image_03_06.png",
-      "additionalImages": [
-        "images/2025/03/event_image_03_06_01.png",
-        "images/2025/03/event_image_03_06_02.png",
-        "images/2025/03/event_image_03_06_03.png",
-        "images/2025/03/event_image_03_06_04.png",
-        "images/2025/03/event_image_03_06_05.png",
-        "images/2025/03/event_image_03_06_06.png",
-        "images/2025/03/event_image_03_06_07.png",
-        "images/2025/03/event_image_03_06_08.png",
-        "images/2025/03/event_image_03_06_09.png",
-        "images/2025/03/event_image_03_06_10.png",
-        "images/2025/03/event_image_03_06_11.png",
-        "images/2025/03/event_image_03_06_12.png"
-      ]
-    },
-    {
-      "day": 10,
-      "event": "리코 바니걸 그리기",
-      "quote": "점프킹 내기",
-      "image": "images/2025/03/event_image_03_07.png",
-      "youtubeLink": "https://www.youtube.com/embed/BZelKABy6OA",
-      "additionalImages": [
-        "images/2025/03/event_image_03_07_01.png",
-        "images/2025/03/event_image_03_07_02.png",
-        "images/2025/03/event_image_03_07_03.png",
-        "images/2025/03/event_image_03_07_04.png",
-        "images/2025/03/event_image_03_07_05.png",
-        "images/2025/03/event_image_03_07_06.png",
-        "images/2025/03/event_image_03_07_07.png",
-        "images/2025/03/event_image_03_07_08.png",
-        "images/2025/03/event_image_03_07_09.png",
-        "images/2025/03/event_image_03_07_10.png"
-      ]
-    },
-    {
-      "day": 11,
-      "event": "커버곡 공개 특별한 게스트와 합방🍀 [용사님의 듀엣 모험] ",
-      "quote": "스텔라이브 마크 오랜만에 접속하는 스텔 마크",
-      "image": "images/2025/03/event_image_03_08.webp",
-      "youtubeLink": "https://www.youtube.com/embed/XNhzQ4McHlg",
-      "youtubeLinks": [
-        "https://www.youtube.com/embed/XNhzQ4McHlg",
-        "https://www.youtube.com/embed/kGJly9zggCo"
-      ],
-      "additionalImages": [
-        "images/2025/03/event_image_03_08_01.png",
-        "images/2025/03/event_image_03_08_02.png",
-        "images/2025/03/event_image_03_08_03.png",
-        "images/2025/03/event_image_03_08_04.png",
-        "images/2025/03/event_image_03_08_05.png",
-        "images/2025/03/event_image_03_08_06.png",
-        "images/2025/03/event_image_03_08_07.png",
-        "images/2025/03/event_image_03_08_08.png",
-        "images/2025/03/event_image_03_08_09.png",
-        "images/2025/03/event_image_03_08_10.png",
-        "images/2025/03/event_image_03_08_11.png",
-        "images/2025/03/event_image_03_08_12.png",
-        "images/2025/03/event_image_03_08_13.png",
-        "images/2025/03/event_image_03_08_14.png",
-        "images/2025/03/event_image_03_08_15.png"
-      ]
-    },
-    {
-      "day": 12,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 13,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 14,
-      "event": "배틀그라운드 스텔라이브 3:3 대전!!",
-      "quote": "",
-      "image": "images/2025/03/event_image_03_09.png",
-      "youtubeLink": "https://www.youtube.com/embed/wjoJs83uhko",
-      "additionalImages": [
-        "images/2025/03/event_image_03_09_01.png",
-        "images/2025/03/event_image_03_09_02.png",
-        "images/2025/03/event_image_03_09_03.png",
-        "images/2025/03/event_image_03_09_04.png",
-        "images/2025/03/event_image_03_09_05.png",
-        "images/2025/03/event_image_03_09_06.png",
-        "images/2025/03/event_image_03_09_07.png",
-        "images/2025/03/event_image_03_09_08.png",
-        "images/2025/03/event_image_03_09_09.png",
-        "images/2025/03/event_image_03_09_10.png"
-      ]
-    },
-    {
-      "day": 15,
-      "event": "맛깔나는 기습 노래방!!",
-      "quote": "",
-      "image": "images/2025/03/event_image_03_10.png",
-      "youtubeLink": "https://www.youtube.com/embed/9skOq-2519M",
-      "additionalImages": [
-        "images/2025/03/event_image_03_10_01.png",
-        "images/2025/03/event_image_03_10_02.png",
-        "images/2025/03/event_image_03_10_03.png",
-        "images/2025/03/event_image_03_10_04.png",
-        "images/2025/03/event_image_03_10_05.png",
-        "images/2025/03/event_image_03_10_06.png",
-        "images/2025/03/event_image_03_10_07.png"
-      ]
-    },
-    {
-      "day": 16,
-      "event": "젠레스 존 제로 한 번 먹어보기!!",
-      "quote": "",
-      "image": "images/2025/03/event_image_03_11.png",
-      "youtubeLink": "https://www.youtube.com/embed/VZ4AUoOjNXQ",
-      "additionalImages": [
-        "images/2025/03/event_image_03_11_01.png",
-        "images/2025/03/event_image_03_11_02.png",
-        "images/2025/03/event_image_03_11_03.png",
-        "images/2025/03/event_image_03_11_04.png",
-        "images/2025/03/event_image_03_11_05.png",
-        "images/2025/03/event_image_03_11_06.png",
-        "images/2025/03/event_image_03_11_07.png",
-        "images/2025/03/event_image_03_11_08.png"
-      ]
-    },
-    {
-      "day": 17,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 18,
-      "event": "부키와 러스트 공부!! | 발로란트",
-      "quote": "",
-      "image": "images/2025/03/event_image_03_12.png",
-      "youtubeLink": "https://www.youtube.com/embed/sLwq3pDI8js",
-      "additionalImages": [
-        "images/2025/03/event_image_03_12_01.png",
-        "images/2025/03/event_image_03_12_02.png",
-        "images/2025/03/event_image_03_12_03.png",
-        "images/2025/03/event_image_03_12_04.png",
-        "images/2025/03/event_image_03_12_05.png",
-        "images/2025/03/event_image_03_12_06.png"
-      ]
-    },
-    {
-      "day": 19,
-      "event": "용사 본업하기!! 던그리드",
-      "quote": "",
-      "image": "images/2025/03/event_image_03_13.png",
-      "youtubeLink": "https://www.youtube.com/embed/yUBJXKs9e_0",
-      "additionalImages": [
-        "images/2025/03/event_image_03_13_01.png",
-        "images/2025/03/event_image_03_13_02.png",
-        "images/2025/03/event_image_03_13_03.png",
-        "images/2025/03/event_image_03_13_04.png",
-        "images/2025/03/event_image_03_13_05.png",
-        "images/2025/03/event_image_03_13_06.png",
-        "images/2025/03/event_image_03_13_07.png",
-        "images/2025/03/event_image_03_13_08.png",
-        "images/2025/03/event_image_03_13_09.png"
-      ]
-    },
-    {
-      "day": 20,
-      "event": "용사의 첫 러스트 서버 입성!",
-      "quote": "",
-      "image": "images/2025/03/event_image_03_14.png",
-      "youtubeLink": "https://www.youtube.com/embed/gaMfu-vRuug",
-      "additionalImages": [
-        "images/2025/03/event_image_03_14_01.png",
-        "images/2025/03/event_image_03_14_02.png",
-        "images/2025/03/event_image_03_14_03.png",
-        "images/2025/03/event_image_03_14_04.png",
-        "images/2025/03/event_image_03_14_05.png",
-        "images/2025/03/event_image_03_14_06.png",
-        "images/2025/03/event_image_03_14_07.png",
-        "images/2025/03/event_image_03_14_08.png",
-        "images/2025/03/event_image_03_14_09.png",
-        "images/2025/03/event_image_03_14_10.png"
-      ]
-    },
-    {
-      "day": 21,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 22,
-      "event": "카페 탐방 & 중세 러스트 마지막",
-      "quote": "",
-      "image": "images/2025/03/event_image_03_15.png",
-      "youtubeLink": "https://www.youtube.com/embed/2e2v25x79CU",
-      "additionalImages": [
-        "images/2025/03/event_image_03_15_01.png",
-        "images/2025/03/event_image_03_15_02.png",
-        "images/2025/03/event_image_03_15_03.png",
-        "images/2025/03/event_image_03_15_04.png",
-        "images/2025/03/event_image_03_15_05.png",
-        "images/2025/03/event_image_03_15_06.png",
-        "images/2025/03/event_image_03_15_07.png",
-        "images/2025/03/event_image_03_15_08.png",
-        "images/2025/03/event_image_03_15_09.png",
-        "images/2025/03/event_image_03_15_10.png",
-        "images/2025/03/event_image_03_15_11.png",
-        "images/2025/03/event_image_03_15_12.png",
-        "images/2025/03/event_image_03_15_13.png",
-        "images/2025/03/event_image_03_15_14.png",
-        "images/2025/03/event_image_03_15_15.png"
-      ]
-    },
-    {
-      "day": 23,
-      "event": "러스트 스트리머 서버 : 바닐라서버",
-      "quote": "",
-      "image": "images/2025/03/event_image_03_16.png",
-      "youtubeLink": "https://www.youtube.com/embed/9f8TG11pGBI",
-      "additionalImages": [
-        "images/2025/03/event_image_03_16_01.png",
-        "images/2025/03/event_image_03_16_02.png",
-        "images/2025/03/event_image_03_16_03.png",
-        "images/2025/03/event_image_03_16_04.png",
-        "images/2025/03/event_image_03_16_05.png",
-        "images/2025/03/event_image_03_16_06.png",
-        "images/2025/03/event_image_03_16_07.png",
-        "images/2025/03/event_image_03_16_08.png",
-        "images/2025/03/event_image_03_16_09.png",
-        "images/2025/03/event_image_03_16_10.png",
-        "images/2025/03/event_image_03_16_11.png",
-        "images/2025/03/event_image_03_16_12.png",
-        "images/2025/03/event_image_03_16_13.png",
-        "images/2025/03/event_image_03_16_14.png",
-        "images/2025/03/event_image_03_16_15.png"
-      ]
-    },
-    {
-      "day": 24,
-      "event": "러스트 스트리머 서버 : 바닐라서버",
-      "quote": "",
-      "image": "images/2025/03/event_image_03_17.png",
-      "youtubeLink": "https://www.youtube.com/embed/5zy-MOh_dEg",
-      "additionalImages": [
-        "images/2025/03/event_image_03_17_01.png",
-        "images/2025/03/event_image_03_17_02.png",
-        "images/2025/03/event_image_03_17_03.png",
-        "images/2025/03/event_image_03_17_04.png",
-        "images/2025/03/event_image_03_17_05.png",
-        "images/2025/03/event_image_03_17_06.png",
-        "images/2025/03/event_image_03_17_07.png",
-        "images/2025/03/event_image_03_17_08.png",
-        "images/2025/03/event_image_03_17_09.png",
-        "images/2025/03/event_image_03_17_10.png",
-        "images/2025/03/event_image_03_17_11.png"
-      ]
-    },
-    {
-      "day": 25,
-      "event": "러스트 스트리머 서버 : 바닐라서버",
-      "quote": "영웅호걸의 시간",
-      "image": "images/2025/03/event_image_03_18.png",
-      "youtubeLink": "https://www.youtube.com/embed/iSSG2A_8TXE",
-      "additionalImages": [
-        "images/2025/03/event_image_03_18_01.png",
-        "images/2025/03/event_image_03_18_02.png",
-        "images/2025/03/event_image_03_18_03.png",
-        "images/2025/03/event_image_03_18_04.png",
-        "images/2025/03/event_image_03_18_05.png",
-        "images/2025/03/event_image_03_18_06.png",
-        "images/2025/03/event_image_03_18_07.png",
-        "images/2025/03/event_image_03_18_08.png"
-      ]
-    },
-    {
-      "day": 26,
-      "event": "러스트 스트리머 서버 : 바닐라서버",
-      "quote": "러스트 마지막날!",
-      "image": "images/2025/03/event_image_03_19.png",
-      "youtubeLink": "https://www.youtube.com/embed/bA3-pcIW0A8",
-      "additionalImages": [
-        "images/2025/03/event_image_03_19_01.png",
-        "images/2025/03/event_image_03_19_02.png",
-        "images/2025/03/event_image_03_19_03.png",
-        "images/2025/03/event_image_03_19_04.png",
-        "images/2025/03/event_image_03_19_05.png",
-        "images/2025/03/event_image_03_19_06.png",
-        "images/2025/03/event_image_03_19_07.png",
-        "images/2025/03/event_image_03_19_08.png",
-        "images/2025/03/event_image_03_19_09.png",
-        "images/2025/03/event_image_03_19_10.png",
-        "images/2025/03/event_image_03_19_11.png",
-        "images/2025/03/event_image_03_19_12.png",
-        "images/2025/03/event_image_03_19_13.png"
-      ]
-    },
-    {
-      "day": 27,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 28,
-      "event": "스텔라이브 팀 ✨ <우리은행과 함께하는 샌드박스 MCN 대전>",
-      "quote": "피코파코2",
-      "image": "images/2025/03/event_image_03_20.png",
-      "youtubeLink": "https://www.youtube.com/embed/cwhsjcWwA08",
-      "additionalImages": [
-        "images/2025/03/event_image_03_20_01.png",
-        "images/2025/03/event_image_03_20_02.png",
-        "images/2025/03/event_image_03_20_03.png",
-        "images/2025/03/event_image_03_20_04.png",
-        "images/2025/03/event_image_03_20_05.png",
-        "images/2025/03/event_image_03_20_06.png",
-        "images/2025/03/event_image_03_20_07.png",
-        "images/2025/03/event_image_03_20_08.png",
-        "images/2025/03/event_image_03_20_09.png",
-        "images/2025/03/event_image_03_20_10.png"
-      ]
-    },
-    {
-      "day": 29,
-      "event": "시부키 VS 리코 [광고]",
-      "quote": "월드 오브 탱크",
-      "image": "images/2025/03/event_image_03_21.png",
-      "youtubeLink": "https://www.youtube.com/embed/jm3kTMW4luU",
-      "additionalImages": [
-        "images/2025/03/event_image_03_21_01.png",
-        "images/2025/03/event_image_03_21_02.png",
-        "images/2025/03/event_image_03_21_03.png",
-        "images/2025/03/event_image_03_21_04.png",
-        "images/2025/03/event_image_03_21_05.png",
-        "images/2025/03/event_image_03_21_06.png",
-        "images/2025/03/event_image_03_21_07.png",
-        "images/2025/03/event_image_03_21_08.png"
-      ]
-    },
-    {
-      "day": 30,
-      "event": "클리셰 4인방의 공겜⭐",
-      "quote": "R.E.P.O.",
-      "image": "images/2025/03/event_image_03_22.png",
-      "youtubeLink": "https://www.youtube.com/embed/GAvUkTkP7BA",
-      "additionalImages": [
-        "images/2025/03/event_image_03_22_01.png",
-        "images/2025/03/event_image_03_22_02.png",
-        "images/2025/03/event_image_03_22_03.png",
-        "images/2025/03/event_image_03_22_04.png",
-        "images/2025/03/event_image_03_22_05.png",
-        "images/2025/03/event_image_03_22_06.png",
-        "images/2025/03/event_image_03_22_07.png",
-        "images/2025/03/event_image_03_22_08.png",
-        "images/2025/03/event_image_03_22_09.png",
-        "images/2025/03/event_image_03_22_10.png",
-        "images/2025/03/event_image_03_22_11.png",
-        "images/2025/03/event_image_03_22_12.png",
-        "images/2025/03/event_image_03_22_13.png"
-      ]
-    },
-    {
-      "day": 31,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    }
-  ],
-  "apr": [
-    {
-      "day": 1,
-      "event": "스틸라이브 NEWS",
-      "quote": "스틸라이브 NEWS & 인조이",
-      "image": "images/2025/04/event_image_04_01.png",
-      "youtubeLink": "https://www.youtube.com/embed/BOteIruMcns",
-      "youtubeLinks": [
-        "https://www.youtube.com/embed/BOteIruMcns",
-        "https://www.youtube.com/embed/qlxGZMlmprU"
-      ],
-      "additionalImages": [
-        "images/2025/04/event_image_04_01_01.png",
-        "images/2025/04/event_image_04_01_02.png",
-        "images/2025/04/event_image_04_01_03.png",
-        "images/2025/04/event_image_04_01_04.png",
-        "images/2025/04/event_image_04_01_05.png",
-        "images/2025/04/event_image_04_01_06.png",
-        "images/2025/04/event_image_04_01_07.png",
-        "images/2025/04/event_image_04_01_08.png",
-        "images/2025/04/event_image_04_01_09.png",
-        "images/2025/04/event_image_04_01_10.png",
-        "images/2025/04/event_image_04_01_11.png"
-      ]
-    },
-    {
-      "day": 2,
-      "event": "빨강 혹은 파랑",
-      "quote": "인조이 결혼 과 출산과 이혼",
-      "image": "images/2025/04/event_image_04_02.png",
-      "youtubeLink": "https://www.youtube.com/embed/dM-tV76_5FI",
-      "additionalImages": [
-        "images/2025/04/event_image_04_02_01.png",
-        "images/2025/04/event_image_04_02_02.png",
-        "images/2025/04/event_image_04_02_03.png",
-        "images/2025/04/event_image_04_02_04.png",
-        "images/2025/04/event_image_04_02_05.png",
-        "images/2025/04/event_image_04_02_06.png",
-        "images/2025/04/event_image_04_02_07.png",
-        "images/2025/04/event_image_04_02_08.png",
-        "images/2025/04/event_image_04_02_09.png"
-      ]
-    },
-    {
-      "day": 3,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 4,
-      "event": "리코의 노래방송",
-      "quote": "",
-      "image": "images/2025/04/event_image_04_03.png",
-      "youtubeLink": "https://www.youtube.com/embed/1vigosho-04",
-      "additionalImages": [
-        "images/2025/04/event_image_04_03_01.png",
-        "images/2025/04/event_image_04_03_02.png",
-        "images/2025/04/event_image_04_03_03.png"
-      ]
-    },
-    {
-      "day": 5,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 6,
-      "event": "타비선배와 스플릿픽션",
-      "quote": "",
-      "image": "images/2025/04/event_image_04_04.png",
-      "youtubeLink": "https://www.youtube.com/embed/utu-FsDw36w",
-      "additionalImages": [
-        "images/2025/04/event_image_04_04_01.png",
-        "images/2025/04/event_image_04_04_02.png",
-        "images/2025/04/event_image_04_04_03.png",
-        "images/2025/04/event_image_04_04_04.png",
-        "images/2025/04/event_image_04_04_05.png",
-        "images/2025/04/event_image_04_04_06.png",
-        "images/2025/04/event_image_04_04_07.png",
-        "images/2025/04/event_image_04_04_08.png",
-        "images/2025/04/event_image_04_04_09.png",
-        "images/2025/04/event_image_04_04_10.png",
-        "images/2025/04/event_image_04_04_11.png",
-        "images/2025/04/event_image_04_04_12.png",
-        "images/2025/04/event_image_04_04_13.png",
-        "images/2025/04/event_image_04_04_14.png",
-        "images/2025/04/event_image_04_04_15.png",
-        "images/2025/04/event_image_04_04_16.png",
-        "images/2025/04/event_image_04_04_17.png",
-        "images/2025/04/event_image_04_04_18.png",
-        "images/2025/04/event_image_04_04_19.png",
-        "images/2025/04/event_image_04_04_20.png"
-      ]
-    },
-    {
-      "day": 7,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 8,
-      "event": "운빨용사의 모비노기",
-      "quote": "건축학개론 같이보기 & 모바일 마비노기",
-      "image": "images/2025/04/event_image_04_05.png",
-      "youtubeLink": "https://www.youtube.com/embed/mgy5zgoCsRQ",
-      "additionalImages": [
-        "images/2025/04/event_image_04_05_01.png",
-        "images/2025/04/event_image_04_05_02.png",
-        "images/2025/04/event_image_04_05_03.png",
-        "images/2025/04/event_image_04_05_04.png",
-        "images/2025/04/event_image_04_05_05.png",
-        "images/2025/04/event_image_04_05_06.png",
-        "images/2025/04/event_image_04_05_07.png",
-        "images/2025/04/event_image_04_05_08.png"
-      ]
-    },
-    {
-      "day": 9,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 10,
-      "event": "마크 스텔섭",
-      "quote": "",
-      "image": "images/2025/04/event_image_04_06.png",
-      "youtubeLink": "https://www.youtube.com/embed/egQYKEnSpOY",
-      "additionalImages": [
-        "images/2025/04/event_image_04_06_01.png",
-        "images/2025/04/event_image_04_06_02.png",
-        "images/2025/04/event_image_04_06_03.png",
-        "images/2025/04/event_image_04_06_04.png",
-        "images/2025/04/event_image_04_06_05.png",
-        "images/2025/04/event_image_04_06_06.png"
-      ]
-    },
-    {
-      "day": 11,
-      "event": "도태용사의 모바일 마비노기",
-      "quote": "카페탐방",
-      "image": "images/2025/04/event_image_04_07.png",
-      "youtubeLink": "https://www.youtube.com/embed/-LOq4rLBjx0",
-      "additionalImages": [
-        "images/2025/04/event_image_04_07_01.png",
-        "images/2025/04/event_image_04_07_02.png",
-        "images/2025/04/event_image_04_07_03.png",
-        "images/2025/04/event_image_04_07_04.png",
-        "images/2025/04/event_image_04_07_05.png",
-        "images/2025/04/event_image_04_07_06.png",
-        "images/2025/04/event_image_04_07_07.png",
-        "images/2025/04/event_image_04_07_08.png",
-        "images/2025/04/event_image_04_07_09.png"
-      ]
-    },
-    {
-      "day": 12,
-      "event": "R.E.P.O 합방! 후열 배그",
-      "quote": "",
-      "image": "images/2025/04/event_image_04_08.png",
-      "youtubeLink": "https://www.youtube.com/embed/qMkKF-RGq2E",
-      "additionalImages": [
-        "images/2025/04/event_image_04_08_01.png",
-        "images/2025/04/event_image_04_08_02.png",
-        "images/2025/04/event_image_04_08_03.png",
-        "images/2025/04/event_image_04_08_04.png",
-        "images/2025/04/event_image_04_08_05.png",
-        "images/2025/04/event_image_04_08_06.png",
-        "images/2025/04/event_image_04_08_07.png",
-        "images/2025/04/event_image_04_08_08.png",
-        "images/2025/04/event_image_04_08_09.png",
-        "images/2025/04/event_image_04_08_10.png",
-        "images/2025/04/event_image_04_08_11.png",
-        "images/2025/04/event_image_04_08_12.png",
-        "images/2025/04/event_image_04_08_13.png"
-      ]
-    },
-    {
-      "day": 13,
-      "event": "생일 방송 & 커버곡 증표 공개",
-      "quote": "기다리고 기다려온 생일방송",
-      "image": "images/2025/04/event_image_04_09.webp",
-      "youtubeLink": "https://www.youtube.com/embed/516-rZtmcno",
-      "additionalImages": [
-        "images/2025/04/event_image_04_09_01.png",
-        "images/2025/04/event_image_04_09_02.png",
-        "images/2025/04/event_image_04_09_03.png",
-        "images/2025/04/event_image_04_09_04.png",
-        "images/2025/04/event_image_04_09_05.png",
-        "images/2025/04/event_image_04_09_06.png",
-        "images/2025/04/event_image_04_09_07.png",
-        "images/2025/04/event_image_04_09_08.png",
-        "images/2025/04/event_image_04_09_09.png",
-        "images/2025/04/event_image_04_09_10.png",
-        "images/2025/04/event_image_04_09_11.png",
-        "images/2025/04/event_image_04_09_12.png",
-        "images/2025/04/event_image_04_09_13.png",
-        "images/2025/04/event_image_04_09_14.png",
-        "images/2025/04/event_image_04_09_15.png",
-        "images/2025/04/event_image_04_09_16.png",
-        "images/2025/04/event_image_04_09_17.png",
-        "images/2025/04/event_image_04_09_18.png",
-        "images/2025/04/event_image_04_09_19.png",
-        "images/2025/04/event_image_04_09_20.png",
-        "images/2025/04/event_image_04_09_21.png",
-        "images/2025/04/event_image_04_09_22.png",
-        "images/2025/04/event_image_04_09_23.png",
-        "images/2025/04/event_image_04_09_24.png",
-        "images/2025/04/event_image_04_09_25.png",
-        "images/2025/04/event_image_04_09_26.png",
-        "images/2025/04/event_image_04_09_27.png",
-        "images/2025/04/event_image_04_09_28.png",
-        "images/2025/04/event_image_04_09_29.png",
-        "images/2025/04/event_image_04_09_30.png",
-        "images/2025/04/event_image_04_09_31.png",
-        "images/2025/04/event_image_04_09_32.png"
-      ]
-    },
-    {
-      "day": 14,
-      "event": "휴방이지만 녹화방송 올려준 방송",
-      "quote": "",
-      "image": "images/holiday_image.png",
-      "youtubeLink": "https://www.youtube.com/embed/5uhQg-PGPZA",
-      "additionalImages": [
-        "images/2025/04/event_image_04_10.png",
-        "images/2025/04/event_image_04_10_01.png",
-        "images/2025/04/event_image_04_10_02.png",
-        "images/2025/04/event_image_04_10_03.png",
-        "images/2025/04/event_image_04_10_04.png",
-        "images/2025/04/event_image_04_10_05.png",
-        "images/2025/04/event_image_04_10_06.png",
-        "images/2025/04/event_image_04_10_07.png"
-      ]
-    },
-    {
-      "day": 15,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 16,
-      "event": "카페 탐방",
-      "quote": "생일 팬아트 감상",
-      "image": "images/2025/04/event_image_04_11.png",
-      "youtubeLink": "https://www.youtube.com/embed/gdk8asnOCbU",
-      "additionalImages": [
-        "images/2025/04/event_image_04_11_01.png",
-        "images/2025/04/event_image_04_11_02.png",
-        "images/2025/04/event_image_04_11_03.png",
-        "images/2025/04/event_image_04_11_04.png",
-        "images/2025/04/event_image_04_11_05.png",
-        "images/2025/04/event_image_04_11_06.png",
-        "images/2025/04/event_image_04_11_07.png",
-        "images/2025/04/event_image_04_11_08.png",
-        "images/2025/04/event_image_04_11_09.png",
-        "images/2025/04/event_image_04_11_10.png",
-        "images/2025/04/event_image_04_11_11.png",
-        "images/2025/04/event_image_04_11_12.png",
-        "images/2025/04/event_image_04_11_13.png",
-        "images/2025/04/event_image_04_11_14.png",
-        "images/2025/04/event_image_04_11_15.png"
-      ]
-    },
-    {
-      "day": 17,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 18,
-      "event": "던그리드 후속 세피리아",
-      "quote": "세피리아",
-      "image": "images/2025/04/event_image_04_12.png",
-      "youtubeLink": "https://www.youtube.com/embed/jnJ1v1Q2Am4",
-      "additionalImages": [
-        "images/2025/04/event_image_04_12_01.png",
-        "images/2025/04/event_image_04_12_02.png",
-        "images/2025/04/event_image_04_12_03.png",
-        "images/2025/04/event_image_04_12_04.png",
-        "images/2025/04/event_image_04_12_05.png",
-        "images/2025/04/event_image_04_12_06.png",
-        "images/2025/04/event_image_04_12_07.png",
-        "images/2025/04/event_image_04_12_08.png",
-        "images/2025/04/event_image_04_12_09.png",
-        "images/2025/04/event_image_04_12_10.png"
-      ]
-    },
-    {
-      "day": 19,
-      "event": "발로란트 첫 내전!",
-      "quote": "세피리아 & 발로란트",
-      "image": "images/2025/04/event_image_04_13.png",
-      "youtubeLink": "https://www.youtube.com/embed/ZT9d7lpW3qY",
-      "additionalImages": [
-        "images/2025/04/event_image_04_13_01.png",
-        "images/2025/04/event_image_04_13_02.png",
-        "images/2025/04/event_image_04_13_03.png",
-        "images/2025/04/event_image_04_13_04.png",
-        "images/2025/04/event_image_04_13_05.png",
-        "images/2025/04/event_image_04_13_06.png",
-        "images/2025/04/event_image_04_13_07.png",
-        "images/2025/04/event_image_04_13_08.png",
-        "images/2025/04/event_image_04_13_09.png",
-        "images/2025/04/event_image_04_13_10.png",
-        "images/2025/04/event_image_04_13_11.png",
-        "images/2025/04/event_image_04_13_12.png",
-        "images/2025/04/event_image_04_13_13.png"
-      ]
-    },
-    {
-      "day": 20,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png",
-      "youtubeLink": "https://www.youtube.com/embed/gJ1N631Ji0Q"
-    },
-    {
-      "day": 21,
-      "event": "스케쥴 I 플레이",
-      "quote": "스케쥴 I 약 파는 아이돌, 기분 좋을거에요",
-      "image": "images/2025/04/event_image_04_14.png",
-      "youtubeLink": "https://www.youtube.com/embed/ndcnYqhPNn8",
-      "additionalImages": [
-        "images/2025/04/event_image_04_14_01.png",
-        "images/2025/04/event_image_04_14_02.png",
-        "images/2025/04/event_image_04_14_03.png",
-        "images/2025/04/event_image_04_14_04.png",
-        "images/2025/04/event_image_04_14_05.png",
-        "images/2025/04/event_image_04_14_06.png",
-        "images/2025/04/event_image_04_14_07.png",
-        "images/2025/04/event_image_04_14_08.png",
-        "images/2025/04/event_image_04_14_09.png"
-      ]
-    },
-    {
-      "day": 22,
-      "event": "얼불춤 내기와 마인크래프트 스텔서버",
-      "quote": "불과 얼음의 춤",
-      "image": "images/2025/04/event_image_04_15.png",
-      "youtubeLink": "https://www.youtube.com/embed/-F3ZMHdM3ZM",
-      "additionalImages": [
-        "images/2025/04/event_image_04_15_01.png",
-        "images/2025/04/event_image_04_15_02.png",
-        "images/2025/04/event_image_04_15_03.png",
-        "images/2025/04/event_image_04_15_04.png",
-        "images/2025/04/event_image_04_15_05.png",
-        "images/2025/04/event_image_04_15_06.png",
-        "images/2025/04/event_image_04_15_07.png",
-        "images/2025/04/event_image_04_15_08.png",
-        "images/2025/04/event_image_04_15_09.png",
-        "images/2025/04/event_image_04_15_10.png",
-        "images/2025/04/event_image_04_15_11.png",
-        "images/2025/04/event_image_04_15_12.png",
-        "images/2025/04/event_image_04_15_13.png"
-      ]
-    },
-    {
-      "day": 23,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 24,
-      "event": "연비니님과 함께 하는 젠레스 존 제로 광고 방송",
-      "quote": "젠레스 존 제로 | 리그 오브 레전드",
-      "image": "images/2025/04/event_image_04_16.png",
-      "youtubeLink": "https://www.youtube.com/embed/KwiupjZPffg",
-      "additionalImages": [
-        "images/2025/04/event_image_04_16_01.png",
-        "images/2025/04/event_image_04_16_02.png",
-        "images/2025/04/event_image_04_16_03.png",
-        "images/2025/04/event_image_04_16_04.png",
-        "images/2025/04/event_image_04_16_05.png",
-        "images/2025/04/event_image_04_16_06.png",
-        "images/2025/04/event_image_04_16_07.png",
-        "images/2025/04/event_image_04_16_08.png",
-        "images/2025/04/event_image_04_16_09.png",
-        "images/2025/04/event_image_04_16_10.png",
-        "images/2025/04/event_image_04_16_11.png",
-        "images/2025/04/event_image_04_16_12.png",
-        "images/2025/04/event_image_04_16_13.png",
-        "images/2025/04/event_image_04_16_14.png",
-        "images/2025/04/event_image_04_16_15.png"
-      ]
-    },
-    {
-      "day": 25,
-      "holiday": "휴방",
-      "quote": "휴방이에요!!\n\n외부일정입니댜어엉\n\n​\n\n나중에만나요오오\n\n​\n\n💚\n",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 26,
-      "event": "있잖아 있잖아 있잖아 커버곡 공개",
-      "quote": "부키와 배그 데이트 | 있잖아 있잖아 있잖아 유즈하 리코(Yuzuha Riko) x 텐코 시부키(Tenko Shibuki) cover",
-      "image": "images/2025/04/event_image_04_17.webp",
-      "youtubeLink": "https://www.youtube.com/embed/mWRwJ5UzWVQ",
-      "additionalImages": [
-        "images/2025/04/event_image_04_17_01.png",
-        "images/2025/04/event_image_04_17_02.png",
-        "images/2025/04/event_image_04_17_03.png",
-        "images/2025/04/event_image_04_17_04.png",
-        "images/2025/04/event_image_04_17_05.png",
-        "images/2025/04/event_image_04_17_06.png",
-        "images/2025/04/event_image_04_17_07.png",
-        "images/2025/04/event_image_04_17_08.png",
-        "images/2025/04/event_image_04_17_09.png",
-        "images/2025/04/event_image_04_17_10.png",
-        "images/2025/04/event_image_04_17_11.png",
-        "images/2025/04/event_image_04_17_12.png",
-        "images/2025/04/event_image_04_17_13.png",
-        "images/2025/04/event_image_04_17_14.png"
-      ]
-    },
-    {
-      "day": 27,
-      "event": "다시 돌아온 모텔 운영! Sunset Motel",
-      "quote": "Sunset Motel",
-      "image": "images/2025/04/event_image_04_18.png",
-      "youtubeLink": "https://www.youtube.com/embed/D6SdkeN_dPU",
-      "additionalImages": [
-        "images/2025/04/event_image_04_18_01.png",
-        "images/2025/04/event_image_04_18_02.png",
-        "images/2025/04/event_image_04_18_03.png",
-        "images/2025/04/event_image_04_18_04.png",
-        "images/2025/04/event_image_04_18_05.png",
-        "images/2025/04/event_image_04_18_06.png",
-        "images/2025/04/event_image_04_18_07.png",
-        "images/2025/04/event_image_04_18_08.png",
-        "images/2025/04/event_image_04_18_09.png",
-        "images/2025/04/event_image_04_18_10.png",
-        "images/2025/04/event_image_04_18_11.png",
-        "images/2025/04/event_image_04_18_12.png",
-        "images/2025/04/event_image_04_18_13.png"
-      ]
-    },
-    {
-      "day": 28,
-      "holiday": "휴방",
-      "quote": "오늘 푸욱 쉬고오\n\n내일 컨텐츠로 만나요!!\n\n​\n\n아 그리구 향수 왔움 ㅎㅎ\n\n리코가 쓰는거래~!! 꺄호!!!!!\n\n향에 대해서도 내일 같이 리뷰할테니까\n\n내일 꼭 말해주께요\n\n​\n\n치코 사랑해\n",
-      "image": "images/holiday_image.png"
-    },
-    {
-      "day": 29,
-      "event": "용사님의 듀엣 모험 2탄 메이드 아오쿠모 린",
-      "quote": "듀엣 모험 | 스텔 마크 새로운 집짓기",
-      "image": "images/2025/04/event_image_04_19.png",
-      "youtubeLink": "https://www.youtube.com/embed/E4d_ODBie0E",
-      "youtubeLinks": [
-        "https://www.youtube.com/embed/E4d_ODBie0E",
-        "https://www.youtube.com/embed/EAKEQwLoi4A"
-      ],
-      "additionalImages": [
-        "images/2025/04/event_image_04_19_01.png",
-        "images/2025/04/event_image_04_19_02.png",
-        "images/2025/04/event_image_04_19_03.png",
-        "images/2025/04/event_image_04_19_04.png",
-        "images/2025/04/event_image_04_19_05.png",
-        "images/2025/04/event_image_04_19_06.png",
-        "images/2025/04/event_image_04_19_07.png",
-        "images/2025/04/event_image_04_19_08.png",
-        "images/2025/04/event_image_04_19_09.png",
-        "images/2025/04/event_image_04_19_10.png"
-      ]
-    },
-    {
-      "day": 30,
-      "holiday": "휴방",
-      "image": "images/holiday_image.png"
-    }
-  ]
+  "jan": {
+    "event": [
+      {
+        "day": 1,
+        "event": "스텔 팰월드",
+        "quote": "",
+        "image": "images/2025/01/event_image_01_01.png",
+        "youtubeLink": "https://www.youtube.com/embed/drR8_BJfbuA",
+        "additionalImages": [
+          "images/2025/01/event_image_01_01_01.png",
+          "images/2025/01/event_image_01_01_02.png",
+          "images/2025/01/event_image_01_01_03.png",
+          "images/2025/01/event_image_01_01_04.png",
+          "images/2025/01/event_image_01_01_05.png",
+          "images/2025/01/event_image_01_01_06.png",
+          "images/2025/01/event_image_01_01_07.png",
+          "images/2025/01/event_image_01_01_08.png",
+          "images/2025/01/event_image_01_01_09.png",
+          "images/2025/01/event_image_01_01_10.png"
+        ]
+      },
+      {
+        "day": 2,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 3,
+        "event": "스텔 팰월드",
+        "quote": "",
+        "image": "images/2025/01/event_image_01_02.png",
+        "youtubeLink": "https://www.youtube.com/embed/AiD-b1HVTe0",
+        "additionalImages": [
+          "images/2025/01/event_image_01_02_01.png",
+          "images/2025/01/event_image_01_02_02.png",
+          "images/2025/01/event_image_01_02_03.png",
+          "images/2025/01/event_image_01_02_04.png",
+          "images/2025/01/event_image_01_02_05.png",
+          "images/2025/01/event_image_01_02_06.png",
+          "images/2025/01/event_image_01_02_07.png",
+          "images/2025/01/event_image_01_02_08.png",
+          "images/2025/01/event_image_01_02_09.png"
+        ]
+      },
+      {
+        "day": 4,
+        "event": "스텔 팰월드",
+        "quote": "",
+        "image": "images/2025/01/event_image_01_03.png",
+        "youtubeLink": "https://www.youtube.com/embed/v51NINdbbJA",
+        "additionalImages": [
+          "images/2025/01/event_image_01_03_01.png",
+          "images/2025/01/event_image_01_03_02.png",
+          "images/2025/01/event_image_01_03_03.png",
+          "images/2025/01/event_image_01_03_04.png",
+          "images/2025/01/event_image_01_03_05.png",
+          "images/2025/01/event_image_01_03_06.png",
+          "images/2025/01/event_image_01_03_07.png",
+          "images/2025/01/event_image_01_03_08.png"
+        ]
+      },
+      {
+        "day": 5,
+        "event": "스텔 팰월드",
+        "quote": "",
+        "image": "images/2025/01/event_image_01_04.png",
+        "youtubeLink": "https://www.youtube.com/embed/YW4Ejv5G1ho",
+        "additionalImages": [
+          "images/2025/01/event_image_01_04_01.png",
+          "images/2025/01/event_image_01_04_02.png",
+          "images/2025/01/event_image_01_04_03.png",
+          "images/2025/01/event_image_01_04_04.png"
+        ]
+      },
+      {
+        "day": 6,
+        "event": "스텔 팰월드",
+        "quote": "",
+        "image": "images/2025/01/event_image_01_05.png",
+        "youtubeLink": "https://www.youtube.com/embed/ums34WjDNqw",
+        "additionalImages": [
+          "images/2025/01/event_image_01_05_01.png",
+          "images/2025/01/event_image_01_05_02.png",
+          "images/2025/01/event_image_01_05_03.png",
+          "images/2025/01/event_image_01_05_04.png",
+          "images/2025/01/event_image_01_05_05.png",
+          "images/2025/01/event_image_01_05_06.png",
+          "images/2025/01/event_image_01_05_07.png",
+          "images/2025/01/event_image_01_05_08.png",
+          "images/2025/01/event_image_01_05_09.png"
+        ]
+      },
+      {
+        "day": 7,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 8,
+        "event": "겟투워크",
+        "quote": "",
+        "image": "images/2025/01/event_image_01_06.png",
+        "youtubeLink": "https://www.youtube.com/embed/ewImdtHqqgQ",
+        "additionalImages": [
+          "images/2025/01/event_image_01_06_01.png",
+          "images/2025/01/event_image_01_06_02.png",
+          "images/2025/01/event_image_01_06_03.png",
+          "images/2025/01/event_image_01_06_04.png",
+          "images/2025/01/event_image_01_06_05.png",
+          "images/2025/01/event_image_01_06_06.png",
+          "images/2025/01/event_image_01_06_07.png",
+          "images/2025/01/event_image_01_06_08.png",
+          "images/2025/01/event_image_01_06_09.png",
+          "images/2025/01/event_image_01_06_10.png"
+        ]
+      },
+      {
+        "day": 9,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 10,
+        "event": "커버곡 공개 꽃의 탑",
+        "quote": "",
+        "image": "images/2025/01/event_image_01_07.webp",
+        "youtubeLink": "https://www.youtube.com/embed/fuEODI_bTBQ",
+        "additionalImages": [
+          "images/2025/01/event_image_01_07_01.png",
+          "images/2025/01/event_image_01_07_02.png",
+          "images/2025/01/event_image_01_07_03.png",
+          "images/2025/01/event_image_01_07_04.png",
+          "images/2025/01/event_image_01_07_05.png",
+          "images/2025/01/event_image_01_07_06.png",
+          "images/2025/01/event_image_01_07_07.png",
+          "images/2025/01/event_image_01_07_08.png",
+          "images/2025/01/event_image_01_07_09.png"
+        ]
+      },
+      {
+        "day": 11,
+        "event": "팬게임 스텔큐어",
+        "quote": "스텔라맥스",
+        "image": "images/2025/01/event_image_01_08.png",
+        "youtubeLink": "https://www.youtube.com/embed/xBliPsIcGTo",
+        "additionalImages": [
+          "images/2025/01/event_image_01_08_01.png",
+          "images/2025/01/event_image_01_08_02.png",
+          "images/2025/01/event_image_01_08_03.png",
+          "images/2025/01/event_image_01_08_04.png",
+          "images/2025/01/event_image_01_08_05.png",
+          "images/2025/01/event_image_01_08_06.png",
+          "images/2025/01/event_image_01_08_07.png",
+          "images/2025/01/event_image_01_08_08.png",
+          "images/2025/01/event_image_01_08_09.png",
+          "images/2025/01/event_image_01_08_10.png"
+        ]
+      },
+      {
+        "day": 12,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 13,
+        "event": "커스드 디지캠",
+        "quote": "커스드 디지캠 & 데바데",
+        "image": "images/2025/01/event_image_01_09.png",
+        "youtubeLink": "https://www.youtube.com/embed/cb-tQt7VJCE",
+        "additionalImages": [
+          "images/2025/01/event_image_01_09_01.png",
+          "images/2025/01/event_image_01_09_02.png",
+          "images/2025/01/event_image_01_09_03.png",
+          "images/2025/01/event_image_01_09_04.png",
+          "images/2025/01/event_image_01_09_05.png",
+          "images/2025/01/event_image_01_09_06.png",
+          "images/2025/01/event_image_01_09_07.png"
+        ]
+      },
+      {
+        "day": 14,
+        "event": "원티드",
+        "quote": "원티드 & 배틀그라운드",
+        "image": "images/2025/01/event_image_01_10.png",
+        "youtubeLink": "https://www.youtube.com/embed/Kf2AOI1ZCwg",
+        "additionalImages": [
+          "images/2025/01/event_image_01_10_01.png",
+          "images/2025/01/event_image_01_10_02.png",
+          "images/2025/01/event_image_01_10_03.png",
+          "images/2025/01/event_image_01_10_04.png",
+          "images/2025/01/event_image_01_10_05.png",
+          "images/2025/01/event_image_01_10_06.png",
+          "images/2025/01/event_image_01_10_07.png"
+        ]
+      },
+      {
+        "day": 15,
+        "event": "마이 썸머 카",
+        "quote": "",
+        "image": "images/2025/01/event_image_01_11.png",
+        "youtubeLink": "https://www.youtube.com/embed/gE0pSCdUJ3c",
+        "additionalImages": [
+          "images/2025/01/event_image_01_11_01.png",
+          "images/2025/01/event_image_01_11_02.png",
+          "images/2025/01/event_image_01_11_03.png",
+          "images/2025/01/event_image_01_11_04.png",
+          "images/2025/01/event_image_01_11_05.png",
+          "images/2025/01/event_image_01_11_06.png",
+          "images/2025/01/event_image_01_11_07.png",
+          "images/2025/01/event_image_01_11_08.png",
+          "images/2025/01/event_image_01_11_09.png",
+          "images/2025/01/event_image_01_11_10.png",
+          "images/2025/01/event_image_01_11_11.png"
+        ]
+      },
+      {
+        "day": 16,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 17,
+        "event": "내가 만약 남자라면, 만나고싶은 스텔 멤버 | 마썸카 2편",
+        "quote": "",
+        "image": "images/2025/01/event_image_01_12.png",
+        "youtubeLink": "https://www.youtube.com/embed/VKZqlya4syE",
+        "additionalImages": [
+          "images/2025/01/event_image_01_12_01.png",
+          "images/2025/01/event_image_01_12_02.png",
+          "images/2025/01/event_image_01_12_03.png",
+          "images/2025/01/event_image_01_12_04.png",
+          "images/2025/01/event_image_01_12_05.png",
+          "images/2025/01/event_image_01_12_06.png",
+          "images/2025/01/event_image_01_12_07.png",
+          "images/2025/01/event_image_01_12_08.png",
+          "images/2025/01/event_image_01_12_09.png",
+          "images/2025/01/event_image_01_12_10.png",
+          "images/2025/01/event_image_01_12_11.png",
+          "images/2025/01/event_image_01_12_12.png",
+          "images/2025/01/event_image_01_12_13.png"
+        ]
+      },
+      {
+        "day": 18,
+        "event": "애니 OST 월드컵 256강",
+        "quote": "",
+        "image": "images/2025/01/event_image_01_13.png",
+        "chzzkLink": "https://chzzk.naver.com/video/5376116",
+        "chzzkImage": "https://nng-phinf.pstatic.net/MjAyNTAxMTlfMTI5/MDAxNzM3MjIxMTExMzQ5.BwuSRN5dyb1gRBhbwSLJECswhvENwPqLXpv8UtXqLYAg.zpntt-7fPDfi9K-D6baCEro8VUk8ZM5FYr9iBJCFKpAg.PNG/4.png?type=o500x280_blur",
+        "additionalImages": [
+          "images/2025/01/event_image_01_13_01.png",
+          "images/2025/01/event_image_01_13_02.png",
+          "images/2025/01/event_image_01_13_03.png",
+          "images/2025/01/event_image_01_13_04.png",
+          "images/2025/01/event_image_01_13_05.png",
+          "images/2025/01/event_image_01_13_06.png",
+          "images/2025/01/event_image_01_13_07.png",
+          "images/2025/01/event_image_01_13_08.png",
+          "images/2025/01/event_image_01_13_09.png",
+          "images/2025/01/event_image_01_13_10.png",
+          "images/2025/01/event_image_01_13_11.png",
+          "images/2025/01/event_image_01_13_12.png",
+          "images/2025/01/event_image_01_13_13.png",
+          "images/2025/01/event_image_01_13_14.png"
+        ]
+      },
+      {
+        "day": 19,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 20,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 21,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 22,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 23,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 24,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 25,
+        "event": "저챗 & 카페탐방",
+        "quote": "카페탐방 & 사과게임",
+        "image": "images/2025/01/event_image_01_14.png",
+        "youtubeLink": "https://www.youtube.com/embed/r2JSI-Rl4Ho",
+        "additionalImages": [
+          "images/2025/01/event_image_01_14_01.png",
+          "images/2025/01/event_image_01_14_02.png",
+          "images/2025/01/event_image_01_14_03.png",
+          "images/2025/01/event_image_01_14_04.png",
+          "images/2025/01/event_image_01_14_05.png",
+          "images/2025/01/event_image_01_14_06.png",
+          "images/2025/01/event_image_01_14_07.png",
+          "images/2025/01/event_image_01_14_08.png"
+        ]
+      },
+      {
+        "day": 26,
+        "event": "super sorry",
+        "quote": "super sorry & 사과게임 & 배틀그라운드",
+        "image": "images/2025/01/event_image_01_15.png",
+        "youtubeLink": "https://www.youtube.com/embed/BudF_tt2DkY",
+        "additionalImages": [
+          "images/2025/01/event_image_01_15_01.png",
+          "images/2025/01/event_image_01_15_02.png",
+          "images/2025/01/event_image_01_15_03.png",
+          "images/2025/01/event_image_01_15_04.png",
+          "images/2025/01/event_image_01_15_05.png",
+          "images/2025/01/event_image_01_15_06.png",
+          "images/2025/01/event_image_01_15_07.png",
+          "images/2025/01/event_image_01_15_08.png",
+          "images/2025/01/event_image_01_15_09.png",
+          "images/2025/01/event_image_01_15_10.png"
+        ]
+      },
+      {
+        "day": 27,
+        "event": "Poppy Playtime - Chapter 3",
+        "quote": "Poppy Playtime 3 & 사과게임",
+        "image": "images/2025/01/event_image_01_16.png",
+        "youtubeLink": "https://www.youtube.com/embed/E2ZU65_Qlw4",
+        "additionalImages": [
+          "images/2025/01/event_image_01_16_01.png",
+          "images/2025/01/event_image_01_16_02.png",
+          "images/2025/01/event_image_01_16_03.png",
+          "images/2025/01/event_image_01_16_04.png",
+          "images/2025/01/event_image_01_16_05.png",
+          "images/2025/01/event_image_01_16_06.png",
+          "images/2025/01/event_image_01_16_07.png",
+          "images/2025/01/event_image_01_16_08.png",
+          "images/2025/01/event_image_01_16_09.png",
+          "images/2025/01/event_image_01_16_10.png",
+          "images/2025/01/event_image_01_16_11.png"
+        ]
+      },
+      {
+        "day": 28,
+        "event": "커버곡 공개 절대적대완전싫어",
+        "quote": "절대적대완전싫어 / 유즈하 리코(Yuzuha Riko) x 텐코 시부키(Tenko Shibuki) cover",
+        "image": "images/2025/01/event_image_01_17.webp",
+        "youtubeLink": "https://www.youtube.com/embed/KvxY2PcX_-k",
+        "additionalImages": [
+          "images/2025/01/event_image_01_17_01.png",
+          "images/2025/01/event_image_01_17_02.png",
+          "images/2025/01/event_image_01_17_03.png",
+          "images/2025/01/event_image_01_17_04.png",
+          "images/2025/01/event_image_01_17_05.png",
+          "images/2025/01/event_image_01_17_06.png",
+          "images/2025/01/event_image_01_17_07.png",
+          "images/2025/01/event_image_01_17_08.png",
+          "images/2025/01/event_image_01_17_09.png",
+          "images/2025/01/event_image_01_17_10.png",
+          "images/2025/01/event_image_01_17_11.png"
+        ]
+      },
+      {
+        "day": 29,
+        "event": "유로 트럭",
+        "quote": "",
+        "image": "images/2025/01/event_image_01_18.png",
+        "youtubeLink": "https://www.youtube.com/embed/RSCVZMNO_-o",
+        "additionalImages": [
+          "images/2025/01/event_image_01_18_01.png",
+          "images/2025/01/event_image_01_18_02.png",
+          "images/2025/01/event_image_01_18_03.png",
+          "images/2025/01/event_image_01_18_04.png",
+          "images/2025/01/event_image_01_18_05.png",
+          "images/2025/01/event_image_01_18_06.png",
+          "images/2025/01/event_image_01_18_07.png"
+        ]
+      },
+      {
+        "day": 30,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 31,
+        "event": "파피플레이타임 4",
+        "quote": "파피플레이타임 4 & 레몬게임",
+        "image": "images/2025/01/event_image_01_19.png",
+        "youtubeLink": "https://www.youtube.com/embed/suPZAgiloqQ",
+        "additionalImages": [
+          "images/2025/01/event_image_01_19_01.png",
+          "images/2025/01/event_image_01_19_02.png",
+          "images/2025/01/event_image_01_19_03.png",
+          "images/2025/01/event_image_01_19_04.png",
+          "images/2025/01/event_image_01_19_05.png",
+          "images/2025/01/event_image_01_19_06.png",
+          "images/2025/01/event_image_01_19_07.png",
+          "images/2025/01/event_image_01_19_08.png"
+        ]
+      }
+    ]
+  },
+  "feb": {
+    "event": [
+      {
+        "day": 1,
+        "event": "몬스터 헌터: 월드",
+        "quote": "",
+        "image": "images/2025/02/event_image_02_01.png",
+        "youtubeLink": "https://www.youtube.com/embed/a_uYmAoFuy4",
+        "additionalImages": [
+          "images/2025/02/event_image_02_01_01.png",
+          "images/2025/02/event_image_02_01_02.png",
+          "images/2025/02/event_image_02_01_03.png",
+          "images/2025/02/event_image_02_01_04.png",
+          "images/2025/02/event_image_02_01_05.png",
+          "images/2025/02/event_image_02_01_06.png",
+          "images/2025/02/event_image_02_01_07.png",
+          "images/2025/02/event_image_02_01_08.png"
+        ]
+      },
+      {
+        "day": 2,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 3,
+        "event": "스트리머 라이프 시뮬레이터 2",
+        "quote": "스트리머 라이프 시뮬레이터 2 & 몬스터 헌터: 월드",
+        "youtubeLink": "https://www.youtube.com/embed/Hv9e3TGKmmw",
+        "image": "images/2025/02/event_image_02_02.png",
+        "additionalImages": [
+          "images/2025/02/event_image_02_02_01.png",
+          "images/2025/02/event_image_02_02_02.png",
+          "images/2025/02/event_image_02_02_03.png",
+          "images/2025/02/event_image_02_02_04.png",
+          "images/2025/02/event_image_02_02_05.png",
+          "images/2025/02/event_image_02_02_06.png",
+          "images/2025/02/event_image_02_02_07.png",
+          "images/2025/02/event_image_02_02_08.png",
+          "images/2025/02/event_image_02_02_09.png",
+          "images/2025/02/event_image_02_02_10.png"
+        ]
+      },
+      {
+        "day": 4,
+        "event": "레이튼 교수와 이상한 마을",
+        "quote": "",
+        "image": "images/2025/02/event_image_02_03.png",
+        "youtubeLink": "https://www.youtube.com/embed/g7NIlxJ8dY4",
+        "additionalImages": [
+          "images/2025/02/event_image_02_03_01.png",
+          "images/2025/02/event_image_02_03_02.png",
+          "images/2025/02/event_image_02_03_03.png",
+          "images/2025/02/event_image_02_03_04.png",
+          "images/2025/02/event_image_02_03_05.png",
+          "images/2025/02/event_image_02_03_06.png",
+          "images/2025/02/event_image_02_03_07.png",
+          "images/2025/02/event_image_02_03_08.png",
+          "images/2025/02/event_image_02_03_09.png",
+          "images/2025/02/event_image_02_03_10.png",
+          "images/2025/02/event_image_02_03_11.png",
+          "images/2025/02/event_image_02_03_12.png",
+          "images/2025/02/event_image_02_03_13.png"
+        ]
+      },
+      {
+        "day": 5,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 6,
+        "event": "리코의 노래방",
+        "quote": "",
+        "image": "images/2025/02/event_image_02_04.png",
+        "youtubeLink": "https://www.youtube.com/embed/NnajL-nQtN0",
+        "additionalImages": [
+          "images/2025/02/event_image_02_04_01.png",
+          "images/2025/02/event_image_02_04_02.png",
+          "images/2025/02/event_image_02_04_03.png",
+          "images/2025/02/event_image_02_04_04.png",
+          "images/2025/02/event_image_02_04_05.png",
+          "images/2025/02/event_image_02_04_06.png",
+          "images/2025/02/event_image_02_04_07.png",
+          "images/2025/02/event_image_02_04_08.png",
+          "images/2025/02/event_image_02_04_09.png"
+        ]
+      },
+      {
+        "day": 7,
+        "event": "몬스터 헌터 와일즈",
+        "quote": "",
+        "image": "images/2025/02/event_image_02_05.png",
+        "youtubeLink": "https://www.youtube.com/embed/O3O4Jaa0Dds",
+        "additionalImages": [
+          "images/2025/02/event_image_02_05_01.png",
+          "images/2025/02/event_image_02_05_02.png",
+          "images/2025/02/event_image_02_05_03.png",
+          "images/2025/02/event_image_02_05_04.png",
+          "images/2025/02/event_image_02_05_05.png",
+          "images/2025/02/event_image_02_05_06.png",
+          "images/2025/02/event_image_02_05_07.png",
+          "images/2025/02/event_image_02_05_08.png",
+          "images/2025/02/event_image_02_05_09.png",
+          "images/2025/02/event_image_02_05_10.png",
+          "images/2025/02/event_image_02_05_11.png",
+          "images/2025/02/event_image_02_05_12.png",
+          "images/2025/02/event_image_02_05_13.png",
+          "images/2025/02/event_image_02_05_14.png"
+        ]
+      },
+      {
+        "day": 8,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 9,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 10,
+        "event": "리그 오브 레전드",
+        "quote": "",
+        "image": "images/2025/02/event_image_02_06.png",
+        "youtubeLink": "https://www.youtube.com/embed/2y1871ZTfbo",
+        "additionalImages": [
+          "images/2025/02/event_image_02_06_01.png",
+          "images/2025/02/event_image_02_06_02.png",
+          "images/2025/02/event_image_02_06_03.png",
+          "images/2025/02/event_image_02_06_04.png",
+          "images/2025/02/event_image_02_06_05.png",
+          "images/2025/02/event_image_02_06_06.png",
+          "images/2025/02/event_image_02_06_07.png",
+          "images/2025/02/event_image_02_06_08.png",
+          "images/2025/02/event_image_02_06_09.png"
+        ]
+      },
+      {
+        "day": 11,
+        "event": "몬스터 헌터: 월드",
+        "quote": "",
+        "image": "images/2025/02/event_image_02_07.png",
+        "youtubeLink": "https://www.youtube.com/embed/87YF75iNirY",
+        "additionalImages": [
+          "images/2025/02/event_image_02_07_01.png",
+          "images/2025/02/event_image_02_07_02.png",
+          "images/2025/02/event_image_02_07_03.png",
+          "images/2025/02/event_image_02_07_04.png",
+          "images/2025/02/event_image_02_07_05.png",
+          "images/2025/02/event_image_02_07_06.png"
+        ]
+      },
+      {
+        "day": 12,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 13,
+        "event": "몬스터 헌터: 월드",
+        "quote": "",
+        "image": "images/2025/02/event_image_02_08.png",
+        "youtubeLink": "https://www.youtube.com/embed/8GEGI1wrLtU",
+        "additionalImages": [
+          "images/2025/02/event_image_02_08_01.png",
+          "images/2025/02/event_image_02_08_02.png",
+          "images/2025/02/event_image_02_08_03.png",
+          "images/2025/02/event_image_02_08_04.png",
+          "images/2025/02/event_image_02_08_05.png",
+          "images/2025/02/event_image_02_08_06.png",
+          "images/2025/02/event_image_02_08_07.png",
+          "images/2025/02/event_image_02_08_08.png",
+          "images/2025/02/event_image_02_08_09.png",
+          "images/2025/02/event_image_02_08_10.png",
+          "images/2025/02/event_image_02_08_11.png",
+          "images/2025/02/event_image_02_08_12.png",
+          "images/2025/02/event_image_02_08_13.png"
+        ]
+      },
+      {
+        "day": 14,
+        "event": "커버곡 공개 마음예보",
+        "quote": "커버곡 공개 마음예보 & 노래방송",
+        "image": "images/2025/02/event_image_02_09.webp",
+        "youtubeLink": "https://www.youtube.com/embed/5QoPQXhaZkE",
+        "additionalImages": [
+          "images/2025/02/event_image_02_09_01.png",
+          "images/2025/02/event_image_02_09_02.png",
+          "images/2025/02/event_image_02_09_03.png",
+          "images/2025/02/event_image_02_09_04.png",
+          "images/2025/02/event_image_02_09_05.png",
+          "images/2025/02/event_image_02_09_06.png",
+          "images/2025/02/event_image_02_09_07.png",
+          "images/2025/02/event_image_02_09_08.png",
+          "images/2025/02/event_image_02_09_09.png",
+          "images/2025/02/event_image_02_09_10.png",
+          "images/2025/02/event_image_02_09_11.png",
+          "images/2025/02/event_image_02_09_12.png",
+          "images/2025/02/event_image_02_09_13.png"
+        ]
+      },
+      {
+        "day": 15,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 16,
+        "event": "마인크래프트 스텔라이브 서버",
+        "quote": "1일차",
+        "image": "images/2025/02/event_image_02_10.png",
+        "youtubeLink": "https://www.youtube.com/embed/DSttzl0TBHw",
+        "additionalImages": [
+          "images/2025/02/event_image_02_10_01.png",
+          "images/2025/02/event_image_02_10_02.png",
+          "images/2025/02/event_image_02_10_03.png",
+          "images/2025/02/event_image_02_10_04.png",
+          "images/2025/02/event_image_02_10_05.png",
+          "images/2025/02/event_image_02_10_06.png",
+          "images/2025/02/event_image_02_10_07.png",
+          "images/2025/02/event_image_02_10_08.png"
+        ]
+      },
+      {
+        "day": 17,
+        "event": "마인크래프트 스텔라이브 서버",
+        "quote": "2일차",
+        "image": "images/2025/02/event_image_02_11.png",
+        "youtubeLink": "https://www.youtube.com/embed/MVfYGAsQd6I",
+        "additionalImages": [
+          "images/2025/02/event_image_02_11_01.png",
+          "images/2025/02/event_image_02_11_02.png",
+          "images/2025/02/event_image_02_11_03.png",
+          "images/2025/02/event_image_02_11_04.png",
+          "images/2025/02/event_image_02_11_05.png",
+          "images/2025/02/event_image_02_11_06.png"
+        ]
+      },
+      {
+        "day": 18,
+        "event": "마인크래프트 스텔라이브 서버",
+        "quote": "3일차",
+        "image": "images/2025/02/event_image_02_12.png",
+        "youtubeLink": "https://www.youtube.com/embed/JCYC3LPEFRk",
+        "additionalImages": [
+          "images/2025/02/event_image_02_12_01.png",
+          "images/2025/02/event_image_02_12_02.png",
+          "images/2025/02/event_image_02_12_03.png",
+          "images/2025/02/event_image_02_12_04.png",
+          "images/2025/02/event_image_02_12_05.png",
+          "images/2025/02/event_image_02_12_06.png",
+          "images/2025/02/event_image_02_12_07.png",
+          "images/2025/02/event_image_02_12_08.png",
+          "images/2025/02/event_image_02_12_09.png",
+          "images/2025/02/event_image_02_12_10.png",
+          "images/2025/02/event_image_02_12_11.png",
+          "images/2025/02/event_image_02_12_12.png",
+          "images/2025/02/event_image_02_12_13.png",
+          "images/2025/02/event_image_02_12_14.png",
+          "images/2025/02/event_image_02_12_15.png",
+          "images/2025/02/event_image_02_12_16.png"
+        ]
+      },
+      {
+        "day": 19,
+        "event": "마인크래프트 스텔라이브 서버",
+        "quote": "4일차 & 무한도전 가요제 같이보기",
+        "image": "images/2025/02/event_image_02_13.png",
+        "youtubeLink": "https://www.youtube.com/embed/wCAw5YSxP1A",
+        "youtubeLinks": [
+          "https://www.youtube.com/embed/wCAw5YSxP1A",
+          "https://www.youtube.com/embed/3F_8kMkAjSc"
+        ],
+        "additionalImages": [
+          "images/2025/02/event_image_02_13_01.png",
+          "images/2025/02/event_image_02_13_02.png",
+          "images/2025/02/event_image_02_13_03.png",
+          "images/2025/02/event_image_02_13_04.png",
+          "images/2025/02/event_image_02_13_05.png",
+          "images/2025/02/event_image_02_13_06.png",
+          "images/2025/02/event_image_02_13_07.png",
+          "images/2025/02/event_image_02_13_08.png",
+          "images/2025/02/event_image_02_13_09.png"
+        ]
+      },
+      {
+        "day": 20,
+        "event": "휴방중 잠깐 커버곡 공개!",
+        "quote": "Beyond the way / [하나코 나나 x 유즈하 리코 x 아오쿠모 린] COVER",
+        "image": "images/2025/02/event_image_02_14.webp",
+        "youtubeLink": "https://www.youtube.com/embed/SbDWmGUmRb4",
+        "additionalImages": [
+          "images/2025/02/event_image_02_14_01.png",
+          "images/2025/02/event_image_02_14_02.png",
+          "images/2025/02/event_image_02_14_03.png",
+          "images/2025/02/event_image_02_14_04.png",
+          "images/2025/02/event_image_02_14_05.png",
+          "images/2025/02/event_image_02_14_06.png"
+        ]
+      },
+      {
+        "day": 21,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 22,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 23,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 24,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 25,
+        "event": "마인크래프트 스텔라이브 서버",
+        "quote": "5일차 & 엔더드래곤 토벌!",
+        "image": "images/2025/02/event_image_02_15.png",
+        "youtubeLink": "https://www.youtube.com/embed/X3-ByDgxU6I",
+        "additionalImages": [
+          "images/2025/02/event_image_02_15_01.png",
+          "images/2025/02/event_image_02_15_02.png",
+          "images/2025/02/event_image_02_15_03.png",
+          "images/2025/02/event_image_02_15_04.png",
+          "images/2025/02/event_image_02_15_05.png",
+          "images/2025/02/event_image_02_15_06.png",
+          "images/2025/02/event_image_02_15_07.png",
+          "images/2025/02/event_image_02_15_08.png",
+          "images/2025/02/event_image_02_15_09.png",
+          "images/2025/02/event_image_02_15_10.png",
+          "images/2025/02/event_image_02_15_11.png",
+          "images/2025/02/event_image_02_15_12.png",
+          "images/2025/02/event_image_02_15_13.png",
+          "images/2025/02/event_image_02_15_14.png",
+          "images/2025/02/event_image_02_15_15.png",
+          "images/2025/02/event_image_02_15_16.png"
+        ]
+      },
+      {
+        "day": 26,
+        "event": "마인크래프트 스텔라이브 서버",
+        "quote": "6일차 & 다크문라이트치코아부나이 1세",
+        "image": "images/2025/02/event_image_02_16.png",
+        "youtubeLink": "https://www.youtube.com/embed/tqLaj9DONiY",
+        "additionalImages": [
+          "images/2025/02/event_image_02_16_01.png",
+          "images/2025/02/event_image_02_16_02.png",
+          "images/2025/02/event_image_02_16_03.png",
+          "images/2025/02/event_image_02_16_04.png",
+          "images/2025/02/event_image_02_16_05.png",
+          "images/2025/02/event_image_02_16_06.png",
+          "images/2025/02/event_image_02_16_07.png"
+        ]
+      },
+      {
+        "day": 27,
+        "event": "마인크래프트 스텔라이브 서버",
+        "quote": "7일차 && 수선책 획득!",
+        "image": "images/2025/02/event_image_02_17.png",
+        "youtubeLink": "https://www.youtube.com/embed/JUqZkxGozqE",
+        "additionalImages": [
+          "images/2025/02/event_image_02_17_01.png",
+          "images/2025/02/event_image_02_17_02.png",
+          "images/2025/02/event_image_02_17_03.png",
+          "images/2025/02/event_image_02_17_04.png",
+          "images/2025/02/event_image_02_17_05.png",
+          "images/2025/02/event_image_02_17_06.png",
+          "images/2025/02/event_image_02_17_07.png",
+          "images/2025/02/event_image_02_17_08.png",
+          "images/2025/02/event_image_02_17_09.png",
+          "images/2025/02/event_image_02_17_10.png",
+          "images/2025/02/event_image_02_17_11.png",
+          "images/2025/02/event_image_02_17_12.png"
+        ]
+      },
+      {
+        "day": 28,
+        "event": "몬스터헌터 와일즈",
+        "quote": "클리셰 몬스터헌터 와일즈 파티!",
+        "image": "images/2025/02/event_image_02_18.png",
+        "youtubeLink": "https://www.youtube.com/embed/EEekZkqpqK4",
+        "additionalImages": [
+          "images/2025/02/event_image_02_18_01.png",
+          "images/2025/02/event_image_02_18_02.png",
+          "images/2025/02/event_image_02_18_03.png",
+          "images/2025/02/event_image_02_18_04.png",
+          "images/2025/02/event_image_02_18_05.png",
+          "images/2025/02/event_image_02_18_06.png",
+          "images/2025/02/event_image_02_18_07.png",
+          "images/2025/02/event_image_02_18_08.png",
+          "images/2025/02/event_image_02_18_09.png",
+          "images/2025/02/event_image_02_18_10.png"
+        ]
+      }
+    ]
+  },
+  "mar": {
+    "event": [
+      {
+        "day": 1,
+        "event": "감자바쓰",
+        "quote": "강지 + 부키 타비 린 리코 | 유튜브 10만!!",
+        "image": "images/2025/03/event_image_03_01.png",
+        "youtubeLink": "https://www.youtube.com/embed/bVTaaIgyl8E",
+        "additionalImages": [
+          "images/2025/03/event_image_03_01_01.png",
+          "images/2025/03/event_image_03_01_02.png",
+          "images/2025/03/event_image_03_01_03.png",
+          "images/2025/03/event_image_03_01_04.png",
+          "images/2025/03/event_image_03_01_05.png",
+          "images/2025/03/event_image_03_01_06.png",
+          "images/2025/03/event_image_03_01_07.png"
+        ]
+      },
+      {
+        "day": 2,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 3,
+        "event": "Digging a hole",
+        "quote": "스텔마크",
+        "image": "images/2025/03/event_image_03_02.png",
+        "youtubeLink": "https://www.youtube.com/embed/aw3gOScG86w",
+        "additionalImages": [
+          "images/2025/03/event_image_03_02_01.png",
+          "images/2025/03/event_image_03_02_02.png",
+          "images/2025/03/event_image_03_02_03.png",
+          "images/2025/03/event_image_03_02_04.png",
+          "images/2025/03/event_image_03_02_05.png",
+          "images/2025/03/event_image_03_02_06.png",
+          "images/2025/03/event_image_03_02_07.png",
+          "images/2025/03/event_image_03_02_08.png",
+          "images/2025/03/event_image_03_02_09.png",
+          "images/2025/03/event_image_03_02_10.png",
+          "images/2025/03/event_image_03_02_11.png"
+        ]
+      },
+      {
+        "day": 4,
+        "event": "몬스터헌터 와일즈",
+        "quote": "몬스터헌터 와일즈",
+        "image": "images/2025/03/event_image_03_03.png",
+        "youtubeLink": "https://www.youtube.com/embed/hqOXNto2Wxs",
+        "additionalImages": [
+          "images/2025/03/event_image_03_03_01.png",
+          "images/2025/03/event_image_03_03_02.png",
+          "images/2025/03/event_image_03_03_03.png",
+          "images/2025/03/event_image_03_03_04.png",
+          "images/2025/03/event_image_03_03_05.png",
+          "images/2025/03/event_image_03_03_06.png",
+          "images/2025/03/event_image_03_03_07.png",
+          "images/2025/03/event_image_03_03_08.png",
+          "images/2025/03/event_image_03_03_09.png",
+          "images/2025/03/event_image_03_03_10.png",
+          "images/2025/03/event_image_03_03_11.png",
+          "images/2025/03/event_image_03_03_12.png",
+          "images/2025/03/event_image_03_03_13.png",
+          "images/2025/03/event_image_03_03_14.png",
+          "images/2025/03/event_image_03_03_15.png"
+        ]
+      },
+      {
+        "day": 5,
+        "event": "몬스터헌터 와일즈",
+        "quote": "몬스터헌터 와일즈",
+        "image": "images/2025/03/event_image_03_04.png",
+        "youtubeLink": "https://www.youtube.com/embed/rKlviEmxzrc",
+        "additionalImages": [
+          "images/2025/03/event_image_03_04_01.png",
+          "images/2025/03/event_image_03_04_02.png",
+          "images/2025/03/event_image_03_04_03.png",
+          "images/2025/03/event_image_03_04_04.png",
+          "images/2025/03/event_image_03_04_05.png",
+          "images/2025/03/event_image_03_04_06.png",
+          "images/2025/03/event_image_03_04_07.png",
+          "images/2025/03/event_image_03_04_08.png",
+          "images/2025/03/event_image_03_04_09.png",
+          "images/2025/03/event_image_03_04_10.png",
+          "images/2025/03/event_image_03_04_11.png",
+          "images/2025/03/event_image_03_04_12.png"
+        ]
+      },
+      {
+        "day": 6,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 7,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 8,
+        "event": "좋은커피 위대한 커피",
+        "quote": "커피 게임 + 카페탐방",
+        "image": "images/2025/03/event_image_03_05.png",
+        "youtubeLink": "https://www.youtube.com/embed/PVLDxPdXpw4",
+        "additionalImages": [
+          "images/2025/03/event_image_03_05_01.png",
+          "images/2025/03/event_image_03_05_02.png",
+          "images/2025/03/event_image_03_05_03.png",
+          "images/2025/03/event_image_03_05_04.png",
+          "images/2025/03/event_image_03_05_05.png",
+          "images/2025/03/event_image_03_05_06.png",
+          "images/2025/03/event_image_03_05_07.png",
+          "images/2025/03/event_image_03_05_08.png",
+          "images/2025/03/event_image_03_05_09.png",
+          "images/2025/03/event_image_03_05_10.png",
+          "images/2025/03/event_image_03_05_11.png",
+          "images/2025/03/event_image_03_05_12.png",
+          "images/2025/03/event_image_03_05_13.png",
+          "images/2025/03/event_image_03_05_14.png",
+          "images/2025/03/event_image_03_05_15.png",
+          "images/2025/03/event_image_03_05_16.png",
+          "images/2025/03/event_image_03_05_17.png",
+          "images/2025/03/event_image_03_05_18.png"
+        ]
+      },
+      {
+        "day": 9,
+        "event": "무한도전 같이보기",
+        "quote": "",
+        "image": "images/2025/03/event_image_03_06.png",
+        "additionalImages": [
+          "images/2025/03/event_image_03_06_01.png",
+          "images/2025/03/event_image_03_06_02.png",
+          "images/2025/03/event_image_03_06_03.png",
+          "images/2025/03/event_image_03_06_04.png",
+          "images/2025/03/event_image_03_06_05.png",
+          "images/2025/03/event_image_03_06_06.png",
+          "images/2025/03/event_image_03_06_07.png",
+          "images/2025/03/event_image_03_06_08.png",
+          "images/2025/03/event_image_03_06_09.png",
+          "images/2025/03/event_image_03_06_10.png",
+          "images/2025/03/event_image_03_06_11.png",
+          "images/2025/03/event_image_03_06_12.png"
+        ]
+      },
+      {
+        "day": 10,
+        "event": "리코 바니걸 그리기",
+        "quote": "점프킹 내기",
+        "image": "images/2025/03/event_image_03_07.png",
+        "youtubeLink": "https://www.youtube.com/embed/BZelKABy6OA",
+        "additionalImages": [
+          "images/2025/03/event_image_03_07_01.png",
+          "images/2025/03/event_image_03_07_02.png",
+          "images/2025/03/event_image_03_07_03.png",
+          "images/2025/03/event_image_03_07_04.png",
+          "images/2025/03/event_image_03_07_05.png",
+          "images/2025/03/event_image_03_07_06.png",
+          "images/2025/03/event_image_03_07_07.png",
+          "images/2025/03/event_image_03_07_08.png",
+          "images/2025/03/event_image_03_07_09.png",
+          "images/2025/03/event_image_03_07_10.png"
+        ]
+      },
+      {
+        "day": 11,
+        "event": "커버곡 공개 특별한 게스트와 합방🍀 [용사님의 듀엣 모험] ",
+        "quote": "스텔라이브 마크 오랜만에 접속하는 스텔 마크",
+        "image": "images/2025/03/event_image_03_08.webp",
+        "youtubeLink": "https://www.youtube.com/embed/XNhzQ4McHlg",
+        "youtubeLinks": [
+          "https://www.youtube.com/embed/XNhzQ4McHlg",
+          "https://www.youtube.com/embed/kGJly9zggCo"
+        ],
+        "additionalImages": [
+          "images/2025/03/event_image_03_08_01.png",
+          "images/2025/03/event_image_03_08_02.png",
+          "images/2025/03/event_image_03_08_03.png",
+          "images/2025/03/event_image_03_08_04.png",
+          "images/2025/03/event_image_03_08_05.png",
+          "images/2025/03/event_image_03_08_06.png",
+          "images/2025/03/event_image_03_08_07.png",
+          "images/2025/03/event_image_03_08_08.png",
+          "images/2025/03/event_image_03_08_09.png",
+          "images/2025/03/event_image_03_08_10.png",
+          "images/2025/03/event_image_03_08_11.png",
+          "images/2025/03/event_image_03_08_12.png",
+          "images/2025/03/event_image_03_08_13.png",
+          "images/2025/03/event_image_03_08_14.png",
+          "images/2025/03/event_image_03_08_15.png"
+        ]
+      },
+      {
+        "day": 12,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 13,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 14,
+        "event": "배틀그라운드 스텔라이브 3:3 대전!!",
+        "quote": "",
+        "image": "images/2025/03/event_image_03_09.png",
+        "youtubeLink": "https://www.youtube.com/embed/wjoJs83uhko",
+        "additionalImages": [
+          "images/2025/03/event_image_03_09_01.png",
+          "images/2025/03/event_image_03_09_02.png",
+          "images/2025/03/event_image_03_09_03.png",
+          "images/2025/03/event_image_03_09_04.png",
+          "images/2025/03/event_image_03_09_05.png",
+          "images/2025/03/event_image_03_09_06.png",
+          "images/2025/03/event_image_03_09_07.png",
+          "images/2025/03/event_image_03_09_08.png",
+          "images/2025/03/event_image_03_09_09.png",
+          "images/2025/03/event_image_03_09_10.png"
+        ]
+      },
+      {
+        "day": 15,
+        "event": "맛깔나는 기습 노래방!!",
+        "quote": "",
+        "image": "images/2025/03/event_image_03_10.png",
+        "youtubeLink": "https://www.youtube.com/embed/9skOq-2519M",
+        "additionalImages": [
+          "images/2025/03/event_image_03_10_01.png",
+          "images/2025/03/event_image_03_10_02.png",
+          "images/2025/03/event_image_03_10_03.png",
+          "images/2025/03/event_image_03_10_04.png",
+          "images/2025/03/event_image_03_10_05.png",
+          "images/2025/03/event_image_03_10_06.png",
+          "images/2025/03/event_image_03_10_07.png"
+        ]
+      },
+      {
+        "day": 16,
+        "event": "젠레스 존 제로 한 번 먹어보기!!",
+        "quote": "",
+        "image": "images/2025/03/event_image_03_11.png",
+        "youtubeLink": "https://www.youtube.com/embed/VZ4AUoOjNXQ",
+        "additionalImages": [
+          "images/2025/03/event_image_03_11_01.png",
+          "images/2025/03/event_image_03_11_02.png",
+          "images/2025/03/event_image_03_11_03.png",
+          "images/2025/03/event_image_03_11_04.png",
+          "images/2025/03/event_image_03_11_05.png",
+          "images/2025/03/event_image_03_11_06.png",
+          "images/2025/03/event_image_03_11_07.png",
+          "images/2025/03/event_image_03_11_08.png"
+        ]
+      },
+      {
+        "day": 17,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 18,
+        "event": "부키와 러스트 공부!! | 발로란트",
+        "quote": "",
+        "image": "images/2025/03/event_image_03_12.png",
+        "youtubeLink": "https://www.youtube.com/embed/sLwq3pDI8js",
+        "additionalImages": [
+          "images/2025/03/event_image_03_12_01.png",
+          "images/2025/03/event_image_03_12_02.png",
+          "images/2025/03/event_image_03_12_03.png",
+          "images/2025/03/event_image_03_12_04.png",
+          "images/2025/03/event_image_03_12_05.png",
+          "images/2025/03/event_image_03_12_06.png"
+        ]
+      },
+      {
+        "day": 19,
+        "event": "용사 본업하기!! 던그리드",
+        "quote": "",
+        "image": "images/2025/03/event_image_03_13.png",
+        "youtubeLink": "https://www.youtube.com/embed/yUBJXKs9e_0",
+        "additionalImages": [
+          "images/2025/03/event_image_03_13_01.png",
+          "images/2025/03/event_image_03_13_02.png",
+          "images/2025/03/event_image_03_13_03.png",
+          "images/2025/03/event_image_03_13_04.png",
+          "images/2025/03/event_image_03_13_05.png",
+          "images/2025/03/event_image_03_13_06.png",
+          "images/2025/03/event_image_03_13_07.png",
+          "images/2025/03/event_image_03_13_08.png",
+          "images/2025/03/event_image_03_13_09.png"
+        ]
+      },
+      {
+        "day": 20,
+        "event": "용사의 첫 러스트 서버 입성!",
+        "quote": "",
+        "image": "images/2025/03/event_image_03_14.png",
+        "youtubeLink": "https://www.youtube.com/embed/gaMfu-vRuug",
+        "additionalImages": [
+          "images/2025/03/event_image_03_14_01.png",
+          "images/2025/03/event_image_03_14_02.png",
+          "images/2025/03/event_image_03_14_03.png",
+          "images/2025/03/event_image_03_14_04.png",
+          "images/2025/03/event_image_03_14_05.png",
+          "images/2025/03/event_image_03_14_06.png",
+          "images/2025/03/event_image_03_14_07.png",
+          "images/2025/03/event_image_03_14_08.png",
+          "images/2025/03/event_image_03_14_09.png",
+          "images/2025/03/event_image_03_14_10.png"
+        ]
+      },
+      {
+        "day": 21,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 22,
+        "event": "카페 탐방 & 중세 러스트 마지막",
+        "quote": "",
+        "image": "images/2025/03/event_image_03_15.png",
+        "youtubeLink": "https://www.youtube.com/embed/2e2v25x79CU",
+        "additionalImages": [
+          "images/2025/03/event_image_03_15_01.png",
+          "images/2025/03/event_image_03_15_02.png",
+          "images/2025/03/event_image_03_15_03.png",
+          "images/2025/03/event_image_03_15_04.png",
+          "images/2025/03/event_image_03_15_05.png",
+          "images/2025/03/event_image_03_15_06.png",
+          "images/2025/03/event_image_03_15_07.png",
+          "images/2025/03/event_image_03_15_08.png",
+          "images/2025/03/event_image_03_15_09.png",
+          "images/2025/03/event_image_03_15_10.png",
+          "images/2025/03/event_image_03_15_11.png",
+          "images/2025/03/event_image_03_15_12.png",
+          "images/2025/03/event_image_03_15_13.png",
+          "images/2025/03/event_image_03_15_14.png",
+          "images/2025/03/event_image_03_15_15.png"
+        ]
+      },
+      {
+        "day": 23,
+        "event": "러스트 스트리머 서버 : 바닐라서버",
+        "quote": "",
+        "image": "images/2025/03/event_image_03_16.png",
+        "youtubeLink": "https://www.youtube.com/embed/9f8TG11pGBI",
+        "additionalImages": [
+          "images/2025/03/event_image_03_16_01.png",
+          "images/2025/03/event_image_03_16_02.png",
+          "images/2025/03/event_image_03_16_03.png",
+          "images/2025/03/event_image_03_16_04.png",
+          "images/2025/03/event_image_03_16_05.png",
+          "images/2025/03/event_image_03_16_06.png",
+          "images/2025/03/event_image_03_16_07.png",
+          "images/2025/03/event_image_03_16_08.png",
+          "images/2025/03/event_image_03_16_09.png",
+          "images/2025/03/event_image_03_16_10.png",
+          "images/2025/03/event_image_03_16_11.png",
+          "images/2025/03/event_image_03_16_12.png",
+          "images/2025/03/event_image_03_16_13.png",
+          "images/2025/03/event_image_03_16_14.png",
+          "images/2025/03/event_image_03_16_15.png"
+        ]
+      },
+      {
+        "day": 24,
+        "event": "러스트 스트리머 서버 : 바닐라서버",
+        "quote": "",
+        "image": "images/2025/03/event_image_03_17.png",
+        "youtubeLink": "https://www.youtube.com/embed/5zy-MOh_dEg",
+        "additionalImages": [
+          "images/2025/03/event_image_03_17_01.png",
+          "images/2025/03/event_image_03_17_02.png",
+          "images/2025/03/event_image_03_17_03.png",
+          "images/2025/03/event_image_03_17_04.png",
+          "images/2025/03/event_image_03_17_05.png",
+          "images/2025/03/event_image_03_17_06.png",
+          "images/2025/03/event_image_03_17_07.png",
+          "images/2025/03/event_image_03_17_08.png",
+          "images/2025/03/event_image_03_17_09.png",
+          "images/2025/03/event_image_03_17_10.png",
+          "images/2025/03/event_image_03_17_11.png"
+        ]
+      },
+      {
+        "day": 25,
+        "event": "러스트 스트리머 서버 : 바닐라서버",
+        "quote": "영웅호걸의 시간",
+        "image": "images/2025/03/event_image_03_18.png",
+        "youtubeLink": "https://www.youtube.com/embed/iSSG2A_8TXE",
+        "additionalImages": [
+          "images/2025/03/event_image_03_18_01.png",
+          "images/2025/03/event_image_03_18_02.png",
+          "images/2025/03/event_image_03_18_03.png",
+          "images/2025/03/event_image_03_18_04.png",
+          "images/2025/03/event_image_03_18_05.png",
+          "images/2025/03/event_image_03_18_06.png",
+          "images/2025/03/event_image_03_18_07.png",
+          "images/2025/03/event_image_03_18_08.png"
+        ]
+      },
+      {
+        "day": 26,
+        "event": "러스트 스트리머 서버 : 바닐라서버",
+        "quote": "러스트 마지막날!",
+        "image": "images/2025/03/event_image_03_19.png",
+        "youtubeLink": "https://www.youtube.com/embed/bA3-pcIW0A8",
+        "additionalImages": [
+          "images/2025/03/event_image_03_19_01.png",
+          "images/2025/03/event_image_03_19_02.png",
+          "images/2025/03/event_image_03_19_03.png",
+          "images/2025/03/event_image_03_19_04.png",
+          "images/2025/03/event_image_03_19_05.png",
+          "images/2025/03/event_image_03_19_06.png",
+          "images/2025/03/event_image_03_19_07.png",
+          "images/2025/03/event_image_03_19_08.png",
+          "images/2025/03/event_image_03_19_09.png",
+          "images/2025/03/event_image_03_19_10.png",
+          "images/2025/03/event_image_03_19_11.png",
+          "images/2025/03/event_image_03_19_12.png",
+          "images/2025/03/event_image_03_19_13.png"
+        ]
+      },
+      {
+        "day": 27,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 28,
+        "event": "스텔라이브 팀 ✨ <우리은행과 함께하는 샌드박스 MCN 대전>",
+        "quote": "피코파코2",
+        "image": "images/2025/03/event_image_03_20.png",
+        "youtubeLink": "https://www.youtube.com/embed/cwhsjcWwA08",
+        "additionalImages": [
+          "images/2025/03/event_image_03_20_01.png",
+          "images/2025/03/event_image_03_20_02.png",
+          "images/2025/03/event_image_03_20_03.png",
+          "images/2025/03/event_image_03_20_04.png",
+          "images/2025/03/event_image_03_20_05.png",
+          "images/2025/03/event_image_03_20_06.png",
+          "images/2025/03/event_image_03_20_07.png",
+          "images/2025/03/event_image_03_20_08.png",
+          "images/2025/03/event_image_03_20_09.png",
+          "images/2025/03/event_image_03_20_10.png"
+        ]
+      },
+      {
+        "day": 29,
+        "event": "시부키 VS 리코 [광고]",
+        "quote": "월드 오브 탱크",
+        "image": "images/2025/03/event_image_03_21.png",
+        "youtubeLink": "https://www.youtube.com/embed/jm3kTMW4luU",
+        "additionalImages": [
+          "images/2025/03/event_image_03_21_01.png",
+          "images/2025/03/event_image_03_21_02.png",
+          "images/2025/03/event_image_03_21_03.png",
+          "images/2025/03/event_image_03_21_04.png",
+          "images/2025/03/event_image_03_21_05.png",
+          "images/2025/03/event_image_03_21_06.png",
+          "images/2025/03/event_image_03_21_07.png",
+          "images/2025/03/event_image_03_21_08.png"
+        ]
+      },
+      {
+        "day": 30,
+        "event": "클리셰 4인방의 공겜⭐",
+        "quote": "R.E.P.O.",
+        "image": "images/2025/03/event_image_03_22.png",
+        "youtubeLink": "https://www.youtube.com/embed/GAvUkTkP7BA",
+        "additionalImages": [
+          "images/2025/03/event_image_03_22_01.png",
+          "images/2025/03/event_image_03_22_02.png",
+          "images/2025/03/event_image_03_22_03.png",
+          "images/2025/03/event_image_03_22_04.png",
+          "images/2025/03/event_image_03_22_05.png",
+          "images/2025/03/event_image_03_22_06.png",
+          "images/2025/03/event_image_03_22_07.png",
+          "images/2025/03/event_image_03_22_08.png",
+          "images/2025/03/event_image_03_22_09.png",
+          "images/2025/03/event_image_03_22_10.png",
+          "images/2025/03/event_image_03_22_11.png",
+          "images/2025/03/event_image_03_22_12.png",
+          "images/2025/03/event_image_03_22_13.png"
+        ]
+      },
+      {
+        "day": 31,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      }
+    ]
+  },
+  "apr": {
+    "event": [
+      {
+        "day": 1,
+        "event": "스틸라이브 NEWS",
+        "quote": "스틸라이브 NEWS & 인조이",
+        "image": "images/2025/04/event_image_04_01.png",
+        "youtubeLink": "https://www.youtube.com/embed/BOteIruMcns",
+        "youtubeLinks": [
+          "https://www.youtube.com/embed/BOteIruMcns",
+          "https://www.youtube.com/embed/qlxGZMlmprU"
+        ],
+        "additionalImages": [
+          "images/2025/04/event_image_04_01_01.png",
+          "images/2025/04/event_image_04_01_02.png",
+          "images/2025/04/event_image_04_01_03.png",
+          "images/2025/04/event_image_04_01_04.png",
+          "images/2025/04/event_image_04_01_05.png",
+          "images/2025/04/event_image_04_01_06.png",
+          "images/2025/04/event_image_04_01_07.png",
+          "images/2025/04/event_image_04_01_08.png",
+          "images/2025/04/event_image_04_01_09.png",
+          "images/2025/04/event_image_04_01_10.png",
+          "images/2025/04/event_image_04_01_11.png"
+        ]
+      },
+      {
+        "day": 2,
+        "event": "빨강 혹은 파랑",
+        "quote": "인조이 결혼 과 출산과 이혼",
+        "image": "images/2025/04/event_image_04_02.png",
+        "youtubeLink": "https://www.youtube.com/embed/dM-tV76_5FI",
+        "additionalImages": [
+          "images/2025/04/event_image_04_02_01.png",
+          "images/2025/04/event_image_04_02_02.png",
+          "images/2025/04/event_image_04_02_03.png",
+          "images/2025/04/event_image_04_02_04.png",
+          "images/2025/04/event_image_04_02_05.png",
+          "images/2025/04/event_image_04_02_06.png",
+          "images/2025/04/event_image_04_02_07.png",
+          "images/2025/04/event_image_04_02_08.png",
+          "images/2025/04/event_image_04_02_09.png"
+        ]
+      },
+      {
+        "day": 3,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 4,
+        "event": "리코의 노래방송",
+        "quote": "",
+        "image": "images/2025/04/event_image_04_03.png",
+        "youtubeLink": "https://www.youtube.com/embed/1vigosho-04",
+        "additionalImages": [
+          "images/2025/04/event_image_04_03_01.png",
+          "images/2025/04/event_image_04_03_02.png",
+          "images/2025/04/event_image_04_03_03.png"
+        ]
+      },
+      {
+        "day": 5,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 6,
+        "event": "타비선배와 스플릿픽션",
+        "quote": "",
+        "image": "images/2025/04/event_image_04_04.png",
+        "youtubeLink": "https://www.youtube.com/embed/utu-FsDw36w",
+        "additionalImages": [
+          "images/2025/04/event_image_04_04_01.png",
+          "images/2025/04/event_image_04_04_02.png",
+          "images/2025/04/event_image_04_04_03.png",
+          "images/2025/04/event_image_04_04_04.png",
+          "images/2025/04/event_image_04_04_05.png",
+          "images/2025/04/event_image_04_04_06.png",
+          "images/2025/04/event_image_04_04_07.png",
+          "images/2025/04/event_image_04_04_08.png",
+          "images/2025/04/event_image_04_04_09.png",
+          "images/2025/04/event_image_04_04_10.png",
+          "images/2025/04/event_image_04_04_11.png",
+          "images/2025/04/event_image_04_04_12.png",
+          "images/2025/04/event_image_04_04_13.png",
+          "images/2025/04/event_image_04_04_14.png",
+          "images/2025/04/event_image_04_04_15.png",
+          "images/2025/04/event_image_04_04_16.png",
+          "images/2025/04/event_image_04_04_17.png",
+          "images/2025/04/event_image_04_04_18.png",
+          "images/2025/04/event_image_04_04_19.png",
+          "images/2025/04/event_image_04_04_20.png"
+        ]
+      },
+      {
+        "day": 7,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 8,
+        "event": "운빨용사의 모비노기",
+        "quote": "건축학개론 같이보기 & 모바일 마비노기",
+        "image": "images/2025/04/event_image_04_05.png",
+        "youtubeLink": "https://www.youtube.com/embed/mgy5zgoCsRQ",
+        "additionalImages": [
+          "images/2025/04/event_image_04_05_01.png",
+          "images/2025/04/event_image_04_05_02.png",
+          "images/2025/04/event_image_04_05_03.png",
+          "images/2025/04/event_image_04_05_04.png",
+          "images/2025/04/event_image_04_05_05.png",
+          "images/2025/04/event_image_04_05_06.png",
+          "images/2025/04/event_image_04_05_07.png",
+          "images/2025/04/event_image_04_05_08.png"
+        ]
+      },
+      {
+        "day": 9,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 10,
+        "event": "마크 스텔섭",
+        "quote": "",
+        "image": "images/2025/04/event_image_04_06.png",
+        "youtubeLink": "https://www.youtube.com/embed/egQYKEnSpOY",
+        "additionalImages": [
+          "images/2025/04/event_image_04_06_01.png",
+          "images/2025/04/event_image_04_06_02.png",
+          "images/2025/04/event_image_04_06_03.png",
+          "images/2025/04/event_image_04_06_04.png",
+          "images/2025/04/event_image_04_06_05.png",
+          "images/2025/04/event_image_04_06_06.png"
+        ]
+      },
+      {
+        "day": 11,
+        "event": "도태용사의 모바일 마비노기",
+        "quote": "카페탐방",
+        "image": "images/2025/04/event_image_04_07.png",
+        "youtubeLink": "https://www.youtube.com/embed/-LOq4rLBjx0",
+        "additionalImages": [
+          "images/2025/04/event_image_04_07_01.png",
+          "images/2025/04/event_image_04_07_02.png",
+          "images/2025/04/event_image_04_07_03.png",
+          "images/2025/04/event_image_04_07_04.png",
+          "images/2025/04/event_image_04_07_05.png",
+          "images/2025/04/event_image_04_07_06.png",
+          "images/2025/04/event_image_04_07_07.png",
+          "images/2025/04/event_image_04_07_08.png",
+          "images/2025/04/event_image_04_07_09.png"
+        ]
+      },
+      {
+        "day": 12,
+        "event": "R.E.P.O 합방! 후열 배그",
+        "quote": "",
+        "image": "images/2025/04/event_image_04_08.png",
+        "youtubeLink": "https://www.youtube.com/embed/qMkKF-RGq2E",
+        "additionalImages": [
+          "images/2025/04/event_image_04_08_01.png",
+          "images/2025/04/event_image_04_08_02.png",
+          "images/2025/04/event_image_04_08_03.png",
+          "images/2025/04/event_image_04_08_04.png",
+          "images/2025/04/event_image_04_08_05.png",
+          "images/2025/04/event_image_04_08_06.png",
+          "images/2025/04/event_image_04_08_07.png",
+          "images/2025/04/event_image_04_08_08.png",
+          "images/2025/04/event_image_04_08_09.png",
+          "images/2025/04/event_image_04_08_10.png",
+          "images/2025/04/event_image_04_08_11.png",
+          "images/2025/04/event_image_04_08_12.png",
+          "images/2025/04/event_image_04_08_13.png"
+        ]
+      },
+      {
+        "day": 13,
+        "event": "생일 방송 & 커버곡 증표 공개",
+        "quote": "기다리고 기다려온 생일방송",
+        "image": "images/2025/04/event_image_04_09.webp",
+        "youtubeLink": "https://www.youtube.com/embed/516-rZtmcno",
+        "additionalImages": [
+          "images/2025/04/event_image_04_09_01.png",
+          "images/2025/04/event_image_04_09_02.png",
+          "images/2025/04/event_image_04_09_03.png",
+          "images/2025/04/event_image_04_09_04.png",
+          "images/2025/04/event_image_04_09_05.png",
+          "images/2025/04/event_image_04_09_06.png",
+          "images/2025/04/event_image_04_09_07.png",
+          "images/2025/04/event_image_04_09_08.png",
+          "images/2025/04/event_image_04_09_09.png",
+          "images/2025/04/event_image_04_09_10.png",
+          "images/2025/04/event_image_04_09_11.png",
+          "images/2025/04/event_image_04_09_12.png",
+          "images/2025/04/event_image_04_09_13.png",
+          "images/2025/04/event_image_04_09_14.png",
+          "images/2025/04/event_image_04_09_15.png",
+          "images/2025/04/event_image_04_09_16.png",
+          "images/2025/04/event_image_04_09_17.png",
+          "images/2025/04/event_image_04_09_18.png",
+          "images/2025/04/event_image_04_09_19.png",
+          "images/2025/04/event_image_04_09_20.png",
+          "images/2025/04/event_image_04_09_21.png",
+          "images/2025/04/event_image_04_09_22.png",
+          "images/2025/04/event_image_04_09_23.png",
+          "images/2025/04/event_image_04_09_24.png",
+          "images/2025/04/event_image_04_09_25.png",
+          "images/2025/04/event_image_04_09_26.png",
+          "images/2025/04/event_image_04_09_27.png",
+          "images/2025/04/event_image_04_09_28.png",
+          "images/2025/04/event_image_04_09_29.png",
+          "images/2025/04/event_image_04_09_30.png",
+          "images/2025/04/event_image_04_09_31.png",
+          "images/2025/04/event_image_04_09_32.png"
+        ]
+      },
+      {
+        "day": 14,
+        "event": "휴방이지만 녹화방송 올려준 방송",
+        "quote": "",
+        "image": "images/holiday_image.png",
+        "youtubeLink": "https://www.youtube.com/embed/5uhQg-PGPZA",
+        "additionalImages": [
+          "images/2025/04/event_image_04_10.png",
+          "images/2025/04/event_image_04_10_01.png",
+          "images/2025/04/event_image_04_10_02.png",
+          "images/2025/04/event_image_04_10_03.png",
+          "images/2025/04/event_image_04_10_04.png",
+          "images/2025/04/event_image_04_10_05.png",
+          "images/2025/04/event_image_04_10_06.png",
+          "images/2025/04/event_image_04_10_07.png"
+        ]
+      },
+      {
+        "day": 15,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 16,
+        "event": "카페 탐방",
+        "quote": "생일 팬아트 감상",
+        "image": "images/2025/04/event_image_04_11.png",
+        "youtubeLink": "https://www.youtube.com/embed/gdk8asnOCbU",
+        "additionalImages": [
+          "images/2025/04/event_image_04_11_01.png",
+          "images/2025/04/event_image_04_11_02.png",
+          "images/2025/04/event_image_04_11_03.png",
+          "images/2025/04/event_image_04_11_04.png",
+          "images/2025/04/event_image_04_11_05.png",
+          "images/2025/04/event_image_04_11_06.png",
+          "images/2025/04/event_image_04_11_07.png",
+          "images/2025/04/event_image_04_11_08.png",
+          "images/2025/04/event_image_04_11_09.png",
+          "images/2025/04/event_image_04_11_10.png",
+          "images/2025/04/event_image_04_11_11.png",
+          "images/2025/04/event_image_04_11_12.png",
+          "images/2025/04/event_image_04_11_13.png",
+          "images/2025/04/event_image_04_11_14.png",
+          "images/2025/04/event_image_04_11_15.png"
+        ]
+      },
+      {
+        "day": 17,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 18,
+        "event": "던그리드 후속 세피리아",
+        "quote": "세피리아",
+        "image": "images/2025/04/event_image_04_12.png",
+        "youtubeLink": "https://www.youtube.com/embed/jnJ1v1Q2Am4",
+        "additionalImages": [
+          "images/2025/04/event_image_04_12_01.png",
+          "images/2025/04/event_image_04_12_02.png",
+          "images/2025/04/event_image_04_12_03.png",
+          "images/2025/04/event_image_04_12_04.png",
+          "images/2025/04/event_image_04_12_05.png",
+          "images/2025/04/event_image_04_12_06.png",
+          "images/2025/04/event_image_04_12_07.png",
+          "images/2025/04/event_image_04_12_08.png",
+          "images/2025/04/event_image_04_12_09.png",
+          "images/2025/04/event_image_04_12_10.png"
+        ]
+      },
+      {
+        "day": 19,
+        "event": "발로란트 첫 내전!",
+        "quote": "세피리아 & 발로란트",
+        "image": "images/2025/04/event_image_04_13.png",
+        "youtubeLink": "https://www.youtube.com/embed/ZT9d7lpW3qY",
+        "additionalImages": [
+          "images/2025/04/event_image_04_13_01.png",
+          "images/2025/04/event_image_04_13_02.png",
+          "images/2025/04/event_image_04_13_03.png",
+          "images/2025/04/event_image_04_13_04.png",
+          "images/2025/04/event_image_04_13_05.png",
+          "images/2025/04/event_image_04_13_06.png",
+          "images/2025/04/event_image_04_13_07.png",
+          "images/2025/04/event_image_04_13_08.png",
+          "images/2025/04/event_image_04_13_09.png",
+          "images/2025/04/event_image_04_13_10.png",
+          "images/2025/04/event_image_04_13_11.png",
+          "images/2025/04/event_image_04_13_12.png",
+          "images/2025/04/event_image_04_13_13.png"
+        ]
+      },
+      {
+        "day": 20,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png",
+        "youtubeLink": "https://www.youtube.com/embed/gJ1N631Ji0Q"
+      },
+      {
+        "day": 21,
+        "event": "스케쥴 I 플레이",
+        "quote": "스케쥴 I 약 파는 아이돌, 기분 좋을거에요",
+        "image": "images/2025/04/event_image_04_14.png",
+        "youtubeLink": "https://www.youtube.com/embed/ndcnYqhPNn8",
+        "additionalImages": [
+          "images/2025/04/event_image_04_14_01.png",
+          "images/2025/04/event_image_04_14_02.png",
+          "images/2025/04/event_image_04_14_03.png",
+          "images/2025/04/event_image_04_14_04.png",
+          "images/2025/04/event_image_04_14_05.png",
+          "images/2025/04/event_image_04_14_06.png",
+          "images/2025/04/event_image_04_14_07.png",
+          "images/2025/04/event_image_04_14_08.png",
+          "images/2025/04/event_image_04_14_09.png"
+        ]
+      },
+      {
+        "day": 22,
+        "event": "얼불춤 내기와 마인크래프트 스텔서버",
+        "quote": "불과 얼음의 춤",
+        "image": "images/2025/04/event_image_04_15.png",
+        "youtubeLink": "https://www.youtube.com/embed/-F3ZMHdM3ZM",
+        "additionalImages": [
+          "images/2025/04/event_image_04_15_01.png",
+          "images/2025/04/event_image_04_15_02.png",
+          "images/2025/04/event_image_04_15_03.png",
+          "images/2025/04/event_image_04_15_04.png",
+          "images/2025/04/event_image_04_15_05.png",
+          "images/2025/04/event_image_04_15_06.png",
+          "images/2025/04/event_image_04_15_07.png",
+          "images/2025/04/event_image_04_15_08.png",
+          "images/2025/04/event_image_04_15_09.png",
+          "images/2025/04/event_image_04_15_10.png",
+          "images/2025/04/event_image_04_15_11.png",
+          "images/2025/04/event_image_04_15_12.png",
+          "images/2025/04/event_image_04_15_13.png"
+        ]
+      },
+      {
+        "day": 23,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 24,
+        "event": "연비니님과 함께 하는 젠레스 존 제로 광고 방송",
+        "quote": "젠레스 존 제로 | 리그 오브 레전드",
+        "image": "images/2025/04/event_image_04_16.png",
+        "youtubeLink": "https://www.youtube.com/embed/KwiupjZPffg",
+        "additionalImages": [
+          "images/2025/04/event_image_04_16_01.png",
+          "images/2025/04/event_image_04_16_02.png",
+          "images/2025/04/event_image_04_16_03.png",
+          "images/2025/04/event_image_04_16_04.png",
+          "images/2025/04/event_image_04_16_05.png",
+          "images/2025/04/event_image_04_16_06.png",
+          "images/2025/04/event_image_04_16_07.png",
+          "images/2025/04/event_image_04_16_08.png",
+          "images/2025/04/event_image_04_16_09.png",
+          "images/2025/04/event_image_04_16_10.png",
+          "images/2025/04/event_image_04_16_11.png",
+          "images/2025/04/event_image_04_16_12.png",
+          "images/2025/04/event_image_04_16_13.png",
+          "images/2025/04/event_image_04_16_14.png",
+          "images/2025/04/event_image_04_16_15.png"
+        ]
+      },
+      {
+        "day": 25,
+        "holiday": "휴방",
+        "quote": "휴방이에요!!\n\n외부일정입니댜어엉\n\n​\n\n나중에만나요오오\n\n​\n\n💚\n",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 26,
+        "event": "있잖아 있잖아 있잖아 커버곡 공개",
+        "quote": "부키와 배그 데이트 | 있잖아 있잖아 있잖아 유즈하 리코(Yuzuha Riko) x 텐코 시부키(Tenko Shibuki) cover",
+        "image": "images/2025/04/event_image_04_17.webp",
+        "youtubeLink": "https://www.youtube.com/embed/mWRwJ5UzWVQ",
+        "additionalImages": [
+          "images/2025/04/event_image_04_17_01.png",
+          "images/2025/04/event_image_04_17_02.png",
+          "images/2025/04/event_image_04_17_03.png",
+          "images/2025/04/event_image_04_17_04.png",
+          "images/2025/04/event_image_04_17_05.png",
+          "images/2025/04/event_image_04_17_06.png",
+          "images/2025/04/event_image_04_17_07.png",
+          "images/2025/04/event_image_04_17_08.png",
+          "images/2025/04/event_image_04_17_09.png",
+          "images/2025/04/event_image_04_17_10.png",
+          "images/2025/04/event_image_04_17_11.png",
+          "images/2025/04/event_image_04_17_12.png",
+          "images/2025/04/event_image_04_17_13.png",
+          "images/2025/04/event_image_04_17_14.png"
+        ]
+      },
+      {
+        "day": 27,
+        "event": "다시 돌아온 모텔 운영! Sunset Motel",
+        "quote": "Sunset Motel",
+        "image": "images/2025/04/event_image_04_18.png",
+        "youtubeLink": "https://www.youtube.com/embed/D6SdkeN_dPU",
+        "additionalImages": [
+          "images/2025/04/event_image_04_18_01.png",
+          "images/2025/04/event_image_04_18_02.png",
+          "images/2025/04/event_image_04_18_03.png",
+          "images/2025/04/event_image_04_18_04.png",
+          "images/2025/04/event_image_04_18_05.png",
+          "images/2025/04/event_image_04_18_06.png",
+          "images/2025/04/event_image_04_18_07.png",
+          "images/2025/04/event_image_04_18_08.png",
+          "images/2025/04/event_image_04_18_09.png",
+          "images/2025/04/event_image_04_18_10.png",
+          "images/2025/04/event_image_04_18_11.png",
+          "images/2025/04/event_image_04_18_12.png",
+          "images/2025/04/event_image_04_18_13.png"
+        ]
+      },
+      {
+        "day": 28,
+        "holiday": "휴방",
+        "quote": "오늘 푸욱 쉬고오\n\n내일 컨텐츠로 만나요!!\n\n​\n\n아 그리구 향수 왔움 ㅎㅎ\n\n리코가 쓰는거래~!! 꺄호!!!!!\n\n향에 대해서도 내일 같이 리뷰할테니까\n\n내일 꼭 말해주께요\n\n​\n\n치코 사랑해\n",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 29,
+        "event": "용사님의 듀엣 모험 2탄 메이드 아오쿠모 린",
+        "quote": "듀엣 모험 | 스텔 마크 새로운 집짓기",
+        "image": "images/2025/04/event_image_04_19.png",
+        "youtubeLink": "https://www.youtube.com/embed/E4d_ODBie0E",
+        "youtubeLinks": [
+          "https://www.youtube.com/embed/E4d_ODBie0E",
+          "https://www.youtube.com/embed/EAKEQwLoi4A"
+        ],
+        "additionalImages": [
+          "images/2025/04/event_image_04_19_01.png",
+          "images/2025/04/event_image_04_19_02.png",
+          "images/2025/04/event_image_04_19_03.png",
+          "images/2025/04/event_image_04_19_04.png",
+          "images/2025/04/event_image_04_19_05.png",
+          "images/2025/04/event_image_04_19_06.png",
+          "images/2025/04/event_image_04_19_07.png",
+          "images/2025/04/event_image_04_19_08.png",
+          "images/2025/04/event_image_04_19_09.png",
+          "images/2025/04/event_image_04_19_10.png"
+        ]
+      },
+      {
+        "day": 30,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      }
+    ]
+  },
+  "may": {
+    "event": []
+  }
 }

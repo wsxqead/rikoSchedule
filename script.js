@@ -60,6 +60,16 @@ function applyScheduleData(data) {
       monthContainer.appendChild(emptyCell);
     }
 
+    const monthData = data[monthContainer.id];
+    const eventList = monthData?.event || [];
+
+    if (monthData?.headerImage) {
+      const header = document.createElement("img");
+      header.src = monthData.headerImage;
+      header.classList.add("month-header-image");
+      monthContainer.appendChild(header); // 또는 monthContainer.parentElement.prepend(header);
+    }
+
     // 실제 날짜 셀 생성
     for (let day = 1; day <= daysInMonth; day++) {
       const dayCell = document.createElement("div");
@@ -89,8 +99,10 @@ function applyScheduleData(data) {
       }
 
       // 일정 데이터가 있는지 확인
-      const monthData = data[monthContainer.id] || [];
-      const event = monthData.find((event) => event.day === day);
+      // const monthData = data[monthContainer.id] || [];
+      // const event = monthData.find((event) => event.day === day);
+
+      const event = eventList.find((e) => e.day === day);
 
       if (event) {
         // 이미지가 있는 경우 배경 이미지 설정
@@ -107,6 +119,13 @@ function applyScheduleData(data) {
       }
 
       monthContainer.appendChild(dayCell);
+    }
+
+    if (monthData?.footerImage) {
+      const footer = document.createElement("img");
+      footer.src = monthData.footerImage;
+      footer.classList.add("month-footer-image");
+      monthContainer.appendChild(footer);
     }
   });
 }

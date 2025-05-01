@@ -141,6 +141,7 @@
   gap: 10px;
   margin-top: 20px;
   text-align: center;
+  position: relative;
 }
 
 /* 달력 셀 스타일 */
