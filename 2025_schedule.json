@@ -1782,6 +1782,26 @@
     ]
   },
   "may": {
-    "event": []
+    "event": [
+      {
+        "day": 1,
+        "event": "카페 탐방 & 스텔 마크 건축 마무리",
+        "quote": "스텔 마크 건축 마무리 : 진흙벽돌 제작기",
+        "image": "images/2025/05/event_image_05_01.png",
+        "youtubeLink": "https://www.youtube.com/embed/E4d_ODBie0E",
+        "additionalImages": [
+          "images/2025/05/event_image_05_01_01.png",
+          "images/2025/05/event_image_05_01_02.png",
+          "images/2025/05/event_image_05_01_03.png",
+          "images/2025/05/event_image_05_01_04.png",
+          "images/2025/05/event_image_05_01_05.png",
+          "images/2025/05/event_image_05_01_06.png",
+          "images/2025/05/event_image_05_01_07.png",
+          "images/2025/05/event_image_05_01_08.png",
+          "images/2025/05/event_image_05_01_09.png",
+          "images/2025/05/event_image_05_01_10.png"
+        ]
+      }
+    ]
   }
 }
