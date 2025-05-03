@@ -1788,7 +1788,7 @@
         "event": "카페 탐방 & 스텔 마크 건축 마무리",
         "quote": "스텔 마크 건축 마무리 : 진흙벽돌 제작기",
         "image": "images/2025/05/event_image_05_01.png",
-        "youtubeLink": "https://www.youtube.com/embed/E4d_ODBie0E",
+        "youtubeLink": "https://www.youtube.com/embed/j0yx16uzpf4",
         "additionalImages": [
           "images/2025/05/event_image_05_01_01.png",
           "images/2025/05/event_image_05_01_02.png",
@@ -1800,6 +1800,44 @@
           "images/2025/05/event_image_05_01_08.png",
           "images/2025/05/event_image_05_01_09.png",
           "images/2025/05/event_image_05_01_10.png"
+        ]
+      },
+      {
+        "day": 2,
+        "event": "스텔 마크 돈벌자!",
+        "quote": "스텔 마크 & 오버워치 레벨올리기",
+        "image": "images/2025/05/event_image_05_02.png",
+        "youtubeLink": "https://www.youtube.com/embed/j0yx16uzpf4",
+        "additionalImages": [
+          "images/2025/05/event_image_05_02_01.png",
+          "images/2025/05/event_image_05_02_02.png",
+          "images/2025/05/event_image_05_02_03.png",
+          "images/2025/05/event_image_05_02_04.png",
+          "images/2025/05/event_image_05_02_05.png",
+          "images/2025/05/event_image_05_02_06.png",
+          "images/2025/05/event_image_05_02_07.png",
+          "images/2025/05/event_image_05_02_08.png",
+          "images/2025/05/event_image_05_02_09.png",
+          "images/2025/05/event_image_05_02_10.png"
+        ]
+      },
+      {
+        "day": 3,
+        "event": "광고 방송 뤼튼 크랙 AI",
+        "quote": "",
+        "image": "images/2025/05/event_image_05_03.png",
+        "youtubeLink": "https://www.youtube.com/embed/j0yx16uzpf4",
+        "additionalImages": [
+          "images/2025/05/event_image_05_03_01.png",
+          "images/2025/05/event_image_05_03_02.png",
+          "images/2025/05/event_image_05_03_03.png",
+          "images/2025/05/event_image_05_03_04.png",
+          "images/2025/05/event_image_05_03_05.png",
+          "images/2025/05/event_image_05_03_06.png",
+          "images/2025/05/event_image_05_03_07.png",
+          "images/2025/05/event_image_05_03_08.png",
+          "images/2025/05/event_image_05_03_09.png",
+          "images/2025/05/event_image_05_03_10.png"
         ]
       }
     ]
