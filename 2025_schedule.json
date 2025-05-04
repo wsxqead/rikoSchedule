@@ -1799,7 +1799,18 @@
           "images/2025/05/event_image_05_01_07.png",
           "images/2025/05/event_image_05_01_08.png",
           "images/2025/05/event_image_05_01_09.png",
-          "images/2025/05/event_image_05_01_10.png"
+          "images/2025/05/event_image_05_01_10.png",
+          "images/2025/05/event_image_05_01_11.png",
+          "images/2025/05/event_image_05_01_12.png",
+          "images/2025/05/event_image_05_01_13.png",
+          "images/2025/05/event_image_05_01_14.png",
+          "images/2025/05/event_image_05_01_15.png",
+          "images/2025/05/event_image_05_01_16.png",
+          "images/2025/05/event_image_05_01_17.png",
+          "images/2025/05/event_image_05_01_18.png",
+          "images/2025/05/event_image_05_01_19.png",
+          "images/2025/05/event_image_05_01_20.png",
+          "images/2025/05/event_image_05_01_21.png"
         ]
       },
       {
@@ -1816,17 +1827,15 @@
           "images/2025/05/event_image_05_02_05.png",
           "images/2025/05/event_image_05_02_06.png",
           "images/2025/05/event_image_05_02_07.png",
-          "images/2025/05/event_image_05_02_08.png",
-          "images/2025/05/event_image_05_02_09.png",
-          "images/2025/05/event_image_05_02_10.png"
+          "images/2025/05/event_image_05_02_08.png"
         ]
       },
       {
         "day": 3,
         "event": "광고 방송 뤼튼 크랙 AI",
-        "quote": "",
+        "quote": "삼행시 던전 | 브레이브 30",
         "image": "images/2025/05/event_image_05_03.png",
-        "youtubeLink": "https://www.youtube.com/embed/j0yx16uzpf4",
+        "youtubeLink": "https://www.youtube.com/embed/vneWSlJduYQ",
         "additionalImages": [
           "images/2025/05/event_image_05_03_01.png",
           "images/2025/05/event_image_05_03_02.png",
@@ -1837,8 +1846,22 @@
           "images/2025/05/event_image_05_03_07.png",
           "images/2025/05/event_image_05_03_08.png",
           "images/2025/05/event_image_05_03_09.png",
-          "images/2025/05/event_image_05_03_10.png"
+          "images/2025/05/event_image_05_03_10.png",
+          "images/2025/05/event_image_05_03_11.png",
+          "images/2025/05/event_image_05_03_12.png",
+          "images/2025/05/event_image_05_03_13.png",
+          "images/2025/05/event_image_05_03_14.png",
+          "images/2025/05/event_image_05_03_15.png",
+          "images/2025/05/event_image_05_03_16.png",
+          "images/2025/05/event_image_05_03_17.png",
+          "images/2025/05/event_image_05_03_18.png"
         ]
+      },
+      {
+        "day": 4,
+        "holiday": "휴방",
+        "quote": "오늘은 말했다싶이 휴방입니당~!!\n\n여러분\n\n잘 쉬고 만나용~!!\n\n리코는 일 하구 있어!!💚",
+        "image": "images/holiday_image.png"
       }
     ]
   }
