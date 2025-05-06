@@ -1818,7 +1818,7 @@
         "event": "스텔 마크 돈벌자!",
         "quote": "스텔 마크 & 오버워치 레벨올리기",
         "image": "images/2025/05/event_image_05_02.png",
-        "youtubeLink": "https://www.youtube.com/embed/j0yx16uzpf4",
+        "youtubeLink": "https://www.youtube.com/embed/71jISGihB8Q",
         "additionalImages": [
           "images/2025/05/event_image_05_02_01.png",
           "images/2025/05/event_image_05_02_02.png",
@@ -1861,6 +1861,41 @@
         "day": 4,
         "holiday": "휴방",
         "quote": "오늘은 말했다싶이 휴방입니당~!!\n\n여러분\n\n잘 쉬고 만나용~!!\n\n리코는 일 하구 있어!!💚",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 5,
+        "event": "스텔라이브 9인의  Tell Your World (Livetune) 커버곡",
+        "quote": "어린이날 아가 리코의 미니 노래방 & Tell Your World 커버곡 공개",
+        "image": "images/2025/05/event_image_05_04.webp",
+        "youtubeLink": "https://www.youtube.com/embed/20mp81YJRd0",
+        "additionalImages": [
+          "images/2025/05/event_image_05_04_01.png",
+          "images/2025/05/event_image_05_04_02.png",
+          "images/2025/05/event_image_05_04_03.png",
+          "images/2025/05/event_image_05_04_04.png",
+          "images/2025/05/event_image_05_04_05.png",
+          "images/2025/05/event_image_05_04_06.png",
+          "images/2025/05/event_image_05_04_07.png",
+          "images/2025/05/event_image_05_04_08.png",
+          "images/2025/05/event_image_05_04_09.png",
+          "images/2025/05/event_image_05_04_10.png",
+          "images/2025/05/event_image_05_04_11.png",
+          "images/2025/05/event_image_05_04_12.png",
+          "images/2025/05/event_image_05_04_13.png",
+          "images/2025/05/event_image_05_04_14.png",
+          "images/2025/05/event_image_05_04_15.png",
+          "images/2025/05/event_image_05_04_16.png",
+          "images/2025/05/event_image_05_04_17.png",
+          "images/2025/05/event_image_05_04_18.png",
+          "images/2025/05/event_image_05_04_19.png",
+          "images/2025/05/event_image_05_04_20.png"
+        ]
+      },
+      {
+        "day": 6,
+        "holiday": "휴방",
+        "quote": "오늘 리코는 휴방이에요!!\n\n​\n\n해야되는걸 오늘 최대한 해볼까 싶어서요!!!\n\n목도 아낄겸 히히\n\n​\n\n대신 치코 넘넘 보고싶으니까\n\n저녁에 스페할게요!!\n\n​\n\n내일은 리코가 게임을 하나 가져올건뎅\n\n무려무려....\n\n​\n\n​\n\n​\n\n​\n\n​\n\n다말해 줬다 그치?!\n\nㅋㅋㅋㅋㅋㅋㅋㅋ\n\n치코 사랑해",
         "image": "images/holiday_image.png"
       }
     ]
