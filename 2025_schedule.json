@@ -1897,6 +1897,45 @@
         "holiday": "휴방",
         "quote": "오늘 리코는 휴방이에요!!\n\n​\n\n해야되는걸 오늘 최대한 해볼까 싶어서요!!!\n\n목도 아낄겸 히히\n\n​\n\n대신 치코 넘넘 보고싶으니까\n\n저녁에 스페할게요!!\n\n​\n\n내일은 리코가 게임을 하나 가져올건뎅\n\n무려무려....\n\n​\n\n​\n\n​\n\n​\n\n​\n\n다말해 줬다 그치?!\n\nㅋㅋㅋㅋㅋㅋㅋㅋ\n\n치코 사랑해",
         "image": "images/holiday_image.png"
+      },
+      {
+        "day": 7,
+        "event": "아오오니 블루베리 온천의 괴이 플레이",
+        "quote": "해피엔딩 & 아이엔딩 해금!",
+        "image": "images/2025/05/event_image_05_05.png",
+        "youtubeLink": "https://www.youtube.com/embed/20mp81YJRd0",
+        "additionalImages": [
+          "images/2025/05/event_image_05_05_01.png",
+          "images/2025/05/event_image_05_05_02.png",
+          "images/2025/05/event_image_05_05_03.png",
+          "images/2025/05/event_image_05_05_04.png",
+          "images/2025/05/event_image_05_05_05.png",
+          "images/2025/05/event_image_05_05_06.png",
+          "images/2025/05/event_image_05_05_07.png",
+          "images/2025/05/event_image_05_05_08.png",
+          "images/2025/05/event_image_05_05_09.png",
+          "images/2025/05/event_image_05_05_10.png",
+          "images/2025/05/event_image_05_05_11.png",
+          "images/2025/05/event_image_05_05_12.png",
+          "images/2025/05/event_image_05_05_13.png",
+          "images/2025/05/event_image_05_05_14.png",
+          "images/2025/05/event_image_05_05_15.png",
+          "images/2025/05/event_image_05_05_16.png",
+          "images/2025/05/event_image_05_05_17.png",
+          "images/2025/05/event_image_05_05_18.png",
+          "images/2025/05/event_image_05_05_19.png",
+          "images/2025/05/event_image_05_05_20.png"
+        ]
+      },
+      {
+        "day": 9,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
+      },
+      {
+        "day": 12,
+        "holiday": "휴방",
+        "image": "images/holiday_image.png"
       }
     ]
   }
