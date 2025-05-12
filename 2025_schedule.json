@@ -1920,21 +1920,93 @@
           "images/2025/05/event_image_05_05_13.png",
           "images/2025/05/event_image_05_05_14.png",
           "images/2025/05/event_image_05_05_15.png",
-          "images/2025/05/event_image_05_05_16.png",
-          "images/2025/05/event_image_05_05_17.png",
-          "images/2025/05/event_image_05_05_18.png",
-          "images/2025/05/event_image_05_05_19.png",
-          "images/2025/05/event_image_05_05_20.png"
+          "images/2025/05/event_image_05_05_16.png"
+        ]
+      },
+      {
+        "day": 8,
+        "event": "스텔 팬게임 데모 버전 맛보기! l 후열 마끼끼",
+        "quote": "스텔 마크 & 팬게임",
+        "image": "images/2025/05/event_image_05_06.png",
+        "youtubeLink": "https://www.youtube.com/embed/XYWJ3SUcTuU",
+        "additionalImages": [
+          "images/2025/05/event_image_05_06_01.png",
+          "images/2025/05/event_image_05_06_02.png",
+          "images/2025/05/event_image_05_06_03.png",
+          "images/2025/05/event_image_05_06_04.png",
+          "images/2025/05/event_image_05_06_05.png",
+          "images/2025/05/event_image_05_06_06.png",
+          "images/2025/05/event_image_05_06_07.png",
+          "images/2025/05/event_image_05_06_08.png",
+          "images/2025/05/event_image_05_06_09.png",
+          "images/2025/05/event_image_05_06_10.png",
+          "images/2025/05/event_image_05_06_11.png"
         ]
       },
       {
         "day": 9,
         "holiday": "휴방",
+        "quote": "오늘른 휴방입니다~!!\n\n회의도 하구 일도 하면서\n\n​\n\n비오는데 축 처지는거 털어내고\n\n잘 지내보겠어!!!\n\n치코도 잘 보내구 망낭💚\n\n​\n\n​\n\n​\n\n​\n\n라고 써놔ㅛ는데...올린줄 알랗어... 미앙....ㅠㅠㅠㅠㅠ\n",
         "image": "images/holiday_image.png"
+      },
+      {
+        "day": 10,
+        "event": "용사랑 봄빛데이트🌸",
+        "quote": "전직 용사가 하는 코어 키퍼! ㅣ클리셰 합방 1일차",
+        "image": "images/2025/05/event_image_05_07.png",
+        "youtubeLink": "https://www.youtube.com/embed/yg5Y9QdFKQ8",
+        "youtubeLinks": [
+          "https://www.youtube.com/embed/yg5Y9QdFKQ8",
+          "https://www.youtube.com/embed/PR9BZMinwnk"
+        ],
+        "additionalImages": [
+          "images/2025/05/event_image_05_07_01.png",
+          "images/2025/05/event_image_05_07_02.png",
+          "images/2025/05/event_image_05_07_03.png",
+          "images/2025/05/event_image_05_07_04.png",
+          "images/2025/05/event_image_05_07_05.png",
+          "images/2025/05/event_image_05_07_06.png",
+          "images/2025/05/event_image_05_07_07.png",
+          "images/2025/05/event_image_05_07_08.png",
+          "images/2025/05/event_image_05_07_09.png",
+          "images/2025/05/event_image_05_07_10.png",
+          "images/2025/05/event_image_05_07_11.png",
+          "images/2025/05/event_image_05_07_12.png",
+          "images/2025/05/event_image_05_07_13.png",
+          "images/2025/05/event_image_05_07_14.png",
+          "images/2025/05/event_image_05_07_15.png",
+          "images/2025/05/event_image_05_07_16.png",
+          "images/2025/05/event_image_05_07_17.png",
+          "images/2025/05/event_image_05_07_18.png",
+          "images/2025/05/event_image_05_07_19.png",
+          "images/2025/05/event_image_05_07_20.png"
+        ]
+      },
+      {
+        "day": 11,
+        "event": "오늘은 흑마법사가 되고 말거야ㅣ클리셰 합방 2일차",
+        "quote": "클리셰 코어키퍼 합방",
+        "image": "images/2025/05/event_image_05_08.png",
+        "youtubeLink": "https://www.youtube.com/embed/Yj6jNfbWxS0",
+        "additionalImages": [
+          "images/2025/05/event_image_05_08_01.png",
+          "images/2025/05/event_image_05_08_02.png",
+          "images/2025/05/event_image_05_08_03.png",
+          "images/2025/05/event_image_05_08_04.png",
+          "images/2025/05/event_image_05_08_05.png",
+          "images/2025/05/event_image_05_08_06.png",
+          "images/2025/05/event_image_05_08_07.png",
+          "images/2025/05/event_image_05_08_08.png",
+          "images/2025/05/event_image_05_08_09.png",
+          "images/2025/05/event_image_05_08_10.png",
+          "images/2025/05/event_image_05_08_11.png",
+          "images/2025/05/event_image_05_08_12.png"
+        ]
       },
       {
         "day": 12,
         "holiday": "휴방",
+        "quote": "잘 쉬구 올게엥\n\n\n\n헤헤 치코 사랑해\n\n\n\n\n💚",
         "image": "images/holiday_image.png"
       }
     ]
