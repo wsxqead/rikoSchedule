@@ -2010,14 +2010,68 @@
         "image": "images/holiday_image.png"
       },
       {
+        "day": 13,
+        "event": "무수히 많은 악수 요청, 용사의 터널 탐사 ㅣ 후열 무반주 마끼끼",
+        "quote": "Parasite Tunnel",
+        "image": "images/2025/05/event_image_05_09.png",
+        "youtubeLink": "https://www.youtube.com/embed/PXNxqDa5sKw",
+        "additionalImages": [
+          "images/2025/05/event_image_05_09_01.png",
+          "images/2025/05/event_image_05_09_02.png",
+          "images/2025/05/event_image_05_09_03.png",
+          "images/2025/05/event_image_05_09_04.png",
+          "images/2025/05/event_image_05_09_05.png",
+          "images/2025/05/event_image_05_09_06.png",
+          "images/2025/05/event_image_05_09_07.png",
+          "images/2025/05/event_image_05_09_08.png",
+          "images/2025/05/event_image_05_09_09.png",
+          "images/2025/05/event_image_05_09_10.png"
+        ]
+      },
+      {
         "day": 14,
         "holiday": "휴방",
         "image": "images/holiday_image.png"
       },
       {
+        "day": 15,
+        "event": "봄빛 데이트 후기 보기 l 챗 GPT랑 함께하는 스텔 마크!!",
+        "quote": "스텔 마크 치코 만들기!",
+        "image": "images/2025/05/event_image_05_10.png",
+        "youtubeLink": "https://www.youtube.com/embed/ja2xBFqp-Bw",
+        "additionalImages": [
+          "images/2025/05/event_image_05_10_01.png",
+          "images/2025/05/event_image_05_10_02.png",
+          "images/2025/05/event_image_05_10_03.png",
+          "images/2025/05/event_image_05_10_04.png",
+          "images/2025/05/event_image_05_10_05.png",
+          "images/2025/05/event_image_05_10_06.png",
+          "images/2025/05/event_image_05_10_07.png",
+          "images/2025/05/event_image_05_10_08.png",
+          "images/2025/05/event_image_05_10_09.png",
+          "images/2025/05/event_image_05_10_10.png"
+        ]
+      },
+      {
         "day": 16,
-        "holiday": "휴방",
-        "image": "images/holiday_image.png"
+        "event": "휴방이였지만 발로내전!",
+        "quote": "비몽사몽 발로란트",
+        "image": "images/2025/05/event_image_05_11.png",
+        "youtubeLink": "https://www.youtube.com/embed/ja2xBFqp-Bw",
+        "additionalImages": [
+          "images/2025/05/event_image_05_11_01.png",
+          "images/2025/05/event_image_05_11_02.png",
+          "images/2025/05/event_image_05_11_03.png",
+          "images/2025/05/event_image_05_11_04.png",
+          "images/2025/05/event_image_05_11_05.png",
+          "images/2025/05/event_image_05_11_06.png",
+          "images/2025/05/event_image_05_11_07.png",
+          "images/2025/05/event_image_05_11_08.png",
+          "images/2025/05/event_image_05_11_09.png",
+          "images/2025/05/event_image_05_11_10.png",
+          "images/2025/05/event_image_05_11_11.png",
+          "images/2025/05/event_image_05_11_12.png"
+        ]
       }
     ]
   }
