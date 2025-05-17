@@ -2072,6 +2072,24 @@
           "images/2025/05/event_image_05_11_11.png",
           "images/2025/05/event_image_05_11_12.png"
         ]
+      },
+      {
+        "day": 17,
+        "event": "빨래방 시뮬레이터 이번에는 성공한 사업?",
+        "quote": "빨래방 시뮬레이터",
+        "image": "images/2025/05/event_image_05_12.png",
+        "youtubeLink": "https://www.youtube.com/embed/Bxa3m8hVaIo",
+        "additionalImages": [
+          "images/2025/05/event_image_05_12_01.png",
+          "images/2025/05/event_image_05_12_02.png",
+          "images/2025/05/event_image_05_12_03.png",
+          "images/2025/05/event_image_05_12_04.png",
+          "images/2025/05/event_image_05_12_05.png",
+          "images/2025/05/event_image_05_12_06.png",
+          "images/2025/05/event_image_05_12_07.png",
+          "images/2025/05/event_image_05_12_08.png",
+          "images/2025/05/event_image_05_12_09.png"
+        ]
       }
     ]
   }
