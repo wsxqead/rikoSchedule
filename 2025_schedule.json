@@ -2100,6 +2100,26 @@
           "images/2025/05/event_image_05_12_08.png",
           "images/2025/05/event_image_05_12_09.png"
         ]
+      },
+      {
+        "day": 18,
+        "event": "클리셰 1주년 기념 컨텐츠 수학여행편",
+        "quote": "클리셰 단체 커버곡 언노운 마더구스 (アンノウン・マザーグース) / 클리셰 (Cliché) Cover",
+        "image": "images/2025/05/event_image_05_13.webp",
+        "youtubeLink": "https://www.youtube.com/embed/Bxa3m8hVaIo",
+        "additionalImages": [
+          "images/2025/05/event_image_05_13_01.png",
+          "images/2025/05/event_image_05_13_02.png",
+          "images/2025/05/event_image_05_13_03.png",
+          "images/2025/05/event_image_05_13_04.png",
+          "images/2025/05/event_image_05_13_05.png",
+          "images/2025/05/event_image_05_13_06.png",
+          "images/2025/05/event_image_05_13_07.png",
+          "images/2025/05/event_image_05_13_08.png",
+          "images/2025/05/event_image_05_13_09.png",
+          "images/2025/05/event_image_05_13_10.png",
+          "images/2025/05/event_image_05_13_11.png"
+        ]
       }
     ]
   }
